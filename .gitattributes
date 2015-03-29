@@ -1,0 +1,22 @@
+*	text=auto
+
+# Some information readable by humans and machines
+*.md	text
+*.meta	text
+*.txt	text
+
+# Various keyfile related extensions ...
+# X.509 certificate file
+*.crt	text
+# X.509 certificate signing request
+*.csr	text
+# Private Key file
+*.key	text
+# PEM-encoded information which are NOT key material
+*.pem	text
+# ASCII-armored key information
+*.pgp	text
+# SSH public key
+*.pub	text
+# SSH private key
+*.ssh	text
