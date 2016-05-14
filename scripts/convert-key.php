@@ -44,7 +44,7 @@ $n=$vars["n"];
 $p=$vars["p"];
 $q=$vars["q"];
 $e=$vars["e"];
-$d=$vars["d"];
+$d=isset($vars["d"]) ? $vars["d"] : 0;
 
 
 $gmp_n = gmp_init($n, 16);
@@ -52,6 +52,12 @@ $gmp_p = gmp_init($p, 16);
 $gmp_q = gmp_init($q, 16);
 $gmp_e = gmp_init($e, 16);
 $gmp_d = gmp_init($d, 16);
+
+if(0 == gmp_cmp($gmp_d, 0)) {
+    $gmp_p1 = gmp_sub($gmp_p, 1);
+    $gmp_q1 = gmp_sub($gmp_q, 1);
+    $gmp_d = gmp_invert($gmp_e, gmp_mul($gmp_p1, $gmp_q1));
+}
 
 if(gmp_cmp($gmp_p, $gmp_q) < 0) {
     $tmp = $gmp_p;
