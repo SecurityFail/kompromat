@@ -39,7 +39,7 @@ Metadata:
 
 Metadata is provided for each set of keys and should contain the following information as applicable:
 
-- The url= key providing a link from where this key might be obtained. Providing multiple entries is possible
+- The uri= key providing a link from where this key might be obtained. Providing multiple entries is possible
 - The vendor= key containing information about the affected vendor
 - The product= key describing the affected product
 - The applies_to= key if this .meta file describes multiple files
