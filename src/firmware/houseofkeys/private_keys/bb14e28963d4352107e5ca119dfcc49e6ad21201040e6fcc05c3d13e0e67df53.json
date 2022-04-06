@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "description": "Powerline",
+            "name": "XAU2511",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Powerline",
+            "name": "XAUB2511",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Range Extenders",
+            "name": "WN3500RP",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "N600 Dual-Band  - N600 Universal Dual-Band Wi-Fi Entertainment Bridge, for Smart TV, Blu-ray, Gaming & Music Streaming",
+            "name": "CV-7438nDM",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Wi-Fi Audio Extender",
+            "name": "DCH-M225 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "AC1200 Dual-Band Wireless Range Extender",
+            "name": "RE6500 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1200 AMPLIFY Dual-Band Wi-Fi Range Extender",
+            "name": "RE6700 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1200 Dual-Band Wireless Range Extender",
+            "name": "RE6500 (1.0)",
+            "vendor": "Linksys"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "VDSL/ADSL",
+            "name": "TD-W8910G V1",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "VDSL/ADSL",
+            "name": "TD-W8910GB V1",
+            "vendor": "TP-LINK"
+        }
+    ]
+}

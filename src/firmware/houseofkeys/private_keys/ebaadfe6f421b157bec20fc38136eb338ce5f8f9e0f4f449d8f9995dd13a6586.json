@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "Network Cameras  - Fast Ethernet Dual Mode",
+            "name": "IC-7000PT V2",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Indoor PTZ  - Wireless 802.11n Dual Mode",
+            "name": "IC-7000PTn V2",
+            "vendor": "Edimax"
+        }
+    ]
+}

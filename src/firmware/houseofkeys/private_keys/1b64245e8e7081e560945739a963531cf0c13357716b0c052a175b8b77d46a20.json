@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "description": "3G Mini Router m1",
+            "name": "3GM1Wn",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G/4G Wireless N150 Router",
+            "name": "3GM2WN",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G Mobile Wireless Router",
+            "name": "TEW-656BRG (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "3G Mobile Wireless Router",
+            "name": "TEW-716BRG (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "3G/4G Dual Band AC WiFi Router",
+            "name": "4GM3W",
+            "vendor": "NetComm Wireless"
+        }
+    ]
+}

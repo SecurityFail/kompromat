@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "WD My Book Live",
+            "vendor": "Western Digital"
+        },
+        {
+            "description": "",
+            "name": "My Cloud",
+            "vendor": "Western Digital"
+        },
+        {
+            "description": "",
+            "name": "My Cloud EX4",
+            "vendor": "Western Digital"
+        }
+    ]
+}

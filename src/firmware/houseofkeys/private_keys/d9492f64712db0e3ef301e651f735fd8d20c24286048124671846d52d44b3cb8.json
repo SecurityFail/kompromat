@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "ADSL2+ Broadband modem with VoIP Gateway",
+            "name": "NB9",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "ADSL2+ Wireless Modem Router VoIP Gateway",
+            "name": "NB9W",
+            "vendor": "NetComm Wireless"
+        }
+    ]
+}

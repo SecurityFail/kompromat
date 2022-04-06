@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "Wireless-N Router with ADSL2+ Modem",
+            "name": "X2000 (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Advanced Wireless-N ADSL+ Modem Router",
+            "name": "X3000 (1.0)",
+            "vendor": "Linksys"
+        }
+    ]
+}

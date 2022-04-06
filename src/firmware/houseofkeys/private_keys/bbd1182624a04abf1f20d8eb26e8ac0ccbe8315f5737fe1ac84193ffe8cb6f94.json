@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "description": "300Mbps Wireless N Ceiling Mount Access Point",
+            "name": "EAP110 V1",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "300Mbps Wireless N Gigabit Ceiling Mount Access Point",
+            "name": "EAP120 V1",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "N600 Wireless Gigabit Ceiling Mount Access Point",
+            "name": "EAP220 V1",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "N600 Wireless Gigabit Ceiling Mount Access Point",
+            "name": "EAP220 V1",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "300Mbps Wireless N Gigabit Ceiling Mount Access Point",
+            "name": "EAP120 V1",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "300Mbps Wireless N Ceiling Mount Access Point",
+            "name": "EAP110 V1",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "N600 Wireless Gigabit Ceiling Mount Access Point",
+            "name": "EAP220 V1",
+            "vendor": "TP-LINK"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "SBG3500-N000",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "SBG3500-NB00",
+            "vendor": "ZyXEL"
+        }
+    ]
+}

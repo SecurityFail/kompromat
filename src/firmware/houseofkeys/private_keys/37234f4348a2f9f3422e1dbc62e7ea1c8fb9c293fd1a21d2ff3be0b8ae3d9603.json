@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "N/A",
+            "name": "UR-305B",
+            "vendor": "UPVEL"
+        },
+        {
+            "description": "N/A",
+            "name": "UR-325BN-v1.0",
+            "vendor": "UPVEL"
+        },
+        {
+            "description": "N/A",
+            "name": "UR-315BN-v1.0",
+            "vendor": "UPVEL"
+        }
+    ]
+}

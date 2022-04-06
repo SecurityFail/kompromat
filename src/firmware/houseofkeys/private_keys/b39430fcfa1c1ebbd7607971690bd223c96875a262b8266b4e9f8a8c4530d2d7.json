@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "Q2000",
+            "vendor": "Actiontec"
+        },
+        {
+            "description": "",
+            "name": "Q1000",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "Movistar Home Station ADB P.DG_A4001N",
+            "vendor": "ADB"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "CLEAR Modem",
+            "vendor": "Clear"
+        },
+        {
+            "description": "",
+            "name": "CLEAR Modem Series M (CPEi725)",
+            "vendor": "Clear"
+        },
+        {
+            "description": "",
+            "name": " i775/i750/o450",
+            "vendor": "Motorola"
+        }
+    ]
+}

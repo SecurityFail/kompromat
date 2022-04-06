@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "N600 Dual-Band  - N600 Universal Dual-Band Wi-Fi Entertainment Bridge, for Smart TV, Blu-ray, Gaming & Music Streaming",
+            "name": "CV-7438nDM",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Wireless AC750 Range Extender",
+            "name": "WRE6505",
+            "vendor": "ZyXEL"
+        }
+    ]
+}

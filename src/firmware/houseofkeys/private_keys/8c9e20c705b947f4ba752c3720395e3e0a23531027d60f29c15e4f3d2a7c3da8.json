@@ -1,0 +1,54 @@
+{
+    "products": [
+        {
+            "description": "WiFi Routers",
+            "name": "R8000",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R6400",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNDR4500v2",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R6300v1",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "D6400",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R7900",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R6400",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "D6300",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "DGN2200v4",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R6400",
+            "vendor": "NETGEAR"
+        }
+    ]
+}

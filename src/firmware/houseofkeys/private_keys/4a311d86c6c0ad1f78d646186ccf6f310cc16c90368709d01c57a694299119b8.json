@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "Combo switch / serial device server",
+            "name": "NPort S8455/NPort S8458 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "Combo switch / serial device server",
+            "name": "NPort S8458 Series",
+            "vendor": "Moxa"
+        }
+    ]
+}

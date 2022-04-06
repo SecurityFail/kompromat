@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "description": "RangeBooster N Router",
+            "name": "DIR-625 C",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Xtreme N Gaming Router",
+            "name": "DGL-4500 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "RangeBooster N Dual Band Router",
+            "name": "DIR-628 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Xtreme N Gigabit Router",
+            "name": "DIR-655 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Xtreme N Duo Media Router",
+            "name": "DIR-855 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Xtreme N Dual Band Gigabit Router",
+            "name": "DIR-825 A",
+            "vendor": "D-Link"
+        }
+    ]
+}

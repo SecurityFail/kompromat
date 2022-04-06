@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "Wireless N300 Gigabit Cloud Router",
+            "name": "DIR-636L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless N750 Dual Band Gigabit Cloud Router",
+            "name": "DIR-836L A",
+            "vendor": "D-Link"
+        }
+    ]
+}

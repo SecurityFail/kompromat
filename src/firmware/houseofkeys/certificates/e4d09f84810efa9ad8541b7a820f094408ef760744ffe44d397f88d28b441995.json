@@ -1,0 +1,1669 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "PicoStation2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PicoStation2HP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "Bullet 2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "Bullet 2 HP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "LS2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "MiniStation2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NS2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NanoStation 2 Loco",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PowerStation 2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "Bullet 5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "LS5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NS5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NanoStation 5 Loco",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PicoStation5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PowerStation 5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "WispStation5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "TS-16-CARRIER",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "TS-5-POE",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "TS-8-PRO",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-2G16",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-5G23",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-5G27",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AR",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AR-HP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AirGrid M2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AirGrid M5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "BM2-Ti",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "BM2HP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "BM5-Ti",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "BM5HP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "LiteStation M5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M365",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M900",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NB-2G18",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NB-5G25",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBM3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBM365",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBM9",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM365",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBM10",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBM3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBM365",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "Power AP N",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "locoM2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "locoM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "locoM9",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-2G16",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-5G23",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-5G27",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AR",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AR-HP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AirGrid M2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AirGrid M5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "BM2-Ti",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "BM2HP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "BM5-Ti",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "BM5HP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "LiteStation M5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M365",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M900",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NB-2G18",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NB-5G25",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBM3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBM365",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBM9",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM365",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBM10",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBM3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "Power AP N",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "locoM2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "locoM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "locoM9",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "RM2-Ti",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "RM5-Ti",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-5G23",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-5G27",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBE-M5-16",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBE-M5-19",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-M2-400",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-M5-300",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-M5-400",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "RM5-Ti",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "locoM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "Router",
+            "name": "AirRouter",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBE-5AC-19",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-5AC-500",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-5AC-620",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "R5AC-Lite",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "R5AC-PTMP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "R5AC-PTP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AF24",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AF24HD",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AF5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AF5U",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "airGateway",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "airGateway PRO",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "airGateway-LR",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AF-2X",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AF-3X",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AF-5X",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBE-5AC-19",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-5AC-500",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-5AC-620",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "R5AC-Lite",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "R5AC-PTMP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "R5AC-PTP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "Router",
+            "name": "AirRouter",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBE-5AC-19",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-5AC-500",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-5AC-620",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "R5AC-Lite",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "R5AC-PTMP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "R5AC-PTP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "TS-16-CARRIER",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "TS-5-POE",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "TS-8-PRO",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-2G16",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-2G20",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-5G23",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-5G27",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AR",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AR-HP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AirGrid M",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AirGrid M2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AirGrid M5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "BM2-Ti",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "BM2HP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "BM5-Ti",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "BM5HP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "LiteStation M5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M365",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M900",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NB-2G18",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NB-5G22",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NB-5G25",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBM3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBM365",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBM9",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM365",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBM10",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBM3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBM365",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PICOM2HP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "Power AP N",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "locoM2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "locoM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "locoM9",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-5G23",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-5G27",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "LBE-M5-23",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBE-M2-13",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBE-M5-16",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBE-M5-19",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-M2-400",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-M5-300",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-M5-400",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-M5-620",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "RM2-Ti",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "RM5-Ti",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "locoM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AF24",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AF24HD",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AF5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AF5U",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AF-5X",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-2G16",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-5G23",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-5G27",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AR",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AR-HP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AirGrid M2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AirGrid M5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "BM2-Ti",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "BM2HP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "BM5-Ti",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "BM5HP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "LiteStation M5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M365",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M900",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NB-2G18",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NB-5G25",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBM3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBM365",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBM9",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NS2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM365",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBM10",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBM3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "Power AP N",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "locoM2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "locoM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "locoM9",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PicoStation2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PicoStation2HP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-2G16",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-2G20",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-5G23",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-5G27",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AirGrid M",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AirGrid M2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AirGrid M5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M365",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M900",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBE-M2-13",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBE-M5-16",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBE-M5-19",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM365",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBM3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBM365",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "RM2-Ti",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "RM5-Ti",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "locoM2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "locoM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "locoM9",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "Bullet 2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "Bullet 2 HP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "LS2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "MiniStation2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NS2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NanoStation 2 Loco",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PowerStation 2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "Bullet 5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "LS5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NS5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NanoStation 5 Loco",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PicoStation5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PowerStation 5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "WispStation5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "airGateway",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "airGateway-LR",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "airGateway PRO",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBE-5AC-19",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-5AC-500",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-5AC-620",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "R5AC-Lite",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "R5AC-PTMP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "R5AC-PTP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-2G16",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-2G20",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-5G23",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-5G27",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AirGrid M",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AirGrid M2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AirGrid M5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "BM2-Ti",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "BM2HP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "BM5-Ti",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "BM5HP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "LiteStation M5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M365",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M900",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NB-2G18",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NB-5G22",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NB-5G25",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBM3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBM365",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBM9",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM365",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBM10",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBM3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBM365",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PICOM2HP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "Power AP N",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "locoM2",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "locoM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "locoM9",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-5G23",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "AG-HP-5G27",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "LBE-M5-23",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "M5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBE-M2-13",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBE-M5-16",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBE-M5-19",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NSM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-M2-400",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-M5-300",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-M5-300-ISO",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-M5-400",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-M5-400-ISO",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-M5-620",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "RM2-Ti",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "RM5-Ti",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "locoM5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "NBE-5AC-16",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-5AC-300",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-5AC-300-ISO",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-5AC-400",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "PBE-5AC-400-ISO",
+            "vendor": "Ubiquiti Networks"
+        }
+    ]
+}

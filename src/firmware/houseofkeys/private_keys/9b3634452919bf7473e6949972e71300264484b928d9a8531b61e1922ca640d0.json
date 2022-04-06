@@ -1,0 +1,69 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "C1000Z",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "FR1000Z",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "P8702N",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Home",
+            "name": "VMG4380-B10A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Wireless N VDSL2 VoIP Combo WAN Gigabit IAD",
+            "name": "VMG8324-B10A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Wireless N VDSL2 4-port Gateway with USB",
+            "name": "VMG1312-B30A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Wireless N VDSL2 Bonding Combo WAN Gigabit Gateway",
+            "name": "VMG4325-B10A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Dual Band Wireless AC/N VDSL2 VoIP Combo WAN Gigabit IAD",
+            "name": "VMG8924-B10A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Wireless N VDSL2 Bonding Combo WAN Gigabit Gateway",
+            "name": "VMG4325-B10A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Dual Band Wireless AC/N VDSL2 VoIP Combo WAN Gigabit IAD",
+            "name": "VMG8924-B30A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "VG-8050",
+            "vendor": "Comtrend"
+        },
+        {
+            "description": "",
+            "name": "VG-8050",
+            "vendor": "Comtrend"
+        },
+        {
+            "description": "",
+            "name": "VG-8050",
+            "vendor": "Comtrend"
+        }
+    ]
+}

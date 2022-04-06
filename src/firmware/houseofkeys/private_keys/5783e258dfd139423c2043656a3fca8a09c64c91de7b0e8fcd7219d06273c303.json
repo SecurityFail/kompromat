@@ -1,0 +1,154 @@
+{
+    "products": [
+        {
+            "description": "LTE WiFi Router",
+            "name": "4G100W",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "4G LTE Light Industrial M2M Router",
+            "name": "NWL-25",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G WiFi Router with Voice",
+            "name": "3G22WV",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "M2M CDMA Router",
+            "name": "NWL-11",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "Light Industrial M2M Router Plus",
+            "name": "NWL-15",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G M2M Router Plus",
+            "name": "NTC-6200-01",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G M2M Router Plus",
+            "name": "NTC-6200-11",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G M2M Router Plus",
+            "name": "NTC-6200-12",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G M2M Router",
+            "name": "NTC-6200-03",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G M2M Router",
+            "name": "NTC-6200-13",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "M2M",
+            "name": "MachineLink 3G",
+            "vendor": "Vodafone"
+        },
+        {
+            "description": "",
+            "name": "MachineLink 3G Plus",
+            "vendor": "Vodafone"
+        },
+        {
+            "description": "4G WiFi M2M Router",
+            "name": "NTC-140W",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G M2M Router Plus",
+            "name": "NTC-6200-02",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "M2M Router",
+            "name": "NTC-6520",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "M2M Router",
+            "name": "NTC-6908",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "Outdoor HSPA+ WiFi Router",
+            "name": "NTC-30WV",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G Marine Outdoor WiFi Router",
+            "name": "NTC-30WV-02",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "HSPA+ M2M WiFi Router",
+            "name": "NTC-40WV",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "4G WiFi M2M Router",
+            "name": "NTC-140W",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "M2M Router",
+            "name": "NTC-6520",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "M2M Router",
+            "name": "NTC-6908",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "Outdoor HSPA+ WiFi Router",
+            "name": "NTC-30WV",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G Marine Outdoor WiFi Router",
+            "name": "NTC-30WV-02",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G M2M Router Plus",
+            "name": "NTC-6200-02",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "HSPA+ M2M WiFi Router",
+            "name": "NTC-40WV",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G M2M Router Plus",
+            "name": "NTC-6200-12",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G M2M Router",
+            "name": "NTC-6200-13",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G M2M Router Plus",
+            "name": "NTC-6200-02",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "4G WiFi M2M Router",
+            "name": "NTC-140W",
+            "vendor": "NetComm Wireless"
+        }
+    ]
+}

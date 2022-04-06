@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "D3600",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "D6000",
+            "vendor": "NETGEAR"
+        }
+    ]
+}

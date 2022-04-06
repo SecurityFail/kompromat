@@ -1,0 +1,49 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "ER-X",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "ER-X-SFP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "ERLite-3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "ERPoe-5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "ER-8",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "ERPro-8",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "ER-X",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "ER-X-SFP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "ER-X-SFP",
+            "vendor": "Ubiquiti Networks"
+        }
+    ]
+}

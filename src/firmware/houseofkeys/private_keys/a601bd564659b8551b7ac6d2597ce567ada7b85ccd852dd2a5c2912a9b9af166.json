@@ -1,0 +1,9 @@
+{
+    "products": [
+        {
+            "description": "8-port Managed Ethernet Switches (phase-out products)",
+            "name": "EDS-508",
+            "vendor": "Moxa"
+        }
+    ]
+}

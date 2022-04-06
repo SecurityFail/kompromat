@@ -1,0 +1,79 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "WIP310 Wireless-G IP Phone",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "WRP400 Wireless-G Broadband Router with 2 Phone Ports",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "Small Business SRP520 Models",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "Small Business SRP520-U Models",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "WRP500 Wireless-AC Broadband Router with 2 Phone Ports",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SPA112 2-Port Phone Adapter",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SPA122 ATA with Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SPA512G 1-Line GigE IP Phone",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SPA514G 4-Line GigE IP Phone",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SPA112 2-Port Phone Adapter",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SPA122 ATA with Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SPA302D Multi-Line DECT Handset",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SPA525G 5-line IP Phone with Color Display",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SPA512G 1-Line GigE IP Phone",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SPA514G 4-Line GigE IP Phone",
+            "vendor": "Cisco"
+        }
+    ]
+}

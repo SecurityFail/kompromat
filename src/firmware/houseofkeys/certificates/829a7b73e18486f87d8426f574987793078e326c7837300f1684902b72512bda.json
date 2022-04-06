@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "description": "N300 Wireless Home Router",
+            "name": "TEW-731BR (v2.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "N150 Wireless Home Router",
+            "name": "TEW-711BR (v2.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "AC1200 Dual Band Wireless Router",
+            "name": "TEW-813DRU (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "AC1200 Dual Band Wireless Router",
+            "name": "TEW-813DRU (v1.0R)",
+            "vendor": "TRENDnet"
+        }
+    ]
+}

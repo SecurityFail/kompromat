@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "AR-5381u",
+            "vendor": "Comtrend"
+        },
+        {
+            "description": "",
+            "name": "VR-3025u",
+            "vendor": "Comtrend"
+        },
+        {
+            "description": "",
+            "name": "VR-3025un",
+            "vendor": "Comtrend"
+        },
+        {
+            "description": "VDSL/ADSL",
+            "name": "TD-W8950ND V2",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "VDSL/ADSL",
+            "name": "TD-W8960N V4",
+            "vendor": "TP-LINK"
+        }
+    ]
+}

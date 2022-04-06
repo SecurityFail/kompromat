@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "Business Wireless Access Points",
+            "name": "WNAP210",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Business Wireless Access Points",
+            "name": "WNAP210v2",
+            "vendor": "NETGEAR"
+        }
+    ]
+}

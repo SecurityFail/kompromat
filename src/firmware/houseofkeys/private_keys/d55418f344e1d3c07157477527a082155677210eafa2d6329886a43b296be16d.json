@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "WiFi Routers",
+            "name": "R7500",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R7500",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R7500",
+            "vendor": "NETGEAR"
+        }
+    ]
+}

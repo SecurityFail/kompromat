@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "VSG1435-B101",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "802.11n Wireless ADSL2+ Gateway",
+            "name": "P-660HN-51",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "802.11n Wireless VDSL2 4-port Gateway",
+            "name": "P-870HN-51D",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "802.11n Wireless ADSL2+ Gateway",
+            "name": "P-660HN-51",
+            "vendor": "ZyXEL"
+        }
+    ]
+}

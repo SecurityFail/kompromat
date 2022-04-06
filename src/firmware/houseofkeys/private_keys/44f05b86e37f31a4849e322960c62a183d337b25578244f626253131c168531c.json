@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "VigorAP 810",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "",
+            "name": "VigorAP 710",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "",
+            "name": "VigorAP 810",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "",
+            "name": "VigorAP 710",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "",
+            "name": "VigorFly 210",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "",
+            "name": "VigorAP 910C",
+            "vendor": "DrayTek"
+        }
+    ]
+}

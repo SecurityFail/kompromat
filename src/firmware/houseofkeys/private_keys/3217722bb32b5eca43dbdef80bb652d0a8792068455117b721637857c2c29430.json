@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "description": "12-port GbE L2 Switch/24-port FE L2 Switch",
+            "name": "MGS-3712",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "VES-1616PE-54",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "12-port GbE L2 Switch/24-port FE L2 Switch",
+            "name": "MGS-3712",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "24/48-port GbE L3 Switch with 10GbE Uplink",
+            "name": "XGS4700-48F",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "8-port GbE L2 Switch with Four GbE Uplink Ports",
+            "name": "MGS-3712F",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "8-port/24-port FE L2 Switch with Two/Four GbE Combo Ports",
+            "name": "MES3500-24",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "48-port 10GbE Top-of-rack Switch with 40GbE Uplink",
+            "name": "XS3900-48F",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "24-port 10GbE L2+ Switch",
+            "name": "XS3700-24",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "24/48-port GbE L2+ Switch",
+            "name": "XGS3700-48",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "24/48-port GbE L2+ Switch",
+            "name": "GS3700-48",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "8/24-port FE L2 Switch with GbE Uplink",
+            "name": "ES3500-8PD",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "8/24-port FE L2 Switch with GbE Uplink",
+            "name": "ES3500-24",
+            "vendor": "ZyXEL"
+        }
+    ]
+}

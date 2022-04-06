@@ -1,0 +1,109 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "WE-2100T",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "NPort W2150/2250 Plus",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "OnCell G3110-HSDPA/OnCell G3150-HSDPA",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "OnCell 5004/OnCell 5104",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "Industrial five-band GSM/GPRS/EDGE/UMTS/HSPA cellular routers",
+            "name": "OnCell 5004-HSPA/OnCell 5104-HSPA",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "OnCell 5004-HSDPA/OnCell 5104-HSDPA",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "Advanced quad-band GSM/GPRS/EDGE IP gateways",
+            "name": "OnCell G3110/OnCell G3150",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "Compact quad-band GSM/GPRS IP gateways",
+            "name": "OnCell G3111/OnCell G3151/OnCell G3211/OnCell G3251",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "Advanced five-band GSM/GPRS/EDGE/UMTS/HSPA IP gateways",
+            "name": "OnCell G3110-HSPA/OnCell G3150-HSPA",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "1-port RS-232/422/485 secure terminal server",
+            "name": "NPort 6150 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "2-port RS-232/422/485 secure terminal servers",
+            "name": "NPort 6250 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "4-port RS-232/422/485 secure terminal server",
+            "name": "NPort 6450 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "8, 16, and 32-port RS-232/422/485 rackmount terminal servers",
+            "name": "NPort 6610/NPort 6650 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "Compact five-band GSM/GPRS/EDGE/UMTS/HSPA IP gateways",
+            "name": "OnCell G3111-HSPA/OnCell G3151-HSPA",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "Industrial five-band GSM/GPRS/EDGE/UMTS/HSPA cellular routers",
+            "name": "OnCell 5004-HSPA/OnCell 5104-HSPA",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "Advanced five-band GSM/GPRS/EDGE/UMTS/HSPA IP gateways",
+            "name": "OnCell G3110-HSPA/OnCell G3150-HSPA",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "Compact five-band GSM/GPRS/EDGE/UMTS/HSPA IP gateways",
+            "name": "OnCell G3111-HSPA/OnCell G3151-HSPA",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "1-port RS-232/422/485 secure terminal server",
+            "name": "NPort 6150 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "2-port RS-232/422/485 secure terminal servers",
+            "name": "NPort 6250 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "4-port RS-232/422/485 secure terminal server",
+            "name": "NPort 6450 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "8, 16, and 32-port RS-232/422/485 rackmount terminal servers",
+            "name": "NPort 6610/NPort 6650 Series",
+            "vendor": "Moxa"
+        }
+    ]
+}

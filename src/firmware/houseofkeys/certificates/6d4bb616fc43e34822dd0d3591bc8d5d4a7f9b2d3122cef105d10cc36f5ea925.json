@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "PowerLine AV Wireless N Extender",
+            "name": "DHP-W306AV A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless N300 Pocket Router & Access Point",
+            "name": "DAP-1350 A",
+            "vendor": "D-Link"
+        }
+    ]
+}

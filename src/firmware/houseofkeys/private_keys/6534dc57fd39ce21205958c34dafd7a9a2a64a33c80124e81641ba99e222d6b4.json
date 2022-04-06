@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "GS2200-8HP",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "GS2200-8",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "8/24-port FE L2 Switch with GbE Uplink",
+            "name": "ES3500-8PD",
+            "vendor": "ZyXEL"
+        }
+    ]
+}

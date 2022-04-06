@@ -1,0 +1,74 @@
+{
+    "products": [
+        {
+            "description": "WiMAX CPE",
+            "name": "FMM-130",
+            "vendor": "Mobinet (Iran) CPE"
+        },
+        {
+            "description": "WiFi Router Gateway",
+            "name": "DV-235T",
+            "vendor": "Green Packet"
+        },
+        {
+            "description": "",
+            "name": "DX-350",
+            "vendor": "Green Packet"
+        },
+        {
+            "description": "",
+            "name": "OX-330P",
+            "vendor": "ZTE"
+        },
+        {
+            "description": "",
+            "name": "EX-230, EX-250",
+            "vendor": "Green Packet"
+        },
+        {
+            "description": "",
+            "name": "MAX208M",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "MAX208M2W",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "MAX218M2W",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "MAX308M",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "MAX218M",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "MAX218M1W",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "MAX218MW",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "BM623m",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "",
+            "name": "SWC-9200",
+            "vendor": "Seowon Intech"
+        }
+    ]
+}

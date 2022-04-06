@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "description": "N300 Wireless Router",
+            "name": "E1500 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N300 Wireless Router",
+            "name": "E900 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N300 Wireless Router",
+            "name": "E1200 (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N300 Wireless Router",
+            "name": "E1200 (2.2)",
+            "vendor": "Linksys"
+        }
+    ]
+}

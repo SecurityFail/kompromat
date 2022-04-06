@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "ADSL2+/3G Wireless N300 Modem Router",
+            "name": "3G15Wn",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "BigPond Elite\u2122 Wireless Broadband Network Gateway",
+            "name": "3G21WB",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "Telstra Ultimate\u00ae Gateway",
+            "name": "3G42WT",
+            "vendor": "NetComm Wireless"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "RV220W Wireless Network Security Firewall",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "VPN Firewalls",
+            "name": "FVS318N",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "VPN Firewalls",
+            "name": "FVS318Gv2",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "VPN Firewalls",
+            "name": "FVS318N",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "VPN Firewalls",
+            "name": "FVS318N",
+            "vendor": "NETGEAR"
+        }
+    ]
+}

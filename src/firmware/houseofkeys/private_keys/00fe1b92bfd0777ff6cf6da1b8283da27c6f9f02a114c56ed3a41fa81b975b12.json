@@ -1,0 +1,2354 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "WET200 Wireless-G Business Ethernet Bridge",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "N/A",
+            "name": "UR-316N4G-v2",
+            "vendor": "UPVEL"
+        },
+        {
+            "description": "",
+            "name": "SR505N",
+            "vendor": "Smart RG"
+        },
+        {
+            "description": "",
+            "name": "DSL-2730B",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "LTE WiFi Router",
+            "name": "4G100W",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G WiFi Router with Voice",
+            "name": "MyWay - 3G8WV",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "",
+            "name": "RUT5XX",
+            "vendor": "Teltonika"
+        },
+        {
+            "description": "",
+            "name": "RV315W Wireless-N VPN Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "RV320 Dual Gigabit WAN VPN Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "RV325 Dual Gigabit WAN VPN Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "RV325 Dual WAN Gigabit VPN Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "RV130 VPN Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "RV130W Wireless-N Multifunction VPN Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "WAP551 Wireless-N Single Radio Selectable Band Access Point",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "WAP561 Wireless-N Dual Radio Selectable Band Access Point",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "WAP121 Wireless-N Access Point with Single Point Setup",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "WAP131 Wireless-N Dual Radio Access Point with PoE",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "WAP351 Wireless-N Dual Radio Access Point with 5-Port Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "WAP321 Wireless-N Selectable-Band Access Point with Single Point Setup",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "WAP371 Wireless-AC/N Dual Radio Access Point with Single Point Setup",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "WAP4410N Wireless-N Access Point - PoE/Advanced Security",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "WiMAX CPE",
+            "name": "SWU-8200",
+            "vendor": "Seowon Intech"
+        },
+        {
+            "description": "",
+            "name": "CLEAR Modem",
+            "vendor": "Clear"
+        },
+        {
+            "description": "",
+            "name": "CLEAR Modem Series M (CPEi725)",
+            "vendor": "Clear"
+        },
+        {
+            "description": "",
+            "name": "PK5001A",
+            "vendor": "Actiontec"
+        },
+        {
+            "description": "",
+            "name": "C2000A",
+            "vendor": "Actiontec"
+        },
+        {
+            "description": "",
+            "name": "C1000A",
+            "vendor": "Actiontec"
+        },
+        {
+            "description": "",
+            "name": "C2000T",
+            "vendor": "Technicolor"
+        },
+        {
+            "description": "",
+            "name": "C2100T",
+            "vendor": "Technicolor"
+        },
+        {
+            "description": "",
+            "name": "C1000Z",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "FR1000Z",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "WAP131 Wireless-N Dual Radio Access Point with PoE",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "WAP351 Wireless-N Dual Radio Access Point with 5-Port Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": " i775/i750/o450",
+            "vendor": "Motorola"
+        },
+        {
+            "description": "",
+            "name": "VR-3031eu",
+            "vendor": "Comtrend"
+        },
+        {
+            "description": "",
+            "name": "VMG1312-B30B",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "P8702N",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "P8702N",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "Lighthouse",
+            "vendor": "Opengear"
+        },
+        {
+            "description": "",
+            "name": "kcs61xx",
+            "vendor": "Opengear"
+        },
+        {
+            "description": "",
+            "name": "WiYZ",
+            "vendor": "GE"
+        },
+        {
+            "description": "",
+            "name": "EasyBox 904 LTE",
+            "vendor": "Vodafone"
+        },
+        {
+            "description": "",
+            "name": "RV130 VPN Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "RV130W Wireless-N Multifunction VPN Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "RV320 Dual Gigabit WAN VPN Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "RV325 Dual WAN Gigabit VPN Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "4G LTE Light Industrial M2M Router",
+            "name": "NWL-25",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "",
+            "name": "OMC-2301",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "4-port RS-232/422/485 IEEE 802.11b/g wireless device server",
+            "name": "NPort W2004 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "W345",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "W325",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "W315",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "UC-7112 Plus",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "RISC-based Industrial Computer with 4 Serial Ports, 4 DI Channels, 4 DO Channels, Dual Ethernet, PCMCIA, SD, and USB Host",
+            "name": "IA240",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "W311",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "VES-1616PE-54",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "24/48-port FE L2 Switch",
+            "name": "ES-3124PWR",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "RISC-based fanless embedded computer with 2 serial ports, 4 DIs, 4 DOs, 2 AIs, 2 thermocouples, dual LANs, SD, Linux",
+            "name": "IA3341",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "12-port GbE L2 Switch/24-port FE L2 Switch",
+            "name": "MGS-3712",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "RISC-based embedded computers with GSM/GPRS, LAN, and 1 or 2 serial ports",
+            "name": "W315A/W325A",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "24/48-port GbE L3 Switch with 10GbE Uplink",
+            "name": "XGS-4728F",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "24-port GbE L3 Switch with 10GbE Uplink",
+            "name": "XGS-4526",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "ES-315",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "ES-315-F",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "24-port FE L2 PoE Switch",
+            "name": "ES-2024PWR",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "MM-7201",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "24/48-port FE L2 Switch",
+            "name": "ES-3148",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "ES-3124F",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "GS1500-24P",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "UC-7402",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "UC-7408",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "UC-7410, UC-7420",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "24/48-port GbE L3 Switch with 10GbE Uplink",
+            "name": "XGS4700-48F",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "8-port GbE L2 Switch with Four GbE Uplink Ports",
+            "name": "MGS-3712F",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "ShareCenter 4-Bay Network Storage Enclosure",
+            "name": "DNS-343 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "2TB 4-Bay Network Storage",
+            "name": "DNS-343-2TB A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "4 TB ShareCenter 4-Bay Network Storage",
+            "name": "DNS-343-4TB A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "8-port/24-port FE L2 Switch with Two/Four GbE Combo Ports",
+            "name": "MES3500-24",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "ioLogik W5348-HSDPA-C",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "3G WiFi Router with Voice",
+            "name": "3G22WV",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "",
+            "name": "Small Business SRP520 Models",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "VPN Firewalls",
+            "name": "FVX538v2",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Wireless N300 Gigabit Cloud Router",
+            "name": "DIR-636L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless N750 Dual Band Gigabit Cloud Router",
+            "name": "DIR-836L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "",
+            "name": "Small Business SRP520-U Models",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "Wireless N VDSL2 4-port Gateway with USB",
+            "name": "VMG1312-B10A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Hotspots",
+            "name": "AirCard Hub",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Business Wireless Access Points",
+            "name": "WNDAP660",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "",
+            "name": "UNS2300",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "UNS2700",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "ShareCenter 2-Bay Network Storage, SATA, RAID 0/1, USB Print Server with iSCSI support",
+            "name": "DNS-326 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "48-port 10GbE Top-of-rack Switch with 40GbE Uplink",
+            "name": "XS3900-48F",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Routers",
+            "name": "TL-R600VPN V1",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "N600 Dual Band PoE Access Point",
+            "name": "TEW-753DAP (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "1-Bay Media Server",
+            "name": "NSA310S",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "2-Bay Power Media Server",
+            "name": "NSA320",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "1-Bay Media Server",
+            "name": "NSA310",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "GS2200-8HP",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Enterprise Network Center",
+            "name": "GS2200-24P",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "GS2200-8",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "N300 Wireless VoIP GPON Router",
+            "name": "TX-VG1530 V1",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "Wireless AC600 Dual Band Cloud Router",
+            "name": "DIR-808L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "IP-Gateway",
+            "name": "83341",
+            "vendor": "Busch-Jaeger"
+        },
+        {
+            "description": "",
+            "name": "IP Gateway",
+            "vendor": "Busch-Jaeger"
+        },
+        {
+            "description": "3G WiFi Router with Voice",
+            "name": "3G38WV",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "Mydlink-enabled Wired Network Camera",
+            "name": "DCS-1100 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "2-Bay Power Media Server",
+            "name": "NSA320S",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Wireless Day / Night PTZ Network Camera",
+            "name": "TV-IP651WI (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "Wireless PTZ Network Camera",
+            "name": "TV-IP651W (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "Wireless Day / Night Network Camera",
+            "name": "TV-IP551WI (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "Wireless Day / Night Network Camera",
+            "name": "TV-IP551WI (v1.1R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "Wireless Network Camera",
+            "name": "TV-IP551W (v1.xR)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "Wireless AC1200 Dual Band Gigabit Cloud Router",
+            "name": "DIR-860L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "WiFi Range Extenders",
+            "name": "EX6100",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Wireless PTZ Cloud Camera",
+            "name": "TV-IP851WC (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "Wireless Day / Night PTZ Cloud Camera",
+            "name": "TV-IP851WIC (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "Wireless Day / Night Cloud Camera",
+            "name": "TV-IP751WIC (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "Wireless Cloud Camera",
+            "name": "TV-IP751WC (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "N600 Dual Band Access Point",
+            "name": "TEW-750DAP (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "",
+            "name": "MultiConnect rCell 100 Series",
+            "vendor": "MultiTech"
+        },
+        {
+            "description": "AC1200 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6300 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1600 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6400 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Xtreme N300 Duo Wireless N Access Point",
+            "name": "DAP-1522 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "AC1900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6900 (1.1)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Blu-ray and DVD players",
+            "name": "Philips Blu-ray Disc/ DVD player BDP1200",
+            "vendor": "Philips"
+        },
+        {
+            "description": "ShareCenter\u00ae 2-Bay Network Storage Enclosure",
+            "name": "DNS-325 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless AC Easy-Upgrader",
+            "name": "TEW-820AP (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "2-Bay Professional Network Video Recorder",
+            "name": "DNR-326 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Dual-Band Smart Wi-Fi Modem Router",
+            "name": "XAC1900 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "ShareCenter\u00ae 2-Bay Network Storage Enclosure",
+            "name": "DNS-320",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "M2M CDMA Router",
+            "name": "NWL-11",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "Light Industrial M2M Router Plus",
+            "name": "NWL-15",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G M2M Router Plus",
+            "name": "NTC-6200-01",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G M2M Router Plus",
+            "name": "NTC-6200-11",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G M2M Router Plus",
+            "name": "NTC-6200-12",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G M2M Router",
+            "name": "NTC-6200-03",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G M2M Router",
+            "name": "NTC-6200-13",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "802.11ac Dual Radio Unified Pro Access Point",
+            "name": "GS2210-24HP",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "8/24/48-port GbE L2 Switch",
+            "name": "GS2210-24",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "24/48-port GbE Smart Managed Switch",
+            "name": "GS1920-24",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "AC1750 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6500 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Routers",
+            "name": "TL-R600VPN V2",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "ShareCenter Cloud Storage 4000",
+            "name": "DNS-345 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "AC1200 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6100 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Wireless AC750 Dual Band Cloud Router",
+            "name": "DIR-810L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Mydlink Network Video Recorder",
+            "name": "DNR-322L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "10 DIs, 110 VDC, ch-to-ch isolation",
+            "name": "RM-1050-T",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "16 DIs, 24 VDC, sink/source type",
+            "name": "RM-1602-T",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "16 DIs, 24 VDC, sink type",
+            "name": "RM-2600-T",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "8 DIs, 4 to 20 mA, 16 bits",
+            "name": "RM-3802-T",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "8 AIs, 0 to 10 V, 16 bits",
+            "name": "RM-3810-T",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "Modular programmable controller",
+            "name": "ioPAC 8020 C/C++ Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "Modular RTU Controller",
+            "name": "ioPAC 8020-C",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "ShareCenter\u00ae 2- Bay Network Attached Storage",
+            "name": "DNS-327L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "24/48-port GbE Smart Managed Switch",
+            "name": "GS1920-48",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess OAW-4304-4308 - EOS",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess OAW-4324-EOS",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess OAW-4302",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess OAW-4302 - EOS",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "2-Bay NAS server and Power Plus Media Server",
+            "name": "NSA325 v2",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "2-Bay Power Plus Media Server",
+            "name": "NSA325",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RN12G/RN12S/RN12T (ReadyNAS 4200)",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RN12G0620",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RN12G1220",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RN12P (ReadyNAS 3200)",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RN12P0610",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RN12P0620",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RN12P1210",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RN12P1220",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RN12S0620",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RN12S1220",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RN12T0620",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RN12T0630",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RN12T1210",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RN12T1220",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RN12T1230",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP2000 (ReadyNAS Pro 2)",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS Ultra Series",
+            "name": "RNDP200U (ReadyNAS Ultra 2 Plus)",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP2210",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP2210D",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP2220",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP2220D",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP2230",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP2230D",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP4000 (ReadyNAS Pro 4)",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS Ultra Series",
+            "name": "RNDP400U (ReadyNAS Ultra 4 Plus)",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP4410",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP4410D",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP4420",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP4420D",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP4430",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP4430D",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP6000-200 (ReadyNAS Pro 6)",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS Pioneer",
+            "name": "RNDP600E (ReadyNAS Pro Pioneeer)",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS Ultra Series",
+            "name": "RNDP600U (ReadyNAS Ultra 6 Plus)",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP6310-200",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP6350-200",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP6610-200",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP6610D-200",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP6620-200",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP6620D-200",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP6630-200",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDP6630D-200",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS Ultra Series",
+            "name": "RNDU2000 (ReadyNAS Ultra 2)",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS Ultra Series",
+            "name": "RNDU2120 Ultra 2",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS Ultra Series",
+            "name": "RNDU2220 Ultra 2",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS Ultra Series",
+            "name": "RNDU4000 (ReadyNAS Ultra 4)",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS Ultra Series",
+            "name": "RNDU4220 Ultra 4",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS Ultra Series",
+            "name": "RNDU6000 (ReadyNAS Ultra 6)",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS Ultra Series",
+            "name": "RNDU6320 Ultra 6",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDX4000 (ReadyNAS NVX)",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS Pioneer",
+            "name": "RNDX400E (ReadyNAS NVX Pioneer)",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDX4210",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDX4250",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDX4410",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNDX4420",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNRP4000 (ReadyNAS 3100)",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNRP4410",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNRP4420",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNRP4430",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNRX400 (ReadyNAS 1500)",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNRX4000 (ReadyNAS 2100)",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS 1500",
+            "name": "RNRX400E (ReadyNAS 1500)",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNRX4410",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNRX4410D",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNRX441E",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNRX4420",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNRX4420D",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNRX442E",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNRX4430",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNRX4430D",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNRX443E",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ReadyNAS",
+            "name": "RNRX4450",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Business Wireless Access Points",
+            "name": "WND930",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Wireless AC750 Dual Band Gigabit Cloud Router",
+            "name": "DIR-818LW A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "M2M",
+            "name": "MachineLink 3G",
+            "vendor": "Vodafone"
+        },
+        {
+            "description": "",
+            "name": "MachineLink 3G Plus",
+            "vendor": "Vodafone"
+        },
+        {
+            "description": "AC1750 Wi-Fi Router",
+            "name": "DIR-866L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "2-Bay NAS Media Server Enclosure",
+            "name": "TN-200 (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "2-Bay NAS Media Server Enclosure (1 x 1 TB)",
+            "name": "TN-200T1 (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "Dual-Band Wireless AC/N Gigabit Ethernet Gateway",
+            "name": "EMG2926-Q10A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "21Mbps Mobile Broadband Router with Voice",
+            "name": "3G27WV-02",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "Wireless Management",
+            "name": "WC7520",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "N750 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA3500 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Business Wireless Access Points",
+            "name": "WAC120",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Home",
+            "name": "VMG4380-B10A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "ERLite-3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "ERPoe-5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "ER-8",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "ERPro-8",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "Simultaneous Dual-Band Wireless AC1750 HD Media Router",
+            "name": "NBG6716",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Wireless N GPON HGU with 4-port GbE Switch",
+            "name": "PMG5318-B20A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Wireless N600 Dual Band Gigabit Cloud Router",
+            "name": "DIR-826L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Rugged, compact C/C++ programmable controller with 4 AIs, 8 DIOs, and 2 relays",
+            "name": "ioPAC 5542",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "Modular RTU Controller",
+            "name": "ioPAC 8500",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "C/C++ modular programmable controller",
+            "name": "ioPAC 8500 C/C++ Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "SBG3300-NB00",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "SBG3500-N000",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Wireless N VDSL2 VoIP Combo WAN Gigabit IAD",
+            "name": "VMG8324-B10A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "SBG3300-N000",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "SBG3500-NB00",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Wireless AC750 Dual Band Cloud Router",
+            "name": "DIR-816L B",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless N VDSL2 4-port Gateway with USB",
+            "name": "VMG1312-B30A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "AC750 Wireless Travel Router",
+            "name": "TEW-817DTR (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "8/24/48-port GbE L2 Switch",
+            "name": "GS2210-8",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Wireless AC1200 Dual Band Gigabit Cloud Router",
+            "name": "DIR-850L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless AC750 Dual Band Cloud Router",
+            "name": "DIR-817LW A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless N300 4-port Gigabit Ethernet Gateway",
+            "name": "EMG2306-R10A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "AC3200 Tri-Band Smart Wi-Fi Wireless Router",
+            "name": "EA9200 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Wireless AC750 Dual Band Cloud Router",
+            "name": "DIR-810L B",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "N900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA4500 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Maximum Performance Dual-Band N Router",
+            "name": "E4200 (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "",
+            "name": "Vigor2130 series",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "",
+            "name": "Vigor2130FVn",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "Dual Band Wireless AC/N VDSL2 VoIP Combo WAN Gigabit IAD",
+            "name": "VMG8924-B10A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Network-Attached Storage with 2 M12 Gigabit PoE+ LAN Ports and -40 to 70\u00b0 Temperature Tolerance",
+            "name": "RNAS-1200",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "EVW3226",
+            "vendor": "Ubee Interactive"
+        },
+        {
+            "description": "AC1200+ Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6350 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "",
+            "name": "Vigor1000 Series",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "8-channel industrial network video recorders for VPort video servers and IP cameras in harsh environments",
+            "name": "MxNVR-IA8 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "Wireless AC1750 Dual Band Gigabit Cloud Router",
+            "name": "DIR-865L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "AC900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6200 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N300 Wireless Router",
+            "name": "E900 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N300 Wireless Router",
+            "name": "E1200 (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N300 Wireless Router",
+            "name": "E1200 (2.2)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Wireless N VDSL2 Bonding Combo WAN Gigabit Gateway",
+            "name": "VMG4325-B10A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "VPN Firewall",
+            "name": "NWA5121-NI",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "802.11 a/b/g/n Unified Access Point",
+            "name": "NWA5123-NI",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "802.11ac Dual Radio Unified Pro Access Point",
+            "name": "WAC6502D-E",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "802.11ac Dual Radio Unified Pro Access Point",
+            "name": "WAC6503D-S",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "Vigor2750 series",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "Wireless LAN Controller",
+            "name": "NXC2500",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "IP-Gateway",
+            "name": "83341",
+            "vendor": "Busch-Jaeger"
+        },
+        {
+            "description": "",
+            "name": "IP Gateway",
+            "vendor": "Busch-Jaeger"
+        },
+        {
+            "description": "WiFi Range Extenders",
+            "name": "EX6150",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Rugged 1080P day-and-night H.264 Zoom IP cameras",
+            "name": "VPort 56-2MP Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "Dual Band Wireless AC/N VDSL2 VoIP Combo WAN Gigabit IAD",
+            "name": "VMG8924-B30A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "3G/4G Routers",
+            "name": "M7350 V1",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "802.11 b/g/n Wall-Plate Unified Access Point",
+            "name": "NWA5301-NJ",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "24-port 10GbE L2+ Switch",
+            "name": "XS3700-24",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "12-port 10GbE Smart Managed Switch",
+            "name": "XS1920-12",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "4G WiFi M2M Router",
+            "name": "NTC-140W",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "Bonded 4 PORT WIFI 802.11N (400mW) Residential Gateway",
+            "name": "6729-W1-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "Pan & Tilt Wi-Fi Camera",
+            "name": "DCS-5009L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "AC3200 Tri Band Wireless Router",
+            "name": "TEW-828DRU (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "Day & Night Wi-Fi Camera",
+            "name": "DCS-933L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Cloud Camera 1050, Day Network Cloud Camera",
+            "name": "DCS-931L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Pan&Tilt Day/Night Network Camera",
+            "name": "DCS-5010L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "N900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA4500 (3.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "",
+            "name": "WRP500 Wireless-AC Broadband Router with 2 Phone Ports",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "24/48-port GbE L2+ Switch",
+            "name": "XGS3700-48",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "24/48-port GbE L2+ Switch",
+            "name": "GS3700-48",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Cloud Camera 1100, Day/Night Network Cloud Camera",
+            "name": "DCS-932L B",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Cloud Camera 1100, Day/Night Network Cloud Camera",
+            "name": "DCS-932L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "PowerLine HD Day/Night Cloud Camera Kit",
+            "name": "DCS-6045LKT A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Day & Night Wi-Fi Camera",
+            "name": "DCS-934L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Cloud Camera 1000, Day Network Cloud Camera",
+            "name": "DCS-930L B",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Cloud Camera 1000, Day Network Cloud Camera",
+            "name": "DCS-930L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "",
+            "name": "VigorFly 210",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "",
+            "name": "VigorAP 900",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "RISC-based mobile Linux computer with cellular, Wi-Fi, and GPS modules, 2 Ethernet, 2 serial, 2 USB 2.0 ports, & 2 mini PCIe sockets",
+            "name": "UC-8481",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "8/24-port FE L2 Switch with GbE Uplink",
+            "name": "ES3500-8PD",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "ShareCenter\u00ae 2-Bay Cloud Storage 2000",
+            "name": "DNS-320L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "",
+            "name": "UVC",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "UVC-Dome",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "UVC-Micro",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "UVC-PRO",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "8/24-port FE L2 Switch with GbE Uplink",
+            "name": "ES3500-24",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "AC750 Dual Band Wireless Router",
+            "name": "TEW-810DR (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "AC750 Dual Band Wireless Router",
+            "name": "TEW-810DR (v1.1R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "N600 Dual Band Wireless Router",
+            "name": "TEW-752DRU (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "N600 Dual Band Wireless Router",
+            "name": "TEW-751DR (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "N300 Wireless Gigabit Router",
+            "name": "TEW-733GR (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "3G M2M Router Plus",
+            "name": "NTC-6200-02",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "M2M Router",
+            "name": "NTC-6520",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "M2M Router",
+            "name": "NTC-6908",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "Outdoor HSPA+ WiFi Router",
+            "name": "NTC-30WV",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G Marine Outdoor WiFi Router",
+            "name": "NTC-30WV-02",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "HSPA+ M2M WiFi Router",
+            "name": "NTC-40WV",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNDR3700v5",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "",
+            "name": "VG-8050",
+            "vendor": "Comtrend"
+        },
+        {
+            "description": "",
+            "name": "VG-8050",
+            "vendor": "Comtrend"
+        },
+        {
+            "description": "WiFi Range Extenders",
+            "name": "EX3700",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Range Extenders",
+            "name": "EX3800",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Range Extenders",
+            "name": "EX3920",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "",
+            "name": "ER-X",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "ER-X-SFP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "Industrial 8+2G multiport secure router",
+            "name": "EDR-810 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "mFi-CS",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mFi-DS",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mFi-LD",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mFi-LD-W",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mFi-MPW",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mFi-MPW-W",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mFi-MSC",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mFi-MSW",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mFi-THS",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mPort",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mPort-S",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mPower",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mPower (EU)",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mPower PRO",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mPower PRO (EU)",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mPower mini",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mPower mini (EU)",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "VG-8050",
+            "vendor": "Comtrend"
+        },
+        {
+            "description": "Pan & Tilt Wi-Fi Camera",
+            "name": "DCS-5020L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "VPN Firewalls",
+            "name": "FVS318N",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "VPN Firewalls",
+            "name": "FVS318Gv2",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "",
+            "name": "SPA112 2-Port Phone Adapter",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SPA122 ATA with Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "AC 1900 Wireless Dual Band Gigabit VDSL/ADSL Modem Router",
+            "name": "Archer VR900 V1",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "",
+            "name": "EasyBox 904 xDSL",
+            "vendor": "Vodafone"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS6860(E)",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "Wireless N Network Camera",
+            "name": "DCS-1130 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Mydlink-enabled Wired Network Camera",
+            "name": "DCS-1100",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless Management",
+            "name": "WC7520",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Outdoor Bullet Camera 1080p 3MP Night Vision  for Business",
+            "name": "LCAB03VLNOD (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Indoor Dome Camera 1080p 3MP Night Vision  for Business",
+            "name": "LCAD03FLN (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Outdoor Dome Camera 1080p 3MP Night Vision  for Business",
+            "name": "LCAD03VLNOD (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Indoor/Outdoor 360 Mini-Dome Camera 1080p 3MP Low Light Vision  for Business",
+            "name": "LCAM0336OD (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Max-Stream AC2600 MU-MIMO Smart Wi-Fi Router",
+            "name": "EA8500 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Wireless Management",
+            "name": "WC7600",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R7500",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Range Extenders",
+            "name": "EX3700",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Range Extenders",
+            "name": "EX3800",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Range Extenders",
+            "name": "EX3920",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "AC1750 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6500 (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1750 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6700 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1900AC (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1200 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1200AC (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1900AC (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess OAW-4x04 series",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess OAW-6000",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess OAW-4306",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "N600 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA2700 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS10K",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "",
+            "name": "RUT950",
+            "vendor": "Teltonika"
+        },
+        {
+            "description": "",
+            "name": "Orbit MCR",
+            "vendor": "GE"
+        },
+        {
+            "description": "Business Wireless Access Points",
+            "name": "WNDAP620",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Business Access Point Wireless Wi-Fi Single Band 2.4GHz N300 with PoE",
+            "name": "LAPN300 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Business Access Point Wireless Wi-Fi Dual Band 2.4 + 5GHz N600 with PoE",
+            "name": "LAPN600 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1200 AMPLIFY Dual-Band Wi-Fi Range Extender",
+            "name": "RE6700 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Business Access Point Wireless Wi-Fi Dual Band 2.4 + 5GHz AC1200 with PoE",
+            "name": "LAPAC1200 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Business Access Point Wireless Wi-Fi Dual Band 2.4 + 5GHz AC1750 with PoE",
+            "name": "LAPAC1750 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "WiFi Range Extenders",
+            "name": "EX6120",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "VPN Firewalls",
+            "name": "FVS318N",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R6220",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "4G WiFi M2M Router",
+            "name": "NTC-140W",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "System Access Point - f\u00fcr Busch-free@home\u00ae",
+            "name": "6200 AP",
+            "vendor": "Busch-Jaeger"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess OAW-4306",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "AC1900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1900AC (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1200 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1200AC (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Business Wireless Access Points",
+            "name": "WAC120",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "AC1200 Dual-Band Wireless Range Extender",
+            "name": "RE6500 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N600 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA2750 (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R7500",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "M2M Router",
+            "name": "NTC-6520",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "M2M Router",
+            "name": "NTC-6908",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "Outdoor HSPA+ WiFi Router",
+            "name": "NTC-30WV",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G Marine Outdoor WiFi Router",
+            "name": "NTC-30WV-02",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "3G M2M Router Plus",
+            "name": "NTC-6200-02",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "HSPA+ M2M WiFi Router",
+            "name": "NTC-40WV",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "",
+            "name": "Bright Box",
+            "vendor": "Orange"
+        },
+        {
+            "description": "",
+            "name": "Bright Box",
+            "vendor": "Orange"
+        },
+        {
+            "description": "",
+            "name": "ERLite-3",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "ERPoe-5",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "ER-8",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "ERPro-8",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "ER-X",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "ER-X-SFP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "AC1900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1900AC (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "2-Bay NAS Media Server Enclosure",
+            "name": "TN-200 (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "2-Bay NAS Media Server Enclosure (1 x 1 TB)",
+            "name": "TN-200T1 (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "AC1200 Dual Band PoE Access Point (with software controller)",
+            "name": "TEW-821DAP (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "3G M2M Router Plus",
+            "name": "NTC-6200-12",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "Wireless-G Wireless Router",
+            "name": "WRT54GL (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Wireless-G Wireless Router",
+            "name": "WRT54GL (1.1)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Industrial multi-radio mobile access and applications router",
+            "name": "MAR-2000",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "AC 1900 Touch Screen Wi-Fi Gigabit Router",
+            "name": "Touch P5 V1",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "Industrial 8+2G multiport secure router",
+            "name": "EDR-810 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "USG",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "WiFi Range Extenders",
+            "name": "EX6000",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Business Wireless Access Points",
+            "name": "WND930",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "",
+            "name": "MDS Master Station",
+            "vendor": "GE"
+        },
+        {
+            "description": "",
+            "name": "SPA112 2-Port Phone Adapter",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SPA122 ATA with Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SPA302D Multi-Line DECT Handset",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "ER-X-SFP",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "3G M2M Router",
+            "name": "NTC-6200-13",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "Dual Band Wireless-AC 2400Mbps MU-MIMO Gigabit Router",
+            "name": "FG7008GR",
+            "vendor": "Aztech"
+        },
+        {
+            "description": "AC 1900 Wireless Dual Band Gigabit VDSL/ADSL Modem Router",
+            "name": "Archer VR900 V1",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "N/A",
+            "name": "UR-322N4G",
+            "vendor": "UPVEL"
+        },
+        {
+            "description": "AC1750 Dual Band Wireless Router with StreamBoost",
+            "name": "TEW-824DRU (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "AC3200 Tri Band Wireless Router",
+            "name": "TEW-828DRU (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "WiFi Range Extenders",
+            "name": "EX6100",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Mydlink Network Video Recorder",
+            "name": "DNR-322L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "WiFi Range Extenders",
+            "name": "EX3700",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Range Extenders",
+            "name": "EX3800",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Range Extenders",
+            "name": "EX3920",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "D7800",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "",
+            "name": "VigorFly 210",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "VPN Firewalls",
+            "name": "FVS318Gv2",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "VPN Firewalls",
+            "name": "FVS318N",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "3G M2M Router Plus",
+            "name": "NTC-6200-02",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "4G WiFi M2M Router",
+            "name": "NTC-140W",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "AC1750 Dual Band Wireless Router with StreamBoost",
+            "name": "TEW-824DRU (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "",
+            "name": "VigorAP 910C",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "Wireless Management",
+            "name": "WC7600",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Wireless Management",
+            "name": "WC9500",
+            "vendor": "NETGEAR"
+        }
+    ]
+}

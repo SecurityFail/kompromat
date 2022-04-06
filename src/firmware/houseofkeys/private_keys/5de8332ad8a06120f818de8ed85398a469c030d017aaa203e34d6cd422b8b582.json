@@ -1,0 +1,59 @@
+{
+    "products": [
+        {
+            "description": "Pan & Tilt Wi-Fi Camera",
+            "name": "DCS-5009L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Day & Night Wi-Fi Camera",
+            "name": "DCS-933L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Cloud Camera 1050, Day Network Cloud Camera",
+            "name": "DCS-931L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Pan&Tilt Day/Night Network Camera",
+            "name": "DCS-5010L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Cloud Camera 1100, Day/Night Network Cloud Camera",
+            "name": "DCS-932L B",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Cloud Camera 1100, Day/Night Network Cloud Camera",
+            "name": "DCS-932L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "PowerLine HD Day/Night Cloud Camera Kit",
+            "name": "DCS-6045LKT A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Day & Night Wi-Fi Camera",
+            "name": "DCS-934L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Cloud Camera 1000, Day Network Cloud Camera",
+            "name": "DCS-930L B",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Cloud Camera 1000, Day Network Cloud Camera",
+            "name": "DCS-930L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Pan & Tilt Wi-Fi Camera",
+            "name": "DCS-5020L A",
+            "vendor": "D-Link"
+        }
+    ]
+}

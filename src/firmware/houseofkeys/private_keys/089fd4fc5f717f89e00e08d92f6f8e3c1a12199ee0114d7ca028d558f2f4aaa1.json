@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "P-870HW-51a v2",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "VDSL2 4-port Gateway",
+            "name": "P-870H-53A v2",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "VDSL2 4-port Gateway",
+            "name": "P-870H-51a v2",
+            "vendor": "ZyXEL"
+        }
+    ]
+}

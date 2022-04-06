@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "description": "16-Port Gigabit Web Smart Switch",
+            "name": "TEG-160WS (D1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "16-Port Gigabit Web Smart Switch",
+            "name": "TEG-160WS (D1.1R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "24-Port Gigabit Web Smart Switch",
+            "name": "TEG-240WS (D1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "24-Port Gigabit Web Smart Switch",
+            "name": "TEG-240WS (D1.1R)",
+            "vendor": "TRENDnet"
+        }
+    ]
+}

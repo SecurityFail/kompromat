@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "description": "Home audio",
+            "name": "Center+Station Wireless Music Center&Station",
+            "vendor": "Philips"
+        },
+        {
+            "description": "Home audio",
+            "name": "Philips Streamium Wireless Audio WAC5",
+            "vendor": "Philips"
+        },
+        {
+            "description": "Home audio",
+            "name": "Philips Streamium Wireless Music Center&Station WACS57 Center+Station with Wireless streaming",
+            "vendor": "Philips"
+        },
+        {
+            "description": "Home audio",
+            "name": "Philips Streamium Wireless Music Center&Station WACS700",
+            "vendor": "Philips"
+        },
+        {
+            "description": "Home audio",
+            "name": "Wireless Music Center&Station",
+            "vendor": "Philips"
+        }
+    ]
+}

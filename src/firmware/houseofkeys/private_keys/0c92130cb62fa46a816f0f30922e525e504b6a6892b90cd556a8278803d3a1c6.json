@@ -1,0 +1,49 @@
+{
+    "products": [
+        {
+            "description": "Wi-Fi Range Extender N300",
+            "name": "RE1000 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Wi-Fi Range Extender N300",
+            "name": "RE1000 (1.5)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Wireless-N Router with ADSL2+ Modem",
+            "name": "X2000 (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Advanced Wireless-N ADSL+ Modem Router",
+            "name": "X3000 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N300 Wireless Router",
+            "name": "E1200 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Wireless-N Router",
+            "name": "E1000 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Wireless-N Router",
+            "name": "E1000 (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Wireless-N Router",
+            "name": "E1000 (2.1)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "High Performance Wireless-N Router",
+            "name": "E3000 (1.0)",
+            "vendor": "Linksys"
+        }
+    ]
+}

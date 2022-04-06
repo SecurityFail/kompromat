@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "description": "ShareCenter 4-Bay Network Storage Enclosure",
+            "name": "DNS-343 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "2TB 4-Bay Network Storage",
+            "name": "DNS-343-2TB A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "4 TB ShareCenter 4-Bay Network Storage",
+            "name": "DNS-343-4TB A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "2-Bay Network Storage Enclosure",
+            "name": "DNS-321 A",
+            "vendor": "D-Link"
+        }
+    ]
+}

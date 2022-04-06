@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "Wireless Plus",
+            "vendor": "Seagate"
+        },
+        {
+            "description": "",
+            "name": "Fuel",
+            "vendor": "LaCie"
+        }
+    ]
+}

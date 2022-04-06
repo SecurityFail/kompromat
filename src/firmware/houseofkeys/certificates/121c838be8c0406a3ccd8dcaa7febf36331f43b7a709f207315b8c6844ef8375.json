@@ -1,0 +1,154 @@
+{
+    "products": [
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "DGND3300v2",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "DGND3300v1",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "",
+            "name": "MBR1310v2",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "DGN3500",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "JNR3000",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R6220",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "JNR3210",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "PR2000",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "JNR1010v2",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "JWNR2000v5",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "JWNR2010v5",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNR1000v4",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNR2020",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNR2020v2",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNR2050",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNR614",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNR618",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNDR3700v5",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "JR6150",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R6050",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R6220",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "JNR1010v2",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "JWNR2000v5",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "JWNR2010v5",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNR1000v4",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNR2020",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNR2020v2",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNR2050",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNR614",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNR618",
+            "vendor": "NETGEAR"
+        }
+    ]
+}

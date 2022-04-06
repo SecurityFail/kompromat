@@ -1,0 +1,89 @@
+{
+    "products": [
+        {
+            "description": "Access Points  - IEEE-802.11g Wireless LAN Range Extender / Access Point + 5 Ports 10/100M Switch",
+            "name": "EW-7209APg",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Access Points  - Wireless 802.11n Range Extender / Access Point",
+            "name": "EW-7416APn",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "",
+            "name": "VigorAP 700",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "Access Points  - Wireless 802.11n Range Extender / Access Point",
+            "name": "EW-7415PDn",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "",
+            "name": "VigorAP 700 V2",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "Access Points  - Wireless 802.11n Range Extender / Access Point",
+            "name": "EW-7416APn V2",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "",
+            "name": "VigorAP 800",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "",
+            "name": "VigorAP 900",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "",
+            "name": "VigorAP 810",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "",
+            "name": "VigorAP 710",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "",
+            "name": "VigorAP 810",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "",
+            "name": "VigorAP 710",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "",
+            "name": "VigorAP 910C",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "",
+            "name": "VigorAP 900",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "",
+            "name": "VigorAP 910C",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "",
+            "name": "VigorAP 710",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "",
+            "name": "VigorAP 810",
+            "vendor": "DrayTek"
+        }
+    ]
+}

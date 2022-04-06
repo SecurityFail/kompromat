@@ -1,0 +1,144 @@
+{
+    "products": [
+        {
+            "description": "AC1200 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6300 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1600 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6400 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6900 (1.1)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1750 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6500 (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Dual-Band Smart Wi-Fi Modem Router",
+            "name": "XAC1900 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1750 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6500 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1200 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6100 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1200 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6100 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N750 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA3500 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N600 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA2700 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC3200 Tri-Band Smart Wi-Fi Wireless Router",
+            "name": "EA9200 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA4500 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Maximum Performance Dual-Band N Router",
+            "name": "E4200 (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1200+ Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6350 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6200 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA4500 (3.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Max-Stream AC2600 MU-MIMO Smart Wi-Fi Router",
+            "name": "EA8500 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1750 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6500 (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1750 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6700 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1900AC (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1900AC (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1200 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1200AC (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1900AC (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N600 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA2700 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1900AC (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1200 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1200AC (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N600 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA2750 (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1900AC (1.0)",
+            "vendor": "Linksys"
+        }
+    ]
+}

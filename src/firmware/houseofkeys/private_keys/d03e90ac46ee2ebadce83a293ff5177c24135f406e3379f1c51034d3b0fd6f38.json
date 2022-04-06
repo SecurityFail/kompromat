@@ -1,0 +1,169 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "AS5350XM Universal Gateway",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "AS5400XM Universal Gateway",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "3845 NOVPN Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "3845 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "3845 RAN-O Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "3825 NOVPN Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "3825 IP RAN Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "3825 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "2801 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "3250 Rugged Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "3270 Rugged Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "CGS-2520-16S-8PC Connected Grid Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "CGS-2520-24TC Connected Grid Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "Catalyst 3750 Metro 24-AC Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "Catalyst 3750 Metro 24-DC Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "Connected Grid 10-Port Ethernet Switch Module Interface Card",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "Connected Grid 6-Port Ethernet Switch Module Interface Card",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "IE 3000-4TC Industrial Ethernet Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "IE 3000-8TC Industrial Ethernet Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "IAD2430 Integrated Access Device",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "IAD2431 Series Integrated Access Device",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "IAD2801 Integrated Access Device",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "IAD2435 Integrated Access Device",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "Enhanced Layer 2 EtherSwitch Service Module",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "VGD 1T3 Voice Gateway",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "VG224 Analog Voice Gateway",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "VG224 Voice Gateway",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "1811 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "1812 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "1841 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "1861 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "876 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "3220 Rugged Integrated Services Router",
+            "vendor": "Cisco"
+        }
+    ]
+}

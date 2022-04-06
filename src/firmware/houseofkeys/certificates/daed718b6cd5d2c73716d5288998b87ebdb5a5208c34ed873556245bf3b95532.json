@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "description": "2-Bay Professional Network Video Recorder",
+            "name": "DNR-326 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Mydlink Network Video Recorder",
+            "name": "DNR-322L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Mydlink Network Video Recorder",
+            "name": "DNR-322L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "2-Bay Professional Network Video Recorder",
+            "name": "DNR-326 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Mydlink Network Video Recorder",
+            "name": "DNR-322L A",
+            "vendor": "D-Link"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "HG630b",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "",
+            "name": "HG658c",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "Gateways",
+            "name": "HG630a",
+            "vendor": "Huawei"
+        }
+    ]
+}

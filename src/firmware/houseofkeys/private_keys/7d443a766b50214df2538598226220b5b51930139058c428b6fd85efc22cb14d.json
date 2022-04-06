@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "RV120W Wireless-N VPN Firewall",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "RV180 VPN Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "RV180W Wireless-N Multifunction VPN Router",
+            "vendor": "Cisco"
+        }
+    ]
+}

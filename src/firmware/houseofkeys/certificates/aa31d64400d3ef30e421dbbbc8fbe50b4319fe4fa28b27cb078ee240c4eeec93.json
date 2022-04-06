@@ -1,0 +1,54 @@
+{
+    "products": [
+        {
+            "description": "Wi-Fi Range Extender N300",
+            "name": "RE1000 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Wi-Fi Range Extender N300",
+            "name": "RE1000 (1.5)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N600 Dual-Band Wireless Router",
+            "name": "E2500 (3.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Powerline AV Wireless Network Extender",
+            "name": "PLW400 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Wireless-N Router",
+            "name": "E1000 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Wireless-N Router",
+            "name": "E1000 (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Wireless-N Router",
+            "name": "E1000 (2.1)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N600 Dual-Band Wireless Router",
+            "name": "E2500 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N600 Dual-Band Wireless Router",
+            "name": "E2500 (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N600 Dual-Band Wireless Router",
+            "name": "E2500 (3.0)",
+            "vendor": "Linksys"
+        }
+    ]
+}

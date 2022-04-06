@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "description": "VPN Firewall",
+            "name": "NWA5121-NI",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "802.11 a/b/g/n Unified Access Point",
+            "name": "NWA5123-NI",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "802.11ac Dual Radio Unified Pro Access Point",
+            "name": "WAC6502D-E",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "802.11ac Dual Radio Unified Pro Access Point",
+            "name": "WAC6503D-S",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Wireless LAN Controller",
+            "name": "NXC2500",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "802.11 b/g/n Wall-Plate Unified Access Point",
+            "name": "NWA5301-NJ",
+            "vendor": "ZyXEL"
+        }
+    ]
+}

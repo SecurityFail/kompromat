@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "description": "Outdoor Bullet Camera 1080p 3MP Night Vision  for Business",
+            "name": "LCAB03VLNOD (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Indoor Dome Camera 1080p 3MP Night Vision  for Business",
+            "name": "LCAD03FLN (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Outdoor Dome Camera 1080p 3MP Night Vision  for Business",
+            "name": "LCAD03VLNOD (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Indoor/Outdoor 360 Mini-Dome Camera 1080p 3MP Low Light Vision  for Business",
+            "name": "LCAM0336OD (1.0)",
+            "vendor": "Linksys"
+        }
+    ]
+}

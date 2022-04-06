@@ -1,0 +1,59 @@
+{
+    "products": [
+        {
+            "description": "Wireless Management",
+            "name": "WMS5316",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Wireless Management",
+            "name": "WMS5316",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Wireless Management",
+            "name": "WC7600",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Wireless Management",
+            "name": "WC7520",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Wireless Management",
+            "name": "WC9500",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Wireless Management",
+            "name": "WC7520",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Wireless Management",
+            "name": "WC7600",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Wireless Management",
+            "name": "WC9500",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Wireless Management",
+            "name": "WMS5316",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Wireless Management",
+            "name": "WC7600",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Wireless Management",
+            "name": "WC9500",
+            "vendor": "NETGEAR"
+        }
+    ]
+}

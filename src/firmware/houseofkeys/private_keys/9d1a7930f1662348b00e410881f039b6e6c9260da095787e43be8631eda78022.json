@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "D6100",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "DGN1000Bv3",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "DGN1000v3",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "DGN1000Bv3",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "DGN1000v3",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "D6100",
+            "vendor": "NETGEAR"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "300Mbps Wireless N Firewall Router",
+            "name": "TEW-631BRP (2.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "300Mbps Wireless N Broadband Router",
+            "name": "TEW-631BRP (3.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "300Mbps Wireless N Gigabit Router",
+            "name": "TEW-633GR (1.0R)",
+            "vendor": "TRENDnet"
+        }
+    ]
+}

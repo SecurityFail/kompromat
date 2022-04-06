@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "description": "IP-Gateway",
+            "name": "83341",
+            "vendor": "Busch-Jaeger"
+        },
+        {
+            "description": "",
+            "name": "IP Gateway",
+            "vendor": "Busch-Jaeger"
+        },
+        {
+            "description": "IP-Gateway",
+            "name": "83341",
+            "vendor": "Busch-Jaeger"
+        },
+        {
+            "description": "",
+            "name": "IP Gateway",
+            "vendor": "Busch-Jaeger"
+        }
+    ]
+}

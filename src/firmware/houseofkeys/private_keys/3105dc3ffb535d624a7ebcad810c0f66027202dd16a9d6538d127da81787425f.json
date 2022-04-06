@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "VDSL/ADSL",
+            "name": "TD-W8960NB V1",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "VDSL/ADSL",
+            "name": "TD-W8960N V1",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "VDSL/ADSL",
+            "name": "TD-W8960N V3",
+            "vendor": "TP-LINK"
+        }
+    ]
+}

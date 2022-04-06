@@ -1,0 +1,79 @@
+{
+    "products": [
+        {
+            "description": "WiMAX CPE",
+            "name": "BM632w",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "WiMAX CPE",
+            "name": "BM631A",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "WiMAX CPE",
+            "name": "BM635",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "",
+            "name": "HG622u",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "",
+            "name": "HG659",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "",
+            "name": "HG665d",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "",
+            "name": "BM625",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "",
+            "name": "BM626",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "Gateways",
+            "name": "WS320",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "",
+            "name": "E5172As-22",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "",
+            "name": "B593s-22",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "Gateways",
+            "name": "HG232f",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "",
+            "name": "B593s-12",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "",
+            "name": "Speedport Hybrid",
+            "vendor": "Deutsche Telekom"
+        },
+        {
+            "description": "",
+            "name": "B593s-22",
+            "vendor": "Huawei"
+        }
+    ]
+}

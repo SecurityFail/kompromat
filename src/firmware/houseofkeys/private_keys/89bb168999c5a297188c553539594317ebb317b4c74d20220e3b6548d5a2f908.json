@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "3G Routers  - 150Mbps Wireless 3G Portable Router ",
+            "name": "3G-6218n",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "3G Routers  - N300 Wireless 3G iQ Router",
+            "name": "3G-6408n",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "N150  - N150 Wireless 3G Compact Router",
+            "name": "3G-6200nL V2",
+            "vendor": "Edimax"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "description": "ADSL Modem Routers  - 300Mbps Wireless ADSL Modem Router",
+            "name": "AR-7267WnB",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "ADSL Modem Routers  - 300Mbps Wireless ADSL Modem Router",
+            "name": "AR-7267WnA",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "ADSL Modem Routers  - N150 Wireless ADSL Modem Router",
+            "name": "AR-7167WnB",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "ADSL Modem Routers  - N150 Wireless ADSL Modem Router",
+            "name": "AR-7167WnA",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "ADSL Modem Routers  - N600 Wireless Dual-Band Gigabit ADSL2/2+ Modem Router",
+            "name": "AR-7667WnA",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "N/A",
+            "name": "UR-314AN",
+            "vendor": "UPVEL"
+        },
+        {
+            "description": "N/A",
+            "name": "UR-344AN4G",
+            "vendor": "UPVEL"
+        },
+        {
+            "description": "N/A",
+            "name": "UR-354AN4G",
+            "vendor": "UPVEL"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "D3600",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "D6000",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "D3600",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "D6000",
+            "vendor": "NETGEAR"
+        }
+    ]
+}

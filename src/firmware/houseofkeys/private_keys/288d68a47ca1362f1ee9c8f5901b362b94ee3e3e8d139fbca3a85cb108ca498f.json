@@ -1,0 +1,154 @@
+{
+    "products": [
+        {
+            "description": "Wireless N Extender",
+            "name": "NP124",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "ADSL2+ Single Ethernet Modem Router",
+            "name": "NB1",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "",
+            "name": "SPA400 Internet Telephony Gateway with 4 FXO Ports",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "CLEAR Modem",
+            "vendor": "Clear"
+        },
+        {
+            "description": "",
+            "name": "CLEAR Modem Series M (CPEi725)",
+            "vendor": "Clear"
+        },
+        {
+            "description": "",
+            "name": "PK5000",
+            "vendor": "Actiontec"
+        },
+        {
+            "description": "",
+            "name": " i775/i750/o450",
+            "vendor": "Motorola"
+        },
+        {
+            "description": "ADSL Endpoint",
+            "name": "6218-A1-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "ADSL2+ 4 Port Bridge/Router (Texas Instruments)",
+            "name": "6212-A2-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "ADSL2+ Bridge/Router (Texas Instruments)",
+            "name": "6211-A3-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "ADSL Bridge Modem",
+            "name": "6210-A3-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "ADSL Bridge Modem",
+            "name": "6210-A2-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "ADSL2+ Bridge/Router (Texas Instruments)",
+            "name": "6211-A2-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "Four-port Ethernet Modem Router",
+            "name": "NB4",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "ADSL2+/ReachDSL 4 Port Bridge/Router (Texas Instruments)",
+            "name": "6382-A1-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "",
+            "name": "RTP300 Broadband Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "ADSL2+/ReachDSL Bridge/Router (Texas Instruments)",
+            "name": "6381-A2-xxx/ 6381-A3-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "ADSL2/2+ Combo Modem / Router",
+            "name": "DSL600EU",
+            "vendor": "Aztech"
+        },
+        {
+            "description": "ADSL2/2+ Ethernet Modem / Router",
+            "name": "DSL600E(C)",
+            "vendor": "Aztech"
+        },
+        {
+            "description": "ADSL2/2+ Wireless b/g 4 Port Modem / Router",
+            "name": "DSL600EW",
+            "vendor": "Aztech"
+        },
+        {
+            "description": "ADSL2+/ReachDSL Wireless 4 Port Bridge/Router (Texas Instruments)",
+            "name": "6388-A1-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "ADSL2+ Modem Router with USB and 4-port Ethernet",
+            "name": "NB5Plus4",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "ADSL2+ Modem Router with USB and Single Ethernet",
+            "name": "NB5",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "4-port ADSL2+ Modem Router with 54Mbps Wireless",
+            "name": "NB5Plus4W",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "ADSL2/2+ Wireless b/g 4 Port Modem / Router",
+            "name": "DSL605EW",
+            "vendor": "Aztech"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "DG632",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "ADSL2/2+ 150 Mbps Wireless b/g/n 1 Port Modem / Router",
+            "name": "DSL5001EN",
+            "vendor": "Aztech"
+        },
+        {
+            "description": "Wall-Plugged 300 Mbps Wi-fi Repeater ",
+            "name": "WL559E",
+            "vendor": "Aztech"
+        },
+        {
+            "description": "200Mbps HomePlug AV 2-Port Wireless-N Extender",
+            "name": "HL110EW",
+            "vendor": "Aztech"
+        },
+        {
+            "description": "Wall-Plugged Wireless-N Access Point",
+            "name": "WL576E",
+            "vendor": "Aztech"
+        }
+    ]
+}

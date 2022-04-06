@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "12-port GbE L2 Switch/24-port FE L2 Switch",
+            "name": "MGS-3712",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "12-port GbE L2 Switch/24-port FE L2 Switch",
+            "name": "MGS-3712",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "8-port GbE L2 Switch with Four GbE Uplink Ports",
+            "name": "MGS-3712F",
+            "vendor": "ZyXEL"
+        }
+    ]
+}

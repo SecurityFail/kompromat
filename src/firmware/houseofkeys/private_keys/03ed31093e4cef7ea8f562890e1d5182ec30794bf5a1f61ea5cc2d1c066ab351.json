@@ -1,0 +1,159 @@
+{
+    "products": [
+        {
+            "description": "Wireless N DSL Modem",
+            "name": "GT784WN",
+            "vendor": "Actiontec"
+        },
+        {
+            "description": "",
+            "name": "SR505N",
+            "vendor": "Smart RG"
+        },
+        {
+            "description": "",
+            "name": "SR320n",
+            "vendor": "Smart RG"
+        },
+        {
+            "description": "N300 Wi-Fi Router with ADSL2+ Modem",
+            "name": "X1000 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "",
+            "name": "C2000A",
+            "vendor": "Actiontec"
+        },
+        {
+            "description": "",
+            "name": "C1000A",
+            "vendor": "Actiontec"
+        },
+        {
+            "description": "",
+            "name": "V1000H",
+            "vendor": "Actiontec"
+        },
+        {
+            "description": "",
+            "name": "W3400V",
+            "vendor": "Innatech"
+        },
+        {
+            "description": "",
+            "name": "C1000Z",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "Q1000",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "FR1000Z",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "N300 Wi-Fi Router with ADSL2+ Modem",
+            "name": "X1000 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "",
+            "name": "VR-3031eu",
+            "vendor": "Comtrend"
+        },
+        {
+            "description": "",
+            "name": "P8702N",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "P8702N",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Wireless N VDSL2 4-port Gateway with USB",
+            "name": "VMG1312-B10A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "XDSL 4-Port WiFi 802.11N IAD",
+            "name": "6748-W1-xx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "XDSL 4-Port WIFI 802.11n Residential Gateway",
+            "name": "6718-W1-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "XDSL 4-Port Residential Gateway",
+            "name": "6712-W1-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "Home",
+            "name": "VMG4380-B10A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "ADSL2+ 4-Port Wireless (802.11b/g/n 1x1 ) Bridge/Router  ",
+            "name": "6518-A1-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "Wireless N VDSL2 VoIP Combo WAN Gigabit IAD",
+            "name": "VMG8324-B10A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Wireless N VDSL2 4-port Gateway with USB",
+            "name": "VMG1312-B30A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Wireless N VDSL2 Bonding Combo WAN Gigabit Gateway",
+            "name": "VMG4325-B10A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Dual Band Wireless AC/N VDSL2 VoIP Combo WAN Gigabit IAD",
+            "name": "VMG8924-B10A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Wireless N VDSL2 Bonding Combo WAN Gigabit Gateway",
+            "name": "VMG4325-B10A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Dual Band Wireless AC/N VDSL2 VoIP Combo WAN Gigabit IAD",
+            "name": "VMG8924-B30A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Bonded 4 PORT WIFI 802.11N (400mW) Residential Gateway",
+            "name": "6729-W1-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "Bonded XDSL 4-Port WIFI 802.11n Residential Gateway",
+            "name": "6728-W1-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "XDSL (30A) 4-Port WiFi 802.11N Gateway",
+            "name": "6738-W1-xx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "Dual Band Wireless-AC 2400Mbps MU-MIMO Gigabit Router",
+            "name": "FG7008GR",
+            "vendor": "Aztech"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "VPort 16-M12 Series (Quantities limited)",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "VPort 26 Series (Quantities limited)",
+            "vendor": "Moxa"
+        }
+    ]
+}

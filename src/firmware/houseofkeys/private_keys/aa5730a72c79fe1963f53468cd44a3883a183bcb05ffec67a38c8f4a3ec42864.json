@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "description": "unknown",
+            "name": "OmniAccess AOW-IAP 155",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess AOW-IAP 134,135",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess AOW-IAP 220, 270 series",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess AOW-IAP 92 (EoS),93 (EoS),105",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess AOW-IAP 103, 108,109, 114, 115",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess AOW-IAP 200 series",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess AOW-IAP 155",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess AOW-IAP 134,135",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess AOW-IAP 220, 270 series",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess AOW-IAP 92 (EoS),93 (EoS),105",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess AOW-IAP 200 series",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess AOW-IAP 103, 108,109, 114, 115",
+            "vendor": "Alcatel-Lucent"
+        }
+    ]
+}

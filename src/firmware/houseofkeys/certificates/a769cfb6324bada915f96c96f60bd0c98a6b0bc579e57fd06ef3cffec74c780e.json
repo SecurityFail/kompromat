@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "BM625",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "8/16/24/48-port GbE Smart Managed Switch",
+            "name": "MAX-306",
+            "vendor": "ZyXEL"
+        }
+    ]
+}

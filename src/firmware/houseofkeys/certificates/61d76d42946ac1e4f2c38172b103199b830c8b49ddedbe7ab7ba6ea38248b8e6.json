@@ -1,0 +1,59 @@
+{
+    "products": [
+        {
+            "description": "HD Media Router 3000",
+            "name": "DIR-857 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Xtreme N Dual Band Gigabit Router",
+            "name": "DIR-825 C",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless N PowerLine Gigabit Router",
+            "name": "DHP-1565 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless N750 Dual-Band Router",
+            "name": "DIR-835 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "HD Media Router 2000",
+            "name": "DIR-827 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless N900 Dual Band Gigabit Cloud Router",
+            "name": "DIR-855L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "AC1750 Wi-Fi Router",
+            "name": "DIR-866L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Xtreme N Gigabit Router",
+            "name": "DIR-655 c",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "AC1750 Dual Band Wireless Router",
+            "name": "TEW-823DRU (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "Gaming Router AC1300 with StreamBoost\u2122 Technology",
+            "name": "DGL-5500 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "AC1750 Wi-Fi Router",
+            "name": "DIR-866L A",
+            "vendor": "D-Link"
+        }
+    ]
+}

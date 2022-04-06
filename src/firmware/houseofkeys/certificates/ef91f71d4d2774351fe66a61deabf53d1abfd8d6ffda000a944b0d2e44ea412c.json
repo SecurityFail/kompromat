@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "NetVanta 3200 / 3205 3rd Generation Firmware",
+            "vendor": "Adtran"
+        },
+        {
+            "description": "",
+            "name": "NetVanta 1335",
+            "vendor": "Adtran"
+        },
+        {
+            "description": "",
+            "name": "Total Access 900",
+            "vendor": "Adtran"
+        },
+        {
+            "description": "",
+            "name": "NetVanta 5305",
+            "vendor": "Adtran"
+        }
+    ]
+}

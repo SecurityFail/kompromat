@@ -1,0 +1,114 @@
+{
+    "products": [
+        {
+            "description": "Wireless N300 Gigabit Router",
+            "name": "DIR-651 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Xtreme N Dual Band Gigabit Router",
+            "name": "DIR-825 B",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "HD Media Router 3000",
+            "name": "DIR-857 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "HD Media Router 1000",
+            "name": "DIR-657 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless N300 Gigabit Cloud Router",
+            "name": "DIR-636L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless N750 Dual Band Gigabit Cloud Router",
+            "name": "DIR-836L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Xtreme N Gigabit Router",
+            "name": "DIR-655 B",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless AC600 Dual Band Cloud Router",
+            "name": "DIR-808L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "HD Media Router 2000",
+            "name": "DIR-827 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless AC750 Dual Band Cloud Router",
+            "name": "DIR-810L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless N600 Dual Band Gigabit Cloud Router",
+            "name": "DIR-826L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "AC750 Wireless Travel Router",
+            "name": "TEW-817DTR (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "Wireless AC1000 Dual Band Cloud Router",
+            "name": "DIR-820L B",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless AC750 Dual Band Cloud Router",
+            "name": "DIR-810L B",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "AC1200 Wi-Fi Router",
+            "name": "DIR-830L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "N300 Wireless Home Router",
+            "name": "TEW-731BR (v2.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "N150 Wireless Home Router",
+            "name": "TEW-711BR (v2.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "Wireless AC1000 Dual Band Cloud Router",
+            "name": "DIR-820L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "AC1200 Dual Band Wireless Router",
+            "name": "TEW-813DRU (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "AC750 Dual Band Wireless Router",
+            "name": "TEW-810DR (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "AC750 Dual Band Wireless Router",
+            "name": "TEW-810DR (v1.1R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "AC1200 Dual Band Wireless Router",
+            "name": "TEW-813DRU (v1.0R)",
+            "vendor": "TRENDnet"
+        }
+    ]
+}

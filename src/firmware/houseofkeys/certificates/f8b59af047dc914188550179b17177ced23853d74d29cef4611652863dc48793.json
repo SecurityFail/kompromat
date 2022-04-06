@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "SR505N",
+            "vendor": "Smart RG"
+        },
+        {
+            "description": "",
+            "name": "SR320n",
+            "vendor": "Smart RG"
+        },
+        {
+            "description": "",
+            "name": "DSL-2730B",
+            "vendor": "D-Link"
+        }
+    ]
+}

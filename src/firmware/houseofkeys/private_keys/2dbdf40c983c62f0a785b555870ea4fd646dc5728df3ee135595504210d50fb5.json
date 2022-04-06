@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "ADSL 2/2+ Modem Router",
+            "name": "TDM-C500 (V1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "4-Port ADSL 2/2+ Modem Router",
+            "name": "TDM-C504 (v1.0R)",
+            "vendor": "TRENDnet"
+        }
+    ]
+}

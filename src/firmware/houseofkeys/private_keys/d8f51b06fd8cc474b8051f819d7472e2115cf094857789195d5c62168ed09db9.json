@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "RV320 Dual Gigabit WAN VPN Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "RV325 Dual WAN Gigabit VPN Router",
+            "vendor": "Cisco"
+        }
+    ]
+}

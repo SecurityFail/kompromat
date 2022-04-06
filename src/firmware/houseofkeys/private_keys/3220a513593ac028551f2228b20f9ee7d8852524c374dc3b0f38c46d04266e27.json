@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "description": "Single Channel PoE Analog to IP Video Encoder",
+            "name": "TV-VS1P (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "Single Channel Analog to IP Video Encoder",
+            "name": "TV-VS1 (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "PoE Dome Network Camera",
+            "name": "TV-IP252P (B1.2R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "PoE Dome Network Camera",
+            "name": "TV-IP252P (B1.xR)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "Outdoor PoE Megapixel HD Day/Night Internet Camera",
+            "name": "TV-IP322P (v1.0R)",
+            "vendor": "TRENDnet"
+        }
+    ]
+}

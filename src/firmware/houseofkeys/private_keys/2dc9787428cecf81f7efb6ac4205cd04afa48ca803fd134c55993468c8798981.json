@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "RV220W Wireless Network Security Firewall",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "RV120W Wireless-N VPN Firewall",
+            "vendor": "Cisco"
+        }
+    ]
+}

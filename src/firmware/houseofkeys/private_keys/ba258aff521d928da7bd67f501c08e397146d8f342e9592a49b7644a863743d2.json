@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "description": "WiMAX CPE",
+            "name": "BM632w",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "",
+            "name": "HG665d",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "Gateways",
+            "name": "WS320",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "",
+            "name": "E5172As-22",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "",
+            "name": "B593s-22",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "",
+            "name": "HG658c",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "",
+            "name": "B593s-12",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "",
+            "name": "B593s-22",
+            "vendor": "Huawei"
+        }
+    ]
+}

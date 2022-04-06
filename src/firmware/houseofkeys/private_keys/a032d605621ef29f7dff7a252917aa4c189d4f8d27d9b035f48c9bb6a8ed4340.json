@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "UNS2300",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "UNS2700",
+            "vendor": "ZyXEL"
+        }
+    ]
+}

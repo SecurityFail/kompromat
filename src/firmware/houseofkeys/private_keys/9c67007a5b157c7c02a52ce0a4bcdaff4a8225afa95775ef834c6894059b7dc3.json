@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "RVS4000 4-port Gigabit Security Router - VPN",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "WRVS4400N Wireless-N Gigabit Security Router - VPN V2.0",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "Dual-Band Wireless-N ADSL2+ Modem Gigabit Router",
+            "name": "WAG320N (1.0)",
+            "vendor": "Linksys"
+        }
+    ]
+}
