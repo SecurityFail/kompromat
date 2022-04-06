@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "VDSL/ADSL",
+            "name": "TD-W8968 V1",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "VDSL/ADSL",
+            "name": "TD-W8968 V2",
+            "vendor": "TP-LINK"
+        }
+    ]
+}

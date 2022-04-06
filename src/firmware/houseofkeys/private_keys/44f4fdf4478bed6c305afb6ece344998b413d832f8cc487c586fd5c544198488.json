@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "RV315W Wireless-N VPN Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "Small Business SRP520 Models",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "Small Business SRP520-U Models",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "WRP500 Wireless-AC Broadband Router with 2 Phone Ports",
+            "vendor": "Cisco"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "D840R",
+            "vendor": "Tenda"
+        },
+        {
+            "description": "",
+            "name": "DSL-524B",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "",
+            "name": "ATUR-210",
+            "vendor": "CTC Union"
+        },
+        {
+            "description": "",
+            "name": "DRGA115",
+            "vendor": "ADB"
+        },
+        {
+            "description": "",
+            "name": "P-663HN-51",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Bonded ADSL2+ 4Port Modem with WiFi",
+            "name": "6228-I3-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "Bonded ADSL2+ 4Port Modem with WiFi",
+            "name": "6228-I2-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "ADSL2+ 4 Port Wireless Bridge/Router (Broadcom)",
+            "name": "6218-I2-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "ADSL2+ 4 Port Wireless Bridge/Router (Broadcom)",
+            "name": "6218-I4-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "ADSL2+ 4 Port Wireless Bridge/Router (Broadcom)",
+            "name": "6218-I3-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "ADSL2+ 4 PortBridge/Router (Broadcom)",
+            "name": "6212-I4-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "ADSL2+ 4 PortBridge/Router (Broadcom)",
+            "name": "6212-I3-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "ADSL2+ Bridge/Router (Broadcom)",
+            "name": "6211-I4-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "ADSL2+ Bridge/Router (Broadcom)",
+            "name": "6211-I2-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "ADSL2+ Bridge/Router (Broadcom)",
+            "name": "6211-I3-xxx",
+            "vendor": "Zhone"
+        }
+    ]
+}

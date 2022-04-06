@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "ADSL2+ Wireless Modem Router",
+            "name": "RTA1025W",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "ADSL2+ Wireless Modem Router",
+            "name": "RTA1030W",
+            "vendor": "NetComm Wireless"
+        }
+    ]
+}

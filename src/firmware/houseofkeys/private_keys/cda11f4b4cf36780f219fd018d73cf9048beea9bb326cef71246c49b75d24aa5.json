@@ -1,0 +1,49 @@
+{
+    "products": [
+        {
+            "description": "802.11n Wireless ADSL2+ VoIP IAD",
+            "name": "P-2612HNU-F3",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Wireless N Gigabit Active Fiber VoIP IAD",
+            "name": "FSG2200HNU",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Wireless N Gigabit Active Fiber VoIP IAD",
+            "name": "FSG2200HNU",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "802.11n Wireless ADSL2+ 4-port Security Gateway",
+            "name": "P-661HNU-F3",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "P-2601HNL-F1",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "P-660HNU-T1",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "ADSL2+ 4-port Gateway with USB",
+            "name": "P-660HU-T1",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "802.11n Wireless ADSL2+ 4-port Security Gateway",
+            "name": "P-661HNU-F1",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "P-2601HN-F1",
+            "vendor": "ZyXEL"
+        }
+    ]
+}

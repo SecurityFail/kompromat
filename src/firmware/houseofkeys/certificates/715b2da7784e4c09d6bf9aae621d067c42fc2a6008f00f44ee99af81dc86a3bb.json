@@ -1,0 +1,69 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "3925 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "3945 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "3925E Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "3945E Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "2901 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "2911 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "2921 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "2951 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "1905 Serial Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "1921 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "1941 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "1941W Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "1906C Integrated Services Router",
+            "vendor": "Cisco"
+        }
+    ]
+}

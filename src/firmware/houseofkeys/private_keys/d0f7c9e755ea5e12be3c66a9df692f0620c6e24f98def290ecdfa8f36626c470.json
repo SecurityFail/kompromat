@@ -1,0 +1,104 @@
+{
+    "products": [
+        {
+            "description": "Managed Switches",
+            "name": "FSM7226RS",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Managed Switches",
+            "name": "FSM726E",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Managed Switches",
+            "name": "FSM7250RS",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Managed Switches",
+            "name": "GSM7324",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Managed Switches",
+            "name": "GSM7212",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Managed Switches",
+            "name": "GSM7224R",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Managed Switches",
+            "name": "GSM7248R",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Managed Switches",
+            "name": "GSM7224",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Fully Managed 10/100/1000 Switches",
+            "name": "GSM7224v1",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Managed Switches",
+            "name": "GSM7248v1",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Managed Switches",
+            "name": "GSM7312",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Managed Switches",
+            "name": "FSM7326P",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Managed Switches",
+            "name": "FSM7328PS",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Managed Switches",
+            "name": "FSM7328S",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Managed Switches",
+            "name": "FSM7352S",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Managed Switches",
+            "name": "FSM7352PS",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Managed Switches",
+            "name": "GSM7328FS",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Managed Switches",
+            "name": "GSM7328Sv1",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Managed Switches",
+            "name": "GSM7352Sv1",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Managed Switches",
+            "name": "M7300-24XF (XSM7224S)",
+            "vendor": "NETGEAR"
+        }
+    ]
+}

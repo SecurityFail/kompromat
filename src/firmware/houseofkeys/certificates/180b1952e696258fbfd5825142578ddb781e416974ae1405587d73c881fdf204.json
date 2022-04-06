@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "WVC2300 Wireless-G Business Internet Video Camera - Audio",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "PVC2300 Business Internet Video Camera - Audio/PoE",
+            "vendor": "Cisco"
+        }
+    ]
+}

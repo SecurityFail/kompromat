@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "description": "Touch Panels",
+            "name": "MXD-1001",
+            "vendor": "AMX"
+        },
+        {
+            "description": "Touch Panels",
+            "name": "MXD-1901-PAN",
+            "vendor": "AMX"
+        },
+        {
+            "description": "Touch Panels",
+            "name": "MXD-2001-PAN",
+            "vendor": "AMX"
+        },
+        {
+            "description": "Touch Panels",
+            "name": "MXD-701",
+            "vendor": "AMX"
+        },
+        {
+            "description": "Touch Panels",
+            "name": "MXT-1001",
+            "vendor": "AMX"
+        },
+        {
+            "description": "Touch Panels",
+            "name": "MXT-1901-PAN",
+            "vendor": "AMX"
+        },
+        {
+            "description": "Touch Panels",
+            "name": "MXT-2001-PAN",
+            "vendor": "AMX"
+        },
+        {
+            "description": "Touch Panels",
+            "name": "MXT-701",
+            "vendor": "AMX"
+        }
+    ]
+}

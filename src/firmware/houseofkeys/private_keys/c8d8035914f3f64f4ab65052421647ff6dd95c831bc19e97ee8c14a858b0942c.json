@@ -1,0 +1,74 @@
+{
+    "products": [
+        {
+            "description": "Business Wireless Access Points",
+            "name": "WG103",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Business Wireless Access Points",
+            "name": "WNDAP660",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Business Wireless Access Points",
+            "name": "WNAP210",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Business Wireless Access Points",
+            "name": "WNAP210v2",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Business Wireless Access Points",
+            "name": "WND930",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Business Wireless Access Points",
+            "name": "WAC120",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Business Wireless Access Points",
+            "name": "WNDAP350",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Business Wireless Access Points",
+            "name": "WNDAP360",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Business Wireless Access Points",
+            "name": "WNAP320",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Business Wireless Access Points",
+            "name": "WNDAP620",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Business Wireless Access Points",
+            "name": "WNAP320",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Business Wireless Access Points",
+            "name": "WNDAP350",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Business Wireless Access Points",
+            "name": "WAC120",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Business Wireless Access Points",
+            "name": "WND930",
+            "vendor": "NETGEAR"
+        }
+    ]
+}

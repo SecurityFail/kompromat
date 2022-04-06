@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "Dual-Band Wireless AC/N Gigabit Ethernet Gateway",
+            "name": "EMG2926-Q10A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Simultaneous Dual-Band Wireless AC1750 HD Media Router",
+            "name": "NBG6716",
+            "vendor": "ZyXEL"
+        }
+    ]
+}

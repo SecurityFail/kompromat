@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "Network-Attached Storage with 2 M12 Gigabit PoE+ LAN Ports and -40 to 70\u00b0 Temperature Tolerance",
+            "name": "RNAS-1200",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "RISC-based mobile Linux computer with cellular, Wi-Fi, and GPS modules, 2 Ethernet, 2 serial, 2 USB 2.0 ports, & 2 mini PCIe sockets",
+            "name": "UC-8481",
+            "vendor": "Moxa"
+        }
+    ]
+}

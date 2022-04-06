@@ -1,0 +1,174 @@
+{
+    "products": [
+        {
+            "description": "Network Cameras  - 150Mbps Wireless 802.11n Dual Mode IP Camera",
+            "name": "IC-3005Wn",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Network Cameras  - Fast Ethernet Dual Mode IP Camera",
+            "name": "IC-3005",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Network Cameras  - 1.3Mpx Wireless Network Camera",
+            "name": "IC-3015Wn",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "3G Routers  - N300 Wireless 3G iQ Router",
+            "name": "3G-6408n",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "N150  - N150 Wireless 3G Compact Router",
+            "name": "3G-6200nL V2",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Indoor PTZ  - 300Mbps Wireless 802.11n Pan/Tilt IP Camera With Night Vision",
+            "name": "IC-7010PTn",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Network Cameras  - PoE Triple Mode Pan/Tilt IP Camera With Night Vision",
+            "name": "IC-7010PoE",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Network Cameras  - Fast Ethernet Pan/Tilt IP Camera With Night Vision",
+            "name": "IC-7010PT",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Network Cameras  - 300Mbps Wireless 802.11n Triple-Mode Pan & Tilt Network Camera",
+            "name": "IC-7000PTn V3",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Network Cameras  - Fast Ethernet Triple-Mode Pan & Tilt Network Camera",
+            "name": "IC-7000PT V3",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Network Cameras  - Power over Ethernet Triple-Mode Pan & Tilt Network Camera",
+            "name": "IC-7000PoE V3",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Network Cameras  - Triple Mode Fast Ethernet IP Camera",
+            "name": "IC-3030",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Network Cameras  - Triple Mode PoE IP Camera",
+            "name": "IC-3030PoE",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Indoor Fixed  - Triple Mode 150Mbps Wireless 802.11n IP Camera",
+            "name": "IC-3030Wn",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Network Cameras  - 1.3Mpx H.264 Day & Night PT Network Camera",
+            "name": "IC-7110",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Network Cameras  - 1.3Mpx PoE H.264 Day & Night PT Network Camera",
+            "name": "IC-7110P",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Indoor PTZ  - 1.3Mpx Wireless H.264 Day & Night PT Network Camera",
+            "name": "IC-7110W",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Network Cameras  - 1.3Mpx H.264 PT Network Camera",
+            "name": "IC-7100",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Network Cameras  - 1.3Mpx PoE H.264 PT Network Camera",
+            "name": "IC-7100P",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Indoor PTZ  - 1.3Mpx Wireless H.264 PT Network Camera",
+            "name": "IC-7100W",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Network Cameras  - 1.3Mpx H.264 Day & Night Network Camera",
+            "name": "IC-3110",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Network Cameras  - 1.3Mpx PoE H.264 Day & Night Network Camera",
+            "name": "IC-3110P",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Indoor Fixed  - 1.3Mpx Wireless H.264 Day & Night Network Camera",
+            "name": "IC-3110W",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Network Cameras  - 1.3Mpx H.264 Network Camera",
+            "name": "IC-3100",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Network Cameras  - 1.3Mpx PoE H.264 Network Camera",
+            "name": "IC-3100P",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Indoor Fixed  - 1.3Mpx Wireless H.264 Network Camera",
+            "name": "IC-3100W",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Indoor PTZ  - Wireless Day & Night PT Network Camera",
+            "name": "IC-7001W",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Indoor Fixed  - 720p Wireless H.264 Day & Night Network Camera",
+            "name": "IC-3116W",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Network Cameras  - Fast Ethernet Triple-Mode Network Camera with Night Vision",
+            "name": "IC-3030i",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Indoor Fixed  - Power over Ethernet Triple-Mode Network Camera with Night Vision",
+            "name": "IC-3030iPoE",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Indoor Fixed  - Wireless 802.11n Triple-Mode Network Camera with Night Vision",
+            "name": "IC-3030iWn",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Cube  - 1.3Mpx Wireless Network Camera",
+            "name": "IC-3115W",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Indoor Fixed  - HD Wireless Day & Night Network Camera",
+            "name": "IC-3140W",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Indoor Fixed  - 720p Wireless H.264 Day & Night Network Camera",
+            "name": "IC-3116W",
+            "vendor": "Edimax"
+        }
+    ]
+}

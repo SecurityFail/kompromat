@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "VPN Firewalls",
+            "name": "FVX538v1",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "VPN Firewalls",
+            "name": "FVX538v2",
+            "vendor": "NETGEAR"
+        }
+    ]
+}

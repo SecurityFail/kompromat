@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "10 dBi Outdoor PoE Access Point",
+            "name": "TEW-738APBO (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "N300 Outdoor PoE Access Point",
+            "name": "TEW-739APBO (v1.0R)",
+            "vendor": "TRENDnet"
+        }
+    ]
+}

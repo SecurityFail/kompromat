@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "description": "N300 Wi-Fi Router with ADSL2+ Modem",
+            "name": "X1000 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N300 Wi-Fi Router with ADSL2+ Modem",
+            "name": "X1000 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Wireless N VDSL2 4-port Gateway with USB",
+            "name": "VMG1312-B10A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "W300V1.0.0S_ZRD_TR1_D68",
+            "vendor": "ZTE"
+        }
+    ]
+}

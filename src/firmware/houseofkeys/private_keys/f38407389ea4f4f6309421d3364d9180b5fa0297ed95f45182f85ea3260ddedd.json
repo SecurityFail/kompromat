@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "description": "8,89 cm TFT-Farbdisplay mit Drehbedienelement - Busch-priOn\u00ae",
+            "name": "6344-24G-101",
+            "vendor": "Busch-Jaeger"
+        },
+        {
+            "description": "8,89 cm TFT-Farbdisplay mit Drehbedienelement - Busch-priOn\u00ae",
+            "name": "6344-810-101",
+            "vendor": "Busch-Jaeger"
+        },
+        {
+            "description": "8,89 cm TFT-Farbdisplay mit Drehbedienelement - Busch-priOn\u00ae",
+            "name": "6344-811-101",
+            "vendor": "Busch-Jaeger"
+        },
+        {
+            "description": "8,89 cm TFT-Farbdisplay mit Drehbedienelement - Busch-priOn\u00ae",
+            "name": "6344-825-101",
+            "vendor": "Busch-Jaeger"
+        },
+        {
+            "description": "8,89 cm TFT-Farbdisplay mit Drehbedienelement - Busch-priOn\u00ae",
+            "name": "6344-866-101",
+            "vendor": "Busch-Jaeger"
+        }
+    ]
+}

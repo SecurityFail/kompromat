@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "description": "ShareCenter\u00ae 2-Bay Network Storage Enclosure",
+            "name": "DNS-325 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "ShareCenter\u00ae 2-Bay Network Storage Enclosure",
+            "name": "DNS-320",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "ShareCenter Cloud Storage 4000",
+            "name": "DNS-345 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "ShareCenter\u00ae 2- Bay Network Attached Storage",
+            "name": "DNS-327L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "ShareCenter\u00ae 2-Bay Cloud Storage 2000",
+            "name": "DNS-320L A",
+            "vendor": "D-Link"
+        }
+    ]
+}

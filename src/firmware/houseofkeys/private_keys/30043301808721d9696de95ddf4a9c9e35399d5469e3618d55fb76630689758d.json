@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "SR505N",
+            "vendor": "Smart RG"
+        },
+        {
+            "description": "",
+            "name": "SR320n",
+            "vendor": "Smart RG"
+        },
+        {
+            "description": "",
+            "name": "VR-3031eu",
+            "vendor": "Comtrend"
+        },
+        {
+            "description": "VDSL/ADSL",
+            "name": "TD-W8968 V3",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "VDSL/ADSL",
+            "name": "TD-W8960N V5",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "150Mbps Wireless N ADSL2+ Modem Router",
+            "name": "TD-W8950N V1",
+            "vendor": "TP-LINK"
+        }
+    ]
+}

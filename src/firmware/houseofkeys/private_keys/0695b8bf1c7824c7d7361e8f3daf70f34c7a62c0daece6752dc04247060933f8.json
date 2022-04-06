@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "DSL-2730B",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "",
+            "name": "AR5387UN",
+            "vendor": "Comtrend"
+        },
+        {
+            "description": "",
+            "name": "VSG1435-B101",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "802.11n Wireless ADSL2+ Gateway",
+            "name": "P-660HN-51",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "802.11n Wireless VDSL2 4-port Gateway",
+            "name": "P-870HN-51D",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "XDSL 4-Port WIFI 802.11n Residential Gateway",
+            "name": "6718-A1-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "ADSL2+ Modem with Wireless N300 Router",
+            "name": "DSL-2740B A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "802.11n Wireless ADSL2+ Gateway",
+            "name": "P-660HN-51",
+            "vendor": "ZyXEL"
+        }
+    ]
+}

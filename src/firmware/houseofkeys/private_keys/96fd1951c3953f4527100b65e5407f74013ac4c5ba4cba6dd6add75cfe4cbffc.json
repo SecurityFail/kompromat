@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "WAP131 Wireless-N Dual Radio Access Point with PoE",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "WAP351 Wireless-N Dual Radio Access Point with 5-Port Switch",
+            "vendor": "Cisco"
+        }
+    ]
+}

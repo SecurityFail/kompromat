@@ -1,0 +1,129 @@
+{
+    "products": [
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS6850 - EOS",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS6850E",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS9000E",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS6855",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS6850E",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS9000 - EOS",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS6400",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS6400 - EOS",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS6250",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS6450",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS6850E",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS6855",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS9000E",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS6400",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS6400 - EOS",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS6250",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS6450",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS6850E",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS6855",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS9000E",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS6850 - EOS",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS6850E",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS6250",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS6450",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniSwitch OS6350",
+            "vendor": "Alcatel-Lucent"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "WET200 Wireless-G Business Ethernet Bridge",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "WAP2000 Wireless-G Access Point - PoE",
+            "vendor": "Cisco"
+        }
+    ]
+}

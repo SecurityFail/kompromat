@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "description": "Wireless AC1200 Dual Band Gigabit Cloud Router",
+            "name": "DIR-860L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless AC1200 Dual Band Gigabit Range Extender",
+            "name": "DAP-1650 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wi-Fi Audio Extender",
+            "name": "DCH-M225 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless N300 Dual Band Router",
+            "name": "DIR-815 B",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless AC750 Dual Band Gigabit Cloud Router",
+            "name": "DIR-818LW A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless AC1750 Dual Band Gigabit Cloud Router",
+            "name": "DIR-868L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless AC750 Dual Band Router",
+            "name": "DIR-803 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless AC1900 Dual-Band Gigabit Cloud Router",
+            "name": "DIR-880L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless AC750 Dual Band Cloud Router",
+            "name": "DIR-816L B",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless AC1200 Dual Band Gigabit Cloud Router",
+            "name": "DIR-850L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless AC750 Dual Band Cloud Router",
+            "name": "DIR-817LW A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless AC1750 Dual Band Gigabit Cloud Router",
+            "name": "DIR-865L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless AC1200 Dual Band Gigabit Cloud Router",
+            "name": "DIR-860L B",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "AC3200 Ultra Wi-Fi Router ",
+            "name": "DIR-890L/R A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "AC3200 Ultra Wi-Fi Router ",
+            "name": "DIR-890L/R A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "AC3200 Ultra Wi-Fi Router ",
+            "name": "DIR-890L/R A",
+            "vendor": "D-Link"
+        }
+    ]
+}

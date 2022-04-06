@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "C2000A",
+            "vendor": "Actiontec"
+        },
+        {
+            "description": "",
+            "name": "C1000A",
+            "vendor": "Actiontec"
+        }
+    ]
+}

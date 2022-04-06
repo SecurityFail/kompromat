@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "2-Bay Network Storage Enclosure",
+            "name": "DNS-323 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "2-Bay Network Storage Enclosure",
+            "name": "DNS-323 C",
+            "vendor": "D-Link"
+        }
+    ]
+}

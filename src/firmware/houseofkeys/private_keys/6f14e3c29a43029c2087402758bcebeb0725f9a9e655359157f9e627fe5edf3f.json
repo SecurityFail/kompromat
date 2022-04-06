@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "ADSL2+ Wireless N300 4-Port Modem Router",
+            "name": "NB6Plus4Wn",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "ADSL2+ Ethernet Modem",
+            "name": "DSL-520B A",
+            "vendor": "D-Link"
+        }
+    ]
+}

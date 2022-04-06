@@ -1,0 +1,174 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "EasyBox 904 LTE",
+            "vendor": "Vodafone"
+        },
+        {
+            "description": "Advanced Wireless-N ADSL+ Modem Router",
+            "name": "X3000 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "2-Bay Power Plus Media Server",
+            "name": "NSA325",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "2-Bay NAS server and Power Plus Media Server",
+            "name": "NSA325 v2",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "1-Bay Media Server",
+            "name": "NSA310S",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "2-Bay Power Media Server",
+            "name": "NSA320",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "1-Bay Media Server",
+            "name": "NSA310",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "AC1200 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6300 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1600 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6400 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6900 (1.1)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1750 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6500 (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Dual-Band Smart Wi-Fi Modem Router",
+            "name": "XAC1900 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1750 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6500 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1200 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6100 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Dual-Band Wireless AC/N Gigabit Ethernet Gateway",
+            "name": "EMG2926-Q10A",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Simultaneous Dual-Band Wireless AC1750 HD Media Router",
+            "name": "NBG6716",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "AC3200 Tri-Band Smart Wi-Fi Wireless Router",
+            "name": "EA9200 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA4500 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Maximum Performance Dual-Band N Router",
+            "name": "E4200 (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1200+ Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6350 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6200 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Simultaneous Dual-Band Wireless AC1200 Media Router",
+            "name": "NBG6616",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "N900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA4500 (3.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Simultaneous Dual-Band Wireless N750 Media Router",
+            "name": "NBG5615",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "EasyBox 904 xDSL",
+            "vendor": "Vodafone"
+        },
+        {
+            "description": "AC1750 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6500 (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1750 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6700 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1900AC (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1200 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1200AC (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1900AC (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1900AC (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1200 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1200AC (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N600 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA2750 (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1900AC (1.0)",
+            "vendor": "Linksys"
+        }
+    ]
+}

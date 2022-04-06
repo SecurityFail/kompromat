@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "E5573s-320",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "USB LTE Modem",
+            "name": "E3372s",
+            "vendor": "Huawei"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "description": "10-Port Gigabit Web Smart PoE+ Switch",
+            "name": "TPE-1020WS (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "10-Port Gigabit Web Smart PoE+ Switch",
+            "name": "TPE-1020WS (v1.1R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "10-Port Gigabit Web Smart PoE+ Switch",
+            "name": "TPE-1020WS (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "10-Port Gigabit Web Smart PoE+ Switch",
+            "name": "TPE-1020WS (v1.1R)",
+            "vendor": "TRENDnet"
+        }
+    ]
+}

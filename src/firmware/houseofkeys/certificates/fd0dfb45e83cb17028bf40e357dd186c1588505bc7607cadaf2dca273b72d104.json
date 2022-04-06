@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "WAP131 Wireless-N Dual Radio Access Point with PoE",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "WAP351 Wireless-N Dual Radio Access Point with 5-Port Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "Business Access Point Wireless Wi-Fi Dual Band 2.4 + 5GHz AC1750 with PoE",
+            "name": "LAPAC1750PRO (1.0)",
+            "vendor": "Linksys"
+        }
+    ]
+}

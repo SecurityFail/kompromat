@@ -1,0 +1,154 @@
+{
+    "products": [
+        {
+            "description": "10-Port Gigabit Web Smart PoE+ Switch",
+            "name": "TPE-1020WS (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "10-Port Gigabit Web Smart PoE+ Switch",
+            "name": "TPE-1020WS (v1.1R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "16-Port Gigabit Web Smart PoE+ Switch",
+            "name": "TPE-1620WS (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "16-Port Gigabit Web Smart PoE+ Switch",
+            "name": "TPE-1620WS (v1.1R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "48-Port Gigabit Web Smart Switch",
+            "name": "TEG-448WS (C1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "16-Port Gigabit Web Smart Switch",
+            "name": "TEG-160WS (D1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "16-Port Gigabit Web Smart Switch",
+            "name": "TEG-160WS (D1.1R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "24-Port Gigabit Web Smart Switch",
+            "name": "TEG-240WS (D1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "24-Port Gigabit Web Smart Switch",
+            "name": "TEG-240WS (D1.1R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "24-Port 10/100 Mbps Web Smart PoE+ Switch",
+            "name": "TPE-224WS (C1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "48-Port 10/100 Mbps Web Smart Switch",
+            "name": "TEG-2248WS (C1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "24-Port 10/100 Mbps Web Smart Switch",
+            "name": "TEG-424WS (v2.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "8-Port Gigabit Web Smart Switch",
+            "name": "TEG-082WS (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "28-Port Gigabit Web Smart PoE+ Switch",
+            "name": "TPE-2840WS (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "48-Port Gigabit Web Smart PoE+ Switch",
+            "name": "TPE-4840WS (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "24-Port Gigabit Managed Layer 2 Switch",
+            "name": "TL2-G244 (v2.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "10-Port Gigabit Web Smart PoE+ Switch",
+            "name": "TPE-1020WS (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "10-Port Gigabit Web Smart PoE+ Switch",
+            "name": "TPE-1020WS (v1.1R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "28-Port Gigabit Web Smart PoE+ Switch",
+            "name": "TPE-2840WS (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "48-Port Gigabit Web Smart PoE+ Switch",
+            "name": "TPE-4840WS (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "16-Port Gigabit Web Smart PoE+ Switch",
+            "name": "TPE-1620WS (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "16-Port Gigabit Web Smart PoE+ Switch",
+            "name": "TPE-1620WS (v1.1R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "24-Port 10/100 Mbps Web Smart PoE+ Switch",
+            "name": "TPE-224WS (C1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "48-Port Gigabit Web Smart Switch",
+            "name": "TEG-448WS (C1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "24-Port 10/100 Mbps Web Smart Switch",
+            "name": "TEG-424WS (v2.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "24-Port Gigabit Web Smart Switch",
+            "name": "TEG-240WS (D1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "24-Port Gigabit Web Smart Switch",
+            "name": "TEG-240WS (D1.1R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "8-Port Gigabit Web Smart Switch",
+            "name": "TEG-082WS (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "16-Port Gigabit Web Smart Switch",
+            "name": "TEG-160WS (D1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "16-Port Gigabit Web Smart Switch",
+            "name": "TEG-160WS (D1.1R)",
+            "vendor": "TRENDnet"
+        }
+    ]
+}

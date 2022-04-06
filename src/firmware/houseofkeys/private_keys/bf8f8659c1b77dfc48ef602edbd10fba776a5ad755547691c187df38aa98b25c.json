@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "ADSL2+ 4-Port Wireless (802.11b/g/n 2x2) Bridge/Router",
+            "name": "6519-Ax-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "ADSL2+ 4-Port Bridge/Router",
+            "name": "6512-A1-xxx",
+            "vendor": "Zhone"
+        }
+    ]
+}

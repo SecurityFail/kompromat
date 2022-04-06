@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "Wireless AC1000 Dual Band Cloud Router",
+            "name": "DIR-820L B",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "AC1200 Wi-Fi Router",
+            "name": "DIR-830L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless AC1000 Dual Band Cloud Router",
+            "name": "DIR-820L A",
+            "vendor": "D-Link"
+        }
+    ]
+}

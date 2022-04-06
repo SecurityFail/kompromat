@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "description": "OpenStage SIP phone",
+            "name": "OS60",
+            "vendor": "unify"
+        },
+        {
+            "description": "OpenStage SIP phone",
+            "name": "OS80",
+            "vendor": "unify"
+        },
+        {
+            "description": "OpenStage SIP phone",
+            "name": "OS40",
+            "vendor": "unify"
+        },
+        {
+            "description": "OpenStage SIP phone",
+            "name": "OS20",
+            "vendor": "unify"
+        },
+        {
+            "description": "OpenStage SIP phone",
+            "name": "OS15",
+            "vendor": "unify"
+        }
+    ]
+}

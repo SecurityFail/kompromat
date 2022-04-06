@@ -1,0 +1,49 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "VMG1312-B30B",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "XDSL (30A) 4-Port Gateway",
+            "name": "6732-W1-xx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "XDSL 4-Port WiFi 802.11N IAD",
+            "name": "6748-W1-xx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "XDSL 4-Port WIFI 802.11n Residential Gateway",
+            "name": "6718-W1-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "XDSL 4-Port Residential Gateway",
+            "name": "6712-W1-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "ADSL2+ 4-Port Wireless (802.11b/g/n 1x1 ) Bridge/Router  ",
+            "name": "6518-A1-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "Bonded 4 PORT WIFI 802.11N (400mW) Residential Gateway",
+            "name": "6729-W1-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "Bonded XDSL 4-Port WIFI 802.11n Residential Gateway",
+            "name": "6728-W1-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "XDSL (30A) 4-Port WiFi 802.11N Gateway",
+            "name": "6738-W1-xx",
+            "vendor": "Zhone"
+        }
+    ]
+}

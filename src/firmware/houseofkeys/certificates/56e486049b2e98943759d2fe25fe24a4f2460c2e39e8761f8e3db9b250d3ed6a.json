@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "AC750 Wireless Travel Router",
+            "name": "TEW-817DTR (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "AC750 Dual Band Wireless Router",
+            "name": "TEW-810DR (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "AC750 Dual Band Wireless Router",
+            "name": "TEW-810DR (v1.1R)",
+            "vendor": "TRENDnet"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "EasyBox 904 LTE",
+            "vendor": "Vodafone"
+        },
+        {
+            "description": "",
+            "name": "EasyBox 904 xDSL",
+            "vendor": "Vodafone"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "description": "Business Access Point Wireless Wi-Fi Single Band 2.4GHz N300 with PoE",
+            "name": "LAPN300 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Business Access Point Wireless Wi-Fi Dual Band 2.4 + 5GHz N600 with PoE",
+            "name": "LAPN600 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Business Access Point Wireless Wi-Fi Dual Band 2.4 + 5GHz AC1200 with PoE",
+            "name": "LAPAC1200 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Business Access Point Wireless Wi-Fi Dual Band 2.4 + 5GHz AC1750 with PoE",
+            "name": "LAPAC1750 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Business Access Point Wireless Wi-Fi Single Band 2.4GHz N300 with PoE",
+            "name": "LAPN300 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Business Access Point Wireless Wi-Fi Dual Band 2.4 + 5GHz N600 with PoE",
+            "name": "LAPN600 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Business Access Point Wireless Wi-Fi Dual Band 2.4 + 5GHz AC1200 with PoE",
+            "name": "LAPAC1200 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Business Access Point Wireless Wi-Fi Dual Band 2.4 + 5GHz AC1750 with PoE",
+            "name": "LAPAC1750 (1.0)",
+            "vendor": "Linksys"
+        }
+    ]
+}

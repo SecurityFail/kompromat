@@ -1,0 +1,54 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "RV315W Wireless-N VPN Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "Small Business SRP520 Models",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "Small Business SRP540 Models",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "Small Business SRP520-U Models",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "WRP500 Wireless-AC Broadband Router with 2 Phone Ports",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SPA112 2-Port Phone Adapter",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SPA122 ATA with Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SPA112 2-Port Phone Adapter",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SPA122 ATA with Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SPA302D Multi-Line DECT Handset",
+            "vendor": "Cisco"
+        }
+    ]
+}

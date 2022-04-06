@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "ES-3124F",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "24/48-port FE L2 Switch",
+            "name": "ES-3124PWR",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "24/48-port FE L2 Switch",
+            "name": "ES-3148",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "ES-3124F",
+            "vendor": "ZyXEL"
+        }
+    ]
+}

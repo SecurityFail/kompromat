@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "DGND3700v1",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "DGN2200M",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "DGN2200v1",
+            "vendor": "NETGEAR"
+        }
+    ]
+}

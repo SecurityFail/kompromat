@@ -1,0 +1,54 @@
+{
+    "products": [
+        {
+            "description": "Routers",
+            "name": "TL-R480T+ V2",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "Routers",
+            "name": "TL-R480T+ V3",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "Routers",
+            "name": "TL-R488T V2",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "Routers",
+            "name": "TL-R488T V3",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "Routers",
+            "name": "TL-R480T V2",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "Routers",
+            "name": "TL-R480T V3",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "Routers",
+            "name": "TL-R4299G V1",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "Routers",
+            "name": "TL-R4299G V2",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "Routers",
+            "name": "TL-R470T+ V1",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "Routers",
+            "name": "TL-R480T+ V4",
+            "vendor": "TP-LINK"
+        }
+    ]
+}

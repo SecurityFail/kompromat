@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "Lighthouse",
+            "vendor": "Opengear"
+        },
+        {
+            "description": "",
+            "name": "kcs61xx",
+            "vendor": "Opengear"
+        }
+    ]
+}

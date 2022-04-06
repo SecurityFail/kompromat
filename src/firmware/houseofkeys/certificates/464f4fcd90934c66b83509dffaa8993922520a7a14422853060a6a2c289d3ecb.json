@@ -1,0 +1,59 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "Lighthouse",
+            "vendor": "Opengear"
+        },
+        {
+            "description": "",
+            "name": "UNS2300",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "UNS2700",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "N/A",
+            "name": "UR-314AN",
+            "vendor": "UPVEL"
+        },
+        {
+            "description": "N/A",
+            "name": "UR-344AN4G",
+            "vendor": "UPVEL"
+        },
+        {
+            "description": "N/A",
+            "name": "UR-354AN4G",
+            "vendor": "UPVEL"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "D3600",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "D6000",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "",
+            "name": "Business NAS 1 Bay",
+            "vendor": "Seagate"
+        },
+        {
+            "description": "",
+            "name": "Business NAS 4 Bay",
+            "vendor": "Seagate"
+        },
+        {
+            "description": "",
+            "name": "My Cloud EX4",
+            "vendor": "Western Digital"
+        }
+    ]
+}

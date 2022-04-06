@@ -1,0 +1,9 @@
+{
+    "products": [
+        {
+            "description": "Distributed Audio",
+            "name": "ALR-AEC",
+            "vendor": "AMX"
+        }
+    ]
+}

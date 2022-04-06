@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "ADSL2+ Wireless G Modem Router with VoIP",
+            "name": "NB9WMAXX",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "7.2 Wireless Broadband Home Network Gateway",
+            "name": "3G9WB",
+            "vendor": "NetComm Wireless"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "description": "Box  - 3Mpx PoE True Day & Night Box Network Camera",
+            "name": "NC-213E",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Bullet  - 3Mpx Outdoor PoE True Day & Night Network Camera",
+            "name": "IR-113E",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Dome  - 3Mpx PoE True Day & Night WDR Vandal Dome Network Camera",
+            "name": "VD-233ED",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Dome  - 3Mpx Varifocal PoE True Day & Night Dome Network Camera",
+            "name": "ND-233E",
+            "vendor": "Edimax"
+        }
+    ]
+}

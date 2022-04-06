@@ -1,0 +1,79 @@
+{
+    "products": [
+        {
+            "description": "Network Cameras  - 1.3Mpx Wireless Network Camera",
+            "name": "IC-3015Wn",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "3G Routers  - N300 Wireless 3G iQ Router",
+            "name": "3G-6408n",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "N150  - N150 Wireless 3G Compact Router",
+            "name": "3G-6200nL V2",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Indoor PTZ  - Wireless Day & Night PT Network Camera",
+            "name": "IC-7001W",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Cube  - 720p Wireless H.264 Day & Night Network Camera",
+            "name": "IC-3116W",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "IP-Gateway",
+            "name": "83341",
+            "vendor": "Busch-Jaeger"
+        },
+        {
+            "description": "",
+            "name": "IP Gateway",
+            "vendor": "Busch-Jaeger"
+        },
+        {
+            "description": "Cube  - 1.3Mpx Wireless Network Camera",
+            "name": "IC-3115W",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Indoor Fixed  - HD Wireless Day & Night Network Camera",
+            "name": "IC-3140W",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "AC1200 Dual-Band  - AC1200 Multi-Function Concurrent Dual-Band Wi-Fi Gigabit Router",
+            "name": "BR-6478AC",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "AC750 Dual-Band  - Amplificateur Wi-Fi/Point d'acc\u00e8s/Pont Wi-Fi bi-bande intelligent AC750",
+            "name": "EW-7438AC",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "AC1200 Dual-Band  - AC1200 Multi-Function Concurrent Dual-Band Wi-Fi Gigabit Router",
+            "name": "BR-6478AC",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Cube  - 720p Wireless H.264 Day & Night Network Camera",
+            "name": "IC-3116W",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "N300  - N300 Smart Wi-Fi Extender with EdiRange App",
+            "name": "EW-7438RPn Air",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "AC750 Dual-Band  - Amplificateur Wi-Fi/Point d'acc\u00e8s/Pont Wi-Fi bi-bande intelligent AC750",
+            "name": "EW-7438AC",
+            "vendor": "Edimax"
+        }
+    ]
+}

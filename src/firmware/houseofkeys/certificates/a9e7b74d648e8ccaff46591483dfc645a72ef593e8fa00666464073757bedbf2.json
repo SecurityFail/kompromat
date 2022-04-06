@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "TD5130",
+            "vendor": "Technicolor"
+        },
+        {
+            "description": "N300 Wireless ADSL 2+ Modem Router",
+            "name": "TEW-722BRM (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "N150 Wireless ADSL 2+ Modem Router",
+            "name": "TEW-721BRM (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "N300 Wireless ADSL 2/2+ Modem Router",
+            "name": "TEW-658BRM (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "N300 Wireless ADSL 2+ Modem Router",
+            "name": "TEW-722BRM (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "N150 Wireless ADSL 2+ Modem Router",
+            "name": "TEW-721BRM (v1.0R)",
+            "vendor": "TRENDnet"
+        }
+    ]
+}

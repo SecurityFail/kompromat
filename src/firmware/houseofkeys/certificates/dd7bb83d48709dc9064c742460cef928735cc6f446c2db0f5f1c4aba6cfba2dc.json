@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "Network-Attached Storage with 2 M12 Gigabit PoE+ LAN Ports and -40 to 70\u00b0 Temperature Tolerance",
+            "name": "RNAS-1200",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "RISC 19-inch rackmount data acquisition computers with 8 to 16 serial ports, 4 Ethernet ports, USB",
+            "name": "DA-662A",
+            "vendor": "Moxa"
+        }
+    ]
+}

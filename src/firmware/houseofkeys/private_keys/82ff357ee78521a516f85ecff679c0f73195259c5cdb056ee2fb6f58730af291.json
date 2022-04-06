@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "CLEAR Hub Express (GTK-RSU131)",
+            "vendor": "Clear"
+        },
+        {
+            "description": "",
+            "name": "CLEAR Spot Apollo",
+            "vendor": "Clear"
+        },
+        {
+            "description": "",
+            "name": "CLEAR Modem Series G (WIXS-151)",
+            "vendor": "Clear"
+        },
+        {
+            "description": "",
+            "name": "CLEAR Modem with Wi-Fi (WIXFBR-117)",
+            "vendor": "Clear"
+        }
+    ]
+}

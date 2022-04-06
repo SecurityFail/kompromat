@@ -1,0 +1,69 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "ioLogik W5348-HSDPA-C",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "10 DIs, 110 VDC, ch-to-ch isolation",
+            "name": "RM-1050-T",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "16 DIs, 24 VDC, sink/source type",
+            "name": "RM-1602-T",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "16 DIs, 24 VDC, sink type",
+            "name": "RM-2600-T",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "8 DIs, 4 to 20 mA, 16 bits",
+            "name": "RM-3802-T",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "8 AIs, 0 to 10 V, 16 bits",
+            "name": "RM-3810-T",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "Modular programmable controller",
+            "name": "ioPAC 8020 C/C++ Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "Modular RTU Controller",
+            "name": "ioPAC 8020-C",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "Rugged, compact C/C++ programmable controller with 4 AIs, 8 DIOs, and 2 relays",
+            "name": "ioPAC 5542",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "Modular RTU Controller",
+            "name": "ioPAC 8500",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "C/C++ modular programmable controller",
+            "name": "ioPAC 8500 C/C++ Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "Industrial 8+2G multiport secure router",
+            "name": "EDR-810 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "Industrial 8+2G multiport secure router",
+            "name": "EDR-810 Series",
+            "vendor": "Moxa"
+        }
+    ]
+}

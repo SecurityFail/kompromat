@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "C2000T",
+            "vendor": "Technicolor"
+        },
+        {
+            "description": "",
+            "name": "C2100T",
+            "vendor": "Technicolor"
+        }
+    ]
+}

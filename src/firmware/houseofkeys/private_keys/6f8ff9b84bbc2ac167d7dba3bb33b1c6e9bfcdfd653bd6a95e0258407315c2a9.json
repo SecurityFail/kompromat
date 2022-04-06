@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "description": "Outdoor 3MP Full HD PoE Dome Day/Night Network Camera",
+            "name": "TV-IP311PI (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "Outdoor 3MP Full HD PoE Day/Night Network Camera",
+            "name": "TV-IP310PI (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "Outdoor 2 MP Full HD 1080p PoE+ IR Mini Speed Dome Network Camera",
+            "name": "TV-IP430PI (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "Outdoor 3MP Full HD PoE Dome Day/Night Network Camera",
+            "name": "TV-IP311PI (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "Outdoor 3MP Full HD PoE Day/Night Network Camera",
+            "name": "TV-IP310PI (v1.0R)",
+            "vendor": "TRENDnet"
+        }
+    ]
+}

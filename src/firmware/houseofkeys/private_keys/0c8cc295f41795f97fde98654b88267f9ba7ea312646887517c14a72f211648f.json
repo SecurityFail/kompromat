@@ -1,0 +1,94 @@
+{
+    "products": [
+        {
+            "description": "ADSL2+ Single Ethernet Modem Router",
+            "name": "NB1",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "",
+            "name": "ZXHN H108N",
+            "vendor": "ZTE"
+        },
+        {
+            "description": "",
+            "name": "BHS-RTA",
+            "vendor": "Observa Telecom"
+        },
+        {
+            "description": "ADSL2/2+ Ethernet Modem / Router",
+            "name": "DSL600E(C)",
+            "vendor": "Aztech"
+        },
+        {
+            "description": "ADSL2+ Modem Router with USB and Single Ethernet",
+            "name": "NB5",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "",
+            "name": "Bewan 900",
+            "vendor": "Bewan"
+        },
+        {
+            "description": "4-port ADSL2+ Modem Router with 54Mbps Wireless",
+            "name": "NB5Plus4W",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "ADSL2+/ReachDSL Bridge/Router (Texas Instruments)",
+            "name": "6381-A4-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "ADSL2/2+ Wireless b/g 4 Port Modem / Router",
+            "name": "DSL605EW",
+            "vendor": "Aztech"
+        },
+        {
+            "description": "ADSL2+/ReachDSL Wireless 4 Port Bridge/Router (Texas Instruments)",
+            "name": "6388-A2-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "802.11n Wireless ADSL2+ VoIP IAD",
+            "name": "P-2612HNU-F3",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Wireless N Gigabit Active Fiber VoIP IAD",
+            "name": "FSG2200HNU",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Wireless N Gigabit Active Fiber VoIP IAD",
+            "name": "FSG2200HNU",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "802.11n Wireless ADSL2+ 4-port Security Gateway",
+            "name": "P-661HNU-F3",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "P-2601HNL-F1",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "ADSL2+/ReachDSL Bridge/Router (Texas Instruments)",
+            "name": "6381-A5-xxx",
+            "vendor": "Zhone"
+        },
+        {
+            "description": "802.11n Wireless ADSL2+ 4-port Security Gateway",
+            "name": "P-661HNU-F1",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "P-2601HN-F1",
+            "vendor": "ZyXEL"
+        }
+    ]
+}

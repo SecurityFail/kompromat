@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "N150 Wireless Outdoor PoE Access Point",
+            "name": "TEW-715APO (v1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "802.11 b/g/n PoE Access Point",
+            "name": "NWA1100-N",
+            "vendor": "ZyXEL"
+        }
+    ]
+}

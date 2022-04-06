@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "MAX208M2W",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "MAX218M2W",
+            "vendor": "ZyXEL"
+        }
+    ]
+}

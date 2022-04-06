@@ -1,0 +1,139 @@
+{
+    "products": [
+        {
+            "description": "WiFi Routers",
+            "name": "R4500",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "AC1450",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNDR3400v2",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNDR4500",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R6200",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R6200v2",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Range Extenders",
+            "name": "EX6100",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R6700",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "D6300",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNR3500Lv2",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R6250",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNDR4500v2",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "DGN2200v4",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "D6400",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Modem",
+            "name": "DC112A (Zain)",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "Modem",
+            "name": "DC112A",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R8000",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R7900",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNDR3400v3",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R7000",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "DGN2200v4",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "DSL Modems & Gateways",
+            "name": "D6300",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R6300v1",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R6300v2",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "R7900",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNDR3400v2",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNR3500Lv2",
+            "vendor": "NETGEAR"
+        }
+    ]
+}

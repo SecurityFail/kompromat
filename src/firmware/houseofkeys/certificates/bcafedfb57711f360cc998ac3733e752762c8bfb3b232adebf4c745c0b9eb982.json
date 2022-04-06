@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "Vigor2130 series",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "",
+            "name": "Vigor2130FVn",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "",
+            "name": "Vigor1000 Series",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "",
+            "name": "Vigor2750 series",
+            "vendor": "DrayTek"
+        }
+    ]
+}

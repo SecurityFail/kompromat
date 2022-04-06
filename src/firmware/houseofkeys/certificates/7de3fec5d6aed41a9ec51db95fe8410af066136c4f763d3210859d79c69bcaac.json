@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "description": "Blu-ray and DVD players",
+            "name": "Philips 3000 series Blu-ray Disc/ DVD player BDP3250 DivX Plus HD WiFi-Ready BD-Live",
+            "vendor": "Philips"
+        },
+        {
+            "description": "Blu-ray and DVD players",
+            "name": "Philips 2000 series Blu-ray Disc player BDP2700 USB2.0 Media Link DivX Ultra",
+            "vendor": "Philips"
+        },
+        {
+            "description": "Blu-ray and DVD players",
+            "name": "Philips 3000 series Blu-ray Disc player BDP3100 BD-Live USB2.0 Media Link DivX Ultra",
+            "vendor": "Philips"
+        },
+        {
+            "description": "Blu-ray and DVD players",
+            "name": "Philips Blu-ray Disc/ DVD player BDP2980 3D playback",
+            "vendor": "Philips"
+        }
+    ]
+}

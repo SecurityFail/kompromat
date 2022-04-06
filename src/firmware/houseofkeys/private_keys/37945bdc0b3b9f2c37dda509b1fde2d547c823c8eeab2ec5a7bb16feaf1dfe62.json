@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "V310",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "N300 Wireless Router",
+            "name": "E1500 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Maximum Performance Dual-Band N Router",
+            "name": "E4200 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "High Performance Dual-Band N Router",
+            "name": "E3200 (1.0)",
+            "vendor": "Linksys"
+        }
+    ]
+}

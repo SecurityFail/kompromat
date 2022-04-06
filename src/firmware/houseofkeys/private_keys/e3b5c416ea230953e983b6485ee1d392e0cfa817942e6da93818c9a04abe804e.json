@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "description": "2-Bay Power Plus Media Server",
+            "name": "NSA325",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "2-Bay NAS server and Power Plus Media Server",
+            "name": "NSA325 v2",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "1-Bay Media Server",
+            "name": "NSA310S",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "2-Bay Power Media Server",
+            "name": "NSA320",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "1-Bay Media Server",
+            "name": "NSA310",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "2-Bay Power Media Server",
+            "name": "NSA320S",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "2-Bay NAS server and Power Plus Media Server",
+            "name": "NSA325 v2",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "2-Bay Power Plus Media Server",
+            "name": "NSA325",
+            "vendor": "ZyXEL"
+        }
+    ]
+}

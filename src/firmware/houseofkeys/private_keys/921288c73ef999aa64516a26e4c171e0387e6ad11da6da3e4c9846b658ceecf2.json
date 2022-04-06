@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "SOHO Wireless Access Points",
+            "name": "WN802T",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNR834M",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "WNR854T",
+            "vendor": "NETGEAR"
+        }
+    ]
+}

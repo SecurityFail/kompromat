@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "VPN Firewalls",
+            "name": "FVS336Gv1",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "VPN Firewalls",
+            "name": "SRXN3205",
+            "vendor": "NETGEAR"
+        }
+    ]
+}

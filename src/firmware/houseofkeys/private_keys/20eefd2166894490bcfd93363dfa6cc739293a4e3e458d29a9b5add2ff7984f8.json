@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "W345",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "W325",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "W315",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "UC-7112 Plus",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "RISC-based Industrial Computer with 4 Serial Ports, 4 DI Channels, 4 DO Channels, Dual Ethernet, PCMCIA, SD, and USB Host",
+            "name": "IA240",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "W311",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "RISC-based fanless embedded computer with 2 serial ports, 4 DIs, 4 DOs, 2 AIs, 2 thermocouples, dual LANs, SD, Linux",
+            "name": "IA3341",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "RISC-based embedded computers with GSM/GPRS, LAN, and 1 or 2 serial ports",
+            "name": "W315A/W325A",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "UC-7402",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "UC-7408",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "UC-7410, UC-7420",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "RISC-based embedded Linux computers with WLAN, LAN, and 2 serial port",
+            "name": "W321",
+            "vendor": "Moxa"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "Wireless G ADSL Firewall Modem Router",
+            "name": "TEW-435BRM (D1.0R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "Wireless G ADSL Firewall Modem Router",
+            "name": "TEW-435BRM (D1.1R)",
+            "vendor": "TRENDnet"
+        },
+        {
+            "description": "Dual-Band Wireless-N ADSL2+ Modem Gigabit Router",
+            "name": "WAG320N (1.0)",
+            "vendor": "Linksys"
+        }
+    ]
+}

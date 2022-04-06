@@ -1,0 +1,99 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "RV320 Dual Gigabit WAN VPN Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "RV325 Dual Gigabit WAN VPN Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "RV325 Dual WAN Gigabit VPN Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "RV320 Dual Gigabit WAN VPN Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "RV325 Dual WAN Gigabit VPN Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "AC1200 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6300 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1600 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6400 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6900 (1.1)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1750 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6500 (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1750 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6500 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N750 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA3500 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N600 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA2700 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA4500 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "Maximum Performance Dual-Band N Router",
+            "name": "E4200 (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1200+ Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6350 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N/A",
+            "name": "UR-825AC",
+            "vendor": "UPVEL"
+        },
+        {
+            "description": "AC1750 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6500 (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1750 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA6700 (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "N600 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "EA2700 (1.0)",
+            "vendor": "Linksys"
+        }
+    ]
+}

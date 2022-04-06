@@ -1,0 +1,164 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "5915 Embedded Service Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "3925 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "3945 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "3925E Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "3945E Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "2901 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "2911 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "2921 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "2951 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "Aironet 1552 Outdoor Access Point",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "Catalyst 3560CG-8PC-S Compact Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "Catalyst 3560CG-8TC-S Compact Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "Catalyst 3560CPD-8PT-S Compact Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "Catalyst 3560C-12PC-S Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "Catalyst 3560C-8PC-S Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "IE-3010-16S-8PC Industrial Ethernet Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "IE-3010-24TC Industrial Ethernet Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "VG204XM Analog Voice Gateway",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "VG350 Analog Voice Gateway",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "VG3X0 Analog Voice Gateway",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "2010 Connected Grid Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "1905 Serial Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "1921 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "1941 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "1941W Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "1906C Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "860VAE-W Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "Aironet 1552 Outdoor Access Point",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "861 Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "861W Integrated Services Router",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "Aironet 1552 Outdoor Access Point",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "5940 Embedded Services Router",
+            "vendor": "Cisco"
+        }
+    ]
+}

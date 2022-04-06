@@ -1,0 +1,59 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "SF220-24 24-Port 10/100 Smart Plus Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SF220-24P 24-Port 10/100 PoE Smart Plus Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SF220-48 48-Port 10/100 Smart Plus Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SF220-48P 48-Port 10/100 PoE Smart Plus Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SG220-26 26-Port Gigabit Smart Plus Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SG220-26P 26-Port Gigabit PoE Smart Plus Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SG220-28 28-Port Gigabit Smart Plus Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SG220-28MP 28-Port Gigabit PoE Smart Plus Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SG220-50 50-Port Gigabit Smart Plus Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SG220-50P 50-Port Gigabit PoE Smart Plus Switch",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SG220-52 52-Port Gigabit Smart Plus Switch",
+            "vendor": "Cisco"
+        }
+    ]
+}

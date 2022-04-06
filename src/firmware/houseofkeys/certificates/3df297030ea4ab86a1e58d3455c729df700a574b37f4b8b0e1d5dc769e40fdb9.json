@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "Business NAS 1 Bay",
+            "vendor": "Seagate"
+        },
+        {
+            "description": "",
+            "name": "Business NAS 4 Bay",
+            "vendor": "Seagate"
+        }
+    ]
+}

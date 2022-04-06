@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "description": "AC1900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1900AC (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1900AC (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1200 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1200AC (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1900AC (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1900AC (2.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1200 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1200AC (1.0)",
+            "vendor": "Linksys"
+        },
+        {
+            "description": "AC1900 Dual-Band Smart Wi-Fi Wireless Router",
+            "name": "WRT1900AC (1.0)",
+            "vendor": "Linksys"
+        }
+    ]
+}

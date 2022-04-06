@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "GAN9.8T101A-B",
+            "vendor": "ZTE"
+        },
+        {
+            "description": "",
+            "name": "HG110",
+            "vendor": "ZTE"
+        },
+        {
+            "description": "",
+            "name": "ZXHN H108N",
+            "vendor": "ZTE"
+        },
+        {
+            "description": "",
+            "name": "BHS-RTA",
+            "vendor": "Observa Telecom"
+        },
+        {
+            "description": "",
+            "name": "HG110",
+            "vendor": "ZTE"
+        },
+        {
+            "description": "AC750 Wireless VDSL2/ADSL2+ Modem Router",
+            "name": "TEW-816DRM (v1.0R)",
+            "vendor": "TRENDnet"
+        }
+    ]
+}

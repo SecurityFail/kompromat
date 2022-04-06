@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "Lighthouse",
+            "vendor": "Opengear"
+        },
+        {
+            "description": "",
+            "name": "UNS2300",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "UNS2700",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "4-Bay Personal Cloud Storage",
+            "name": "NAS540",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "",
+            "name": "Business NAS 1 Bay",
+            "vendor": "Seagate"
+        },
+        {
+            "description": "",
+            "name": "Business NAS 4 Bay",
+            "vendor": "Seagate"
+        },
+        {
+            "description": "",
+            "name": "My Cloud EX4",
+            "vendor": "Western Digital"
+        }
+    ]
+}

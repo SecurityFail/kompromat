@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "HD Media Router 3000",
+            "name": "DIR-857 A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "HD Media Router 2000",
+            "name": "DIR-827 A",
+            "vendor": "D-Link"
+        }
+    ]
+}

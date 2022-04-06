@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "VigorFly 210",
+            "vendor": "DrayTek"
+        },
+        {
+            "description": "",
+            "name": "VigorAP 900",
+            "vendor": "DrayTek"
+        }
+    ]
+}

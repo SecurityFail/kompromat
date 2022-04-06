@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "description": "Busch-ComfortPanel - Haussteuerung, Infotainment, Entertainment",
+            "name": "8136/09-811",
+            "vendor": "Busch-Jaeger"
+        },
+        {
+            "description": "Busch-ComfortPanel - Haussteuerung, Infotainment, Entertainment",
+            "name": "8136/09-825",
+            "vendor": "Busch-Jaeger"
+        },
+        {
+            "description": "Busch-ComfortPanel\u00ae 12.1\" - Haussteuerung, Infotainment, Entertainment",
+            "name": "8136/12-811",
+            "vendor": "Busch-Jaeger"
+        },
+        {
+            "description": "Busch-ComfortPanel\u00ae 12.1\" - Haussteuerung, Infotainment, Entertainment",
+            "name": "8136/12-825",
+            "vendor": "Busch-Jaeger"
+        }
+    ]
+}

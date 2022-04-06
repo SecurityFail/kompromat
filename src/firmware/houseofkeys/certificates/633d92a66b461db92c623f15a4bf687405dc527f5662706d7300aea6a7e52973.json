@@ -1,0 +1,59 @@
+{
+    "products": [
+        {
+            "description": "OpenStage SIP phone",
+            "name": "OS5",
+            "vendor": "unify"
+        },
+        {
+            "description": "Wireless Management",
+            "name": "WFS709TP",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess OAW-4304-4308 - EOS",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess OAW-4324-EOS",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess OAW-4302",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess OAW-4302 - EOS",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess OAW-4x04 series",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess OAW-6000",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess OAW-4306",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess OAW-4306",
+            "vendor": "Alcatel-Lucent"
+        },
+        {
+            "description": "unknown",
+            "name": "OmniAccess OAW-4306",
+            "vendor": "Alcatel-Lucent"
+        }
+    ]
+}

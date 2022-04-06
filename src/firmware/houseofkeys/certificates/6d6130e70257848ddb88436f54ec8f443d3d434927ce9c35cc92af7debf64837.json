@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "802.11 b/g/n Long Range PoE Access Point",
+            "name": "NWA1100-NH",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "802.11n/ac Ceiling Mount PoE Access Point",
+            "name": "NWA1121-NI",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "802.11n/ac Ceiling Mount PoE Access Point",
+            "name": "NWA1123-AC",
+            "vendor": "ZyXEL"
+        }
+    ]
+}

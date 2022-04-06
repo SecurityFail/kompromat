@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "P8702N",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "AC 1900 Wireless Dual Band Gigabit VDSL/ADSL Modem Router",
+            "name": "Archer VR900 V1",
+            "vendor": "TP-LINK"
+        },
+        {
+            "description": "AC 1900 Wireless Dual Band Gigabit VDSL/ADSL Modem Router",
+            "name": "Archer VR900 V1",
+            "vendor": "TP-LINK"
+        }
+    ]
+}

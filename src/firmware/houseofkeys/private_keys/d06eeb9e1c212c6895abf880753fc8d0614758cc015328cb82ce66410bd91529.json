@@ -1,0 +1,404 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "EDS-726 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "7+3G-port Gigabit managed Ethernet switches",
+            "name": "EDS-510A Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "5 and 8-port managed Ethernet switches",
+            "name": "EDS-505A/EDS-508A Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "16-port managed Ethernet switches",
+            "name": "EDS-516A Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "16+2G-port Gigabit managed Ethernet switches",
+            "name": "EDS-518A Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "TN-5516 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "TN-5518 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "TN-5516-8PoE Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "TN-5508-4PoE Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "TN-5508 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "TN-5510 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "IKS-6726-8PoE Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "IKS-6524/6526 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "IKS-6726 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "Managed SHDSL Ethernet extenders",
+            "name": "IEX-402-SHDSL Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "IEC 61850-3 modular IEEE 1588 v2 rackmount Ethernet switches",
+            "name": "PT-7728-PTP Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "EN 50155 16/16+2G-port layer 3 Gigabit managed Ethernet switches",
+            "name": "TN-5816/TN-5818 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "Managed VDSL2 Ethernet extenders",
+            "name": "IEX-402-VDSL2 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "8G/12G/16G-port full Gigabit managed Ethernet switches",
+            "name": "EDS-G508E/EDS-G512E/EDS-G516E Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "7+3G-port Gigabit managed Ethernet switches",
+            "name": "EDS-510E Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "IEC 61850-3 / EN 50155 24+4G-port Gigabit modular managed Ethernet switches",
+            "name": "PT-7728 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "IEC 61850-3 / EN 50155 24+4G-port Layer 3 Gigabit modular managed Ethernet switches",
+            "name": "PT-7828 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "IEC 61850-3 8-port managed DIN-Rail Ethernet switches",
+            "name": "PT-508 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "IEC 61850-3 10-port managed DIN-Rail Ethernet switches",
+            "name": "PT-510 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "6-port managed Ethernet switches with 4 IEEE 802.3af/at PoE+ ports",
+            "name": "EDS-P506A-4PoE Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "8, 8+3G, 16, 16+3G-port compact modular managed Ethernet switches",
+            "name": "EDS-619 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "24+4G-port Layer 3 Gigabit modular managed Ethernet switch",
+            "name": "EDS-828 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "IEC 61850-3 / EN 50155 8+2G-port Gigabit modular managed Ethernet switches",
+            "name": "PT-7710 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "IEC 61850-3 9G-port Full Gigabit managed Ethernet switches",
+            "name": "PT-G7509 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "IEC 61850-3 28-port managed rackmount Ethernet switches",
+            "name": "PT-7528 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "IKS-6726-2GTXSFP/IKS-6728-4GTXSFP Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "24+4G-port Gigabit modular managed Ethernet switch",
+            "name": "EDS-728 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "IKS-6728-8PoE Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "24+4G-port Gigabit modular managed PoE+ Ethernet switches",
+            "name": "IKS-6728A-8PoE Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "24+2G/24+4G-port modular managed Ethernet switches",
+            "name": "IKS-6726A/IKS-6728A Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "24G+2 10GbE/24G+4 10GbE-port Layer 2 full Gigabit managed Ethernet switches",
+            "name": "ICS-G7526A/ICS-G7528A Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "24G-port Layer 2 full Gigabit managed Ethernet switches",
+            "name": "IKS-G6524A Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "48G/48G+2 10GbE/48G+4 10GbE-port Layer 2 full Gigabit modular managed Ethernet switches",
+            "name": "ICS-G7748A/ICS-G7750A/ICS-G7752A Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "ICS-G7748/ICS-G7750/ICS-G7752 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "ICS-G7826/ICS-G7828 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "IKS-G6824 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "ICS-G7848/ICS-G7850/ICS-G7852 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "ICS-G7526/ICS-G7528 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "IKS-G6524 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "24G+2 10GbE/24G+4 10GbE-port Layer 3 full Gigabit managed Ethernet switches",
+            "name": "ICS-G7826A/ICS-G7828A Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "24G-port Layer 3 full Gigabit managed Ethernet switches",
+            "name": "IKS-G6824A Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "48G/48G+2 10GbE/48G+4 10GbE-port Layer 3 full Gigabit modular managed Ethernet switches",
+            "name": "ICS-G7848A/ICS-G7850A/ICS-G7852A Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "14+4G-port Gigabit managed Ethernet switches",
+            "name": "EDS-518E Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "9G-port full Gigabit managed Ethernet switches",
+            "name": "EDS-G509 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "5-port IEEE 1588v2 PTP managed Ethernet switches",
+            "name": "EDS-405A-PTP Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "8, 8+3G, 16, 16+3G-port compact modular managed Ethernet switches",
+            "name": "EDS-616 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "8, 8+3G, 16, 16+3G-port compact modular managed Ethernet switches",
+            "name": "EDS-608 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "8, 8+3G, 16, 16+3G-port compact modular managed Ethernet switches",
+            "name": "EDS-608/EDS-611/EDS-616/EDS-619 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "8, 8+3G, 16, 16+3G-port compact modular managed Ethernet switches",
+            "name": "EDS-611 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "8, 8+3G, 16, 16+3G-port compact modular managed Ethernet switches",
+            "name": "EDS-619 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "12G-port full gigabit PoE+ managed Ethernet switches",
+            "name": "EDS-G512E-8PoE Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "7+3G-port Gigabit managed Ethernet switches with 4 IEEE 802.3af PoE ports",
+            "name": "EDS-P510 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "8+2G-port Gigabit PoE+ managed Ethernet switches with 8 IEEE 802.3af/at PoE+ ports",
+            "name": "EDS-P510A-8PoE Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "IKS-6726-2GTXSFP/IKS-6728-4GTXSFP Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "ICS-G7848/ICS-G7850/ICS-G7852 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "ICS-G7826/ICS-G7828 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "6-port managed Ethernet switches with 4 IEEE 802.3af/at PoE+ ports",
+            "name": "EDS-P506A-4PoE Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "24+4G-port Gigabit modular managed Ethernet switch",
+            "name": "EDS-728 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "24+4G-port Layer 3 Gigabit modular managed Ethernet switch",
+            "name": "EDS-828 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "24G+2 10GbE/24G+4 10GbE-port Layer 2 full Gigabit managed Ethernet switches",
+            "name": "ICS-G7526A/ICS-G7528A Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "24G-port Layer 2 full Gigabit managed Ethernet switches",
+            "name": "IKS-G6524A Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "24G+2 10GbE/24G+4 10GbE-port Layer 3 full Gigabit managed Ethernet switches",
+            "name": "ICS-G7826A/ICS-G7828A Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "24G-port Layer 3 full Gigabit managed Ethernet switches",
+            "name": "IKS-G6824A Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "24+2G/24+4G-port modular managed Ethernet switches",
+            "name": "IKS-6726A/IKS-6728A Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "24+4G-port Gigabit modular managed PoE+ Ethernet switches",
+            "name": "IKS-6728A-8PoE Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "48G/48G+2 10GbE/48G+4 10GbE-port Layer 3 full Gigabit modular managed Ethernet switches",
+            "name": "ICS-G7848A/ICS-G7850A/ICS-G7852A Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "48G/48G+2 10GbE/48G+4 10GbE-port Layer 2 full Gigabit modular managed Ethernet switches",
+            "name": "ICS-G7748A/ICS-G7750A/ICS-G7752A Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "7+3G-port Gigabit managed Ethernet switches with 4 IEEE 802.3af PoE ports",
+            "name": "EDS-P510 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "8G/12G/16G-port full Gigabit managed Ethernet switches",
+            "name": "EDS-G508E/EDS-G512E/EDS-G516E Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "8+2G-port Gigabit PoE+ managed Ethernet switches with 8 IEEE 802.3af/at PoE+ ports",
+            "name": "EDS-P510A-8PoE Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "12G-port full gigabit PoE+ managed Ethernet switches",
+            "name": "EDS-G512E-8PoE Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "7+3G-port Gigabit managed Ethernet switches",
+            "name": "EDS-510E Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "ICS-G7826/ICS-G7828 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "",
+            "name": "IKS-G6824 Series",
+            "vendor": "Moxa"
+        },
+        {
+            "description": "IEC 61850-3/62439-3 3-port full Gigabit managed redundancy boxes",
+            "name": "PT-G503-PHR-PTP Series",
+            "vendor": "Moxa"
+        }
+    ]
+}

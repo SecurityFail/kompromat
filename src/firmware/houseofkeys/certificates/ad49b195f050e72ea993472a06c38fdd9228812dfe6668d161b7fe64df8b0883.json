@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "description": "Wireless AC600 Dual Band Cloud Router",
+            "name": "DIR-808L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless AC750 Dual Band Cloud Router",
+            "name": "DIR-810L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless N600 Dual Band Gigabit Cloud Router",
+            "name": "DIR-826L A",
+            "vendor": "D-Link"
+        },
+        {
+            "description": "Wireless AC750 Dual Band Cloud Router",
+            "name": "DIR-810L B",
+            "vendor": "D-Link"
+        }
+    ]
+}

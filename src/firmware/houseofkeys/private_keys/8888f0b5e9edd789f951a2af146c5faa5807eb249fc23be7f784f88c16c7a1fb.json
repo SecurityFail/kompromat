@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "description": "802.11n Wireless ADSL2+ VoIP IAD",
+            "name": "P-2612HNU-F3",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Wireless N Gigabit Active Fiber VoIP IAD",
+            "name": "FSG2200HNU",
+            "vendor": "ZyXEL"
+        },
+        {
+            "description": "Wireless N Gigabit Active Fiber VoIP IAD",
+            "name": "FSG2200HNU",
+            "vendor": "ZyXEL"
+        }
+    ]
+}

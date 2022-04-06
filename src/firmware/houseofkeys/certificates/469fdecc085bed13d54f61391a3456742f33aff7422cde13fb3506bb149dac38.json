@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "WRV200 Wireless-G VPN Router - RangeBooster",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "WRV210 Wireless-G VPN Router - RangeBooster",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "Wired Broadband Routers  - Fast Ethernet Broadband Router",
+            "name": "BR-6214K",
+            "vendor": "Edimax"
+        },
+        {
+            "description": "Wired Routers & Gateways",
+            "name": "RP614v4",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "WiFi Routers",
+            "name": "KWGR614",
+            "vendor": "NETGEAR"
+        }
+    ]
+}

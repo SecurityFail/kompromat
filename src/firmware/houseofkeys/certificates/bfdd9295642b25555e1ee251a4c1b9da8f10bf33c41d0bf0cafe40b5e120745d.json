@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "description": "WiMAX CPE",
+            "name": "BM632w",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "WiMAX CPE",
+            "name": "BM631A",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "WiMAX CPE",
+            "name": "BM635",
+            "vendor": "Huawei"
+        },
+        {
+            "description": "WiMAX CPE",
+            "name": "SWU-8200",
+            "vendor": "Seowon Intech"
+        },
+        {
+            "description": "WiMAX CPE",
+            "name": "FMM-130",
+            "vendor": "Mobinet (Iran) CPE"
+        }
+    ]
+}

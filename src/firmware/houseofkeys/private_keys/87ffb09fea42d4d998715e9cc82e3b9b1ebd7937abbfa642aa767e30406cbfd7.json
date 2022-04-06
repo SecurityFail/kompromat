@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "SRW224G4P 24-port 10/100 + 4-port Gigabit Switch - WebView/PoE",
+            "vendor": "Cisco"
+        },
+        {
+            "description": "",
+            "name": "SRW248G4P 48-port 10/100 + 4-port Gigabit Switch - WebView/PoE",
+            "vendor": "Cisco"
+        }
+    ]
+}

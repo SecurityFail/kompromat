@@ -1,0 +1,94 @@
+{
+    "products": [
+        {
+            "description": "Wireless Outdoor CPE",
+            "name": "CP500",
+            "vendor": "Totolink"
+        },
+        {
+            "description": "",
+            "name": "mFi-CS",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mFi-DS",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mFi-LD",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mFi-LD-W",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mFi-MPW",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mFi-MPW-W",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mFi-MSC",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mFi-MSW",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mFi-THS",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mPort",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mPort-S",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mPower",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mPower (EU)",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mPower PRO",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mPower PRO (EU)",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mPower mini",
+            "vendor": "Ubiquiti Networks"
+        },
+        {
+            "description": "",
+            "name": "mPower mini (EU)",
+            "vendor": "Ubiquiti Networks"
+        }
+    ]
+}

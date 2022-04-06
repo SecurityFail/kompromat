@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "Dual ADSL2+ / 3G Wireless N Gateway",
+            "name": "3G29WN2",
+            "vendor": "NetComm Wireless"
+        },
+        {
+            "description": "Dual ADSL2+/3G Wireless N Gateway",
+            "name": "3G29WN",
+            "vendor": "NetComm Wireless"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "VPN Firewalls",
+            "name": "FVG318v1",
+            "vendor": "NETGEAR"
+        },
+        {
+            "description": "VPN Firewalls",
+            "name": "FVS124G",
+            "vendor": "NETGEAR"
+        }
+    ]
+}

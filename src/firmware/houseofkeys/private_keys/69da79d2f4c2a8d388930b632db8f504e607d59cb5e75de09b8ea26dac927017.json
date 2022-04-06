@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "description": "",
+            "name": "Q2000",
+            "vendor": "Actiontec"
+        },
+        {
+            "description": "",
+            "name": "Q1000",
+            "vendor": "ZyXEL"
+        }
+    ]
+}
