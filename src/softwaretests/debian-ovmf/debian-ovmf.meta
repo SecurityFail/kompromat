@@ -1,0 +1,2 @@
+desc = Example snakeoil UEFI certificate and key from Debian's ovmf package
+uri = https://packages.debian.org/sid/ovmf
