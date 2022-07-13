@@ -1,0 +1,2 @@
+desc = SSH key used on the Instrument cluster of the Tesla Model S and X
+uri = https://github.com/rapid7/ssh-badkeys/pull/24
