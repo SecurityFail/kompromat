@@ -1,0 +1,3 @@
+uri = https://github.com/rapid7/ssh-badkeys/pull/26
+uri = https://github.com/Diodes-Delight/piunora-raspberrypi-os-image/issues/2
+desc = Static SSH host keys for Piunora board firmware
