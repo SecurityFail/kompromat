@@ -1,0 +1,8 @@
+openSUSE-123-64-minimal.tar.gz:ssh_host_rsa_key
+
+Pubkey:
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDNcvXEjcQW4keNWhQBjqFgLBndHNJKiAm+uCQjWStHc3oIP+jLwIwF5y1dGSxUWbb2JTVic+7RUax49fOXoFfBT84YWU4a8l7pUplRfyS9h+/GG4rByTsbXYaQdaxexUCiqHd16L17eNHUEHBv1ZT33DITCtDiFjDhE2grDHzf+6n5JCrnBA1X69CK4PwJN4QPJEYcsodmlLKr8T53WJq4CjiMjsWwDWdd7D/sCJlApm5wy4OEU9DaB7NMVmvN46PMvUn3IDZXKMc3WkfKLMmsjHSbbcKgVDKEwCBWlMzRW2msWb05ApHY2vNmDQjjzYatMdhlvLfCBZkEWcnxP47D
+Fingerprint (new):
+2048 SHA256:TiJPkD3h36wG01jQMXWoOvL9jPXXFeVCLqJsrhOAXBQ no comment (RSA)
+Fingerprint (old):
+2048 MD5:da:04:24:44:b8:c9:6e:6e:61:bf:a6:2a:4a:7f:e7:f0 no comment (RSA)

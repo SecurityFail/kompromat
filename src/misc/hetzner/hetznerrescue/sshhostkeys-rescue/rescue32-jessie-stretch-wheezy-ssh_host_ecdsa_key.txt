@@ -1,0 +1,16 @@
+rescue32-jessie-v020.ext2:ssh_host_ecdsa_key
+rescue32-test.ext2:ssh_host_ecdsa_key
+rescue32-wheezy-v020.ext2:ssh_host_ecdsa_key
+rescue32-wheezy-v021.ext2:ssh_host_ecdsa_key
+rescue32-stretch-v003.ext2:ssh_host_ecdsa_key
+rescue32-wheezy-v022.ext2:ssh_host_ecdsa_key
+rescue32-stretch-v001.ext2:ssh_host_ecdsa_key
+rescue32-jessie-v022.ext2:ssh_host_ecdsa_key
+rescue32-jessie-v021.ext2:ssh_host_ecdsa_key
+rescue32-stretch-v000.ext2:ssh_host_ecdsa_key
+Pubkey:
+ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBDBj5/tAQ/5oVOBfOclLH8y0IulQ0D7vwGrDItT1M8/DX/x0/fEK/7J78ufKfOPfv4CEXdpUo6uJINYR/up6GSQ=
+Fingerprint (new):
+256 SHA256:UAeSMZvnqckSMgR/g9VqDXa1YDTbRiWhjuRdnFcug3I no comment (ECDSA)
+Fingerprint (old):
+256 MD5:c6:5b:9c:fa:44:66:92:c4:ac:4b:62:67:92:3b:c0:e3 no comment (ECDSA)

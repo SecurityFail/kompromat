@@ -1,0 +1,8 @@
+Ubuntu-1310-saucy-64-minimal.tar.gz:ssh_host_rsa_key
+
+Pubkey:
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDkXYBYj5v1k3vIC5cJZovKL4pGVKD4E/llkrcAwGGUKTdab7BlPeiZ/VcbK8OVJCNu9BLy6FZFxsysTtFuXFqDbFTQKsKfM5E4sb0exxMDkosrdI0GCbVkjGV24cJFYsWM/iScl1GsncxnPvgPKezyA8lTQZ6BHBhGM5fnjC1xX/+cjSRdbTzvU8vaRf9qv5ypRiuGpevJscVDfAcugHuVY9UBCnQ6v83NzH255fOBsaK4qf6+pqEuYzL5jStAAo4aUmkGqCmIeZ7g404aA8yiUfoXSVflhYrbrBJ0A1+dozEpkEnQspxSEIuzEUlGWRTUd6pyfrcrk7hXIsRQ5g7F
+Fingerprint (new):
+2048 SHA256:R/wM/TyYIroYV18ui6503vWslNpRVi9lMqRpmfapT2M no comment (RSA)
+Fingerprint (old):
+2048 MD5:b9:4c:66:03:cb:25:4a:8c:35:cd:21:04:ad:95:ea:a9 no comment (RSA)

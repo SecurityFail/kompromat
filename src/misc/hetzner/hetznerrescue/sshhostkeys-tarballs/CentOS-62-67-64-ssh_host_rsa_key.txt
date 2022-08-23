@@ -1,0 +1,14 @@
+CentOS-64-64-minimal.tar.gz:ssh_host_rsa_key
+CentOS-66-64-minimal.tar.gz:ssh_host_rsa_key
+CentOS-63-64-minimal.tar.gz:ssh_host_rsa_key
+CentOS-62-64-minimal.tar.gz:ssh_host_rsa_key
+CentOS-66-64-cpanel.tar.gz:ssh_host_rsa_key
+CentOS-67-64-cpanel.tar.gz:ssh_host_rsa_key
+CentOS-67-64-minimal.tar.gz:ssh_host_rsa_key
+
+Pubkey:
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAw9esxrHAl0RG9Pz4ojOKsRkjYYdJVbyyHz4oCWWivaQILyVhHmO+ZR3Zk+oipM8Mk4s8fmDA8T1P9t1X8ffudShWoGwhtTZAHc1BbJPA3Wfv33x6DReC2f3PQq9g3tLNmKwi6RBTXhxt1vL4R2fMNic9j07uIDa0HBow7ntuLuTE6PHUY205AfMZKehcxqa3Eq0Nt0CKrPu3Av+TQq54i14WALihpKtZFdis4+vry+AfqqfX/98vlnCfMpaZSmhJbFKhoHB6K8Mlgou6pM4fKS05cYAqv766/asj8cnEuEGD8C+B2TejOEeCcdFbaqZ2yrma8JhGtuI+76kIH+c0dQ==
+Fingerprint (new):
+2048 SHA256:uqhv9UmRi/Zb/+aGz7V7PcN0BqkiDf33PpR6l3XLwsc no comment (RSA)
+Fingerprint (old):
+2048 MD5:2b:46:95:46:d4:69:cd:ac:bd:64:5a:92:2d:a7:9a:5d no comment (RSA)

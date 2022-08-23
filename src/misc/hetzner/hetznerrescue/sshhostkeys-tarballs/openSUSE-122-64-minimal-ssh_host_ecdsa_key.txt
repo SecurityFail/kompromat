@@ -1,0 +1,8 @@
+openSUSE-122-64-minimal.tar.gz:ssh_host_ecdsa_key
+
+Pubkey:
+ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBLqOG+qcNa9ZkjufJBd7aS2DdbEFkcHlW6uy++BR2rEAagJj8fEaY54t9o3xqOTcukOiDMo57AlUim038NsD3X0=
+Fingerprint (new):
+256 SHA256:RKg/JN1DW0KLzY2P9pxSdfEs2tXIhzbOoOA2TEmCopQ no comment (ECDSA)
+Fingerprint (old):
+256 MD5:1b:53:39:0f:76:64:63:27:03:f6:57:1a:ea:1b:73:eb no comment (ECDSA)

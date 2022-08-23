@@ -1,0 +1,8 @@
+Ubuntu-1004-lucid-32-minimal.tar.gz:ssh_host_dsa_key
+
+Pubkey:
+ssh-dss AAAAB3NzaC1kc3MAAACBAIW8tZsWqF28pFINVnSlqGYjMmLH5d8gkMSpC6fXXXPE+/j7vPaVIH8GUm0bR748tIrjk7bCTr9MX46npuCbyh6okwUMshVgUzeAfUqdL0WAm7NGozemat8mI7FuKFnOT7hUTCz1Scgv79z5DzfAZaUPnAzBZWbMJ07qQzL78Tv/AAAAFQDoKBs4RRjBfn6O/sPl0HdBtPLL2QAAAIBcvbqCj7LDhaDqWMjSM6BH1oSHZ2Ccq2FzeVv/9DFStmHQNwTGXhvZncbQj2X9vxTq7uwpt1jecg+FdNeya482rrljOF/XP7UPsNr8ZtUB6SfBN0lhRPfB7f73NJ6IIzGx+YppIh1YFZwfeaMb/j56f3+XgBqIuXxuGpW056kL6wAAAIA6AJY+TBTd7M+C1czo0fOSamZhAH+6ynpBGFohREonTrqYPT0YyFsmGWcS1wakTchwawQf4EQlaaX/RgRyoYXiKHrz+MQ8E3zHuojIpV7+Bq547+wnH+3h7g7LuGtC++EYP88Kw3w/xwcWAk+HGMAku0iPlLAgHnmgyZZ8t6GAkw==
+Fingerprint (new):
+1024 SHA256:8BbCWDEl25MrKVAVm10e+bSozVN7uXuH9EL/U5Rr4YU no comment (DSA)
+Fingerprint (old):
+1024 MD5:c4:45:04:f9:f6:13:75:3f:65:8e:50:18:37:81:fb:18 no comment (DSA)

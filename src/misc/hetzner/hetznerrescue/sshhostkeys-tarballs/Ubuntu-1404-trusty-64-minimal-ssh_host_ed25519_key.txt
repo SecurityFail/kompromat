@@ -1,0 +1,8 @@
+Ubuntu-1404-trusty-64-minimal.tar.gz:ssh_host_ed25519_key
+
+Pubkey:
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBlWkL/5CU8isO4W47iEJFK9gqBuUu1VRf6do5fqYXpa root@Ubuntu-1404-trusty-64-minimal
+Fingerprint (new):
+256 SHA256:loGeVnUJXZHGH9XAeHExRBD1s1PMFO3yT4C8O7JZ0/s root@Ubuntu-1404-trusty-64-minimal (ED25519)
+Fingerprint (old):
+256 MD5:f8:60:7b:4d:0a:c4:f8:5f:62:cc:ae:88:0a:02:d0:44 root@Ubuntu-1404-trusty-64-minimal (ED25519)

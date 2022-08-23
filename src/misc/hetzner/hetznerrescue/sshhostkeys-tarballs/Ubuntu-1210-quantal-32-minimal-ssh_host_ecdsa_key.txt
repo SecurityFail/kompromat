@@ -1,0 +1,8 @@
+Ubuntu-1210-quantal-32-minimal.tar.gz:ssh_host_ecdsa_key
+
+Pubkey:
+ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBE9T+yP0NtiLqAk9pD+XmgWCcyzqfHm0+X5iofYDBQBOhRpfrpFoVVQf12U8JWqTd2UwFQSifcG50xOw7vKjF5A=
+Fingerprint (new):
+256 SHA256:DsiTfJqM+co6tuGxxfSbQUEmEpgar5Yzc4vXT8MBo/s no comment (ECDSA)
+Fingerprint (old):
+256 MD5:66:08:c6:b6:7b:ff:d7:db:d4:69:2b:ee:b6:9e:09:04 no comment (ECDSA)

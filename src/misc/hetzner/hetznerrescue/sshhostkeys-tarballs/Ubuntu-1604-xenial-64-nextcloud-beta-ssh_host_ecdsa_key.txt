@@ -1,0 +1,8 @@
+Ubuntu-1604-xenial-64-nextcloud-beta.tar.gz:ssh_host_ecdsa_key
+
+Pubkey:
+ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBEuPVswlsGn4qo/PjLRoU7sS8bpJGx4QU6uygUF/GT6hxyaP5qsSNUpLo0LK8YdGgZewVf2BFfUAUkPkSlN5PaI=
+Fingerprint (new):
+256 SHA256:kKUqUf9s6CtBTgBv6Ybz/szh5tEh+m8oWUdFB0ZLabA no comment (ECDSA)
+Fingerprint (old):
+256 MD5:13:04:95:88:df:22:54:c4:31:0d:e4:16:f6:55:93:e8 no comment (ECDSA)

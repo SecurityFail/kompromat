@@ -1,0 +1,6 @@
+Pubkey:
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMy8H7VmeOmoV0oy4Cp60OJcPHiBgcaMHFpW5JogBjzt root@fsn1-hwlab-freebsd-runner1
+Fingerprint (new):
+256 SHA256:vcmOoxJ7Y88Qxso9L+xnvD8NZ84xeRKqOqdKwlC+Cdw root@fsn1-hwlab-freebsd-runner1 (ED25519)
+Fingerprint (old):
+256 MD5:cd:6c:11:1e:b3:a5:7d:91:00:91:2c:f0:d0:83:9c:28 root@fsn1-hwlab-freebsd-runner1 (ED25519)
