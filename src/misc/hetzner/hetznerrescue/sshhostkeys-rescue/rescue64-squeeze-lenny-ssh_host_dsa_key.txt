@@ -1,0 +1,12 @@
+vkvm64-v001.ext2:ssh_host_dsa_key
+rescue64-squeeze-v016.ext2:ssh_host_dsa_key
+vkvm64-squeeze-v002.ext2:ssh_host_dsa_key
+vkvm64-squeeze-v001.ext2:ssh_host_dsa_key
+rescue64-squeeze-v015.ext2:ssh_host_dsa_key
+rescue64-lenny-v004.ext2:ssh_host_dsa_key
+Pubkey:
+ssh-dss AAAAB3NzaC1kc3MAAACBALyd+7YgVKlyfodTGAJCrUqgMS28dSodPVk80mcAT/AFLYETBN5575t3VrvOquT53oU3XDylMerp7YvYS3gDi2EP8PJR6o+i4CVj7s3qU7CFF0NNvnUiZiV83pTd3G33LZ9jH6BhyvKXH7PKXlVs7in9l8K2eU9pAJ4YIbt6K/OlAAAAFQCK37gfXBk5LHr9BeFvUL4iSDvx/wAAAIBZJVvZRKeJZcnsHWoQm95ub/LGoYDy6JkgP7nrnql3d+wvds25JOLELBhvikceJS6b6CyeInB+xohkav2gPOFhB/w7yQllFuoh1WQ53xO9mXwMA4eEFyRR52YxkCe6FHZ3B4ybZFfJ/mf6vS7qLkHsROHSoQe6Bn1XHLnWJE+MYgAAAIEAnpM9R0PjoU7ofkvTVgzrZGphZx3ScowbklkjzeU2fGbGWv/RwLfXcqm0XVa5ia3x4k5n3KIO/g4O6uUi9ui2L0RH5hyInL/itoQ0wW9ddWcsmiZjsj4Vrm8j8csW0pMBnIrr0LVyJ/3urPxrSmlDMvPiOSyMXqMmXvUNoPnxegQ=
+Fingerprint (new):
+1024 SHA256:fAGCf99E2B6ZlLW9FuaWU632ViWG9WqWs1RpJESGcC0 no comment (DSA)
+Fingerprint (old):
+1024 MD5:6e:7b:d6:60:b8:d8:34:f5:26:ea:dd:58:5a:d3:08:22 no comment (DSA)

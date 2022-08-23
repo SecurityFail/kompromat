@@ -1,0 +1,8 @@
+Debian-78-wheezy-32-minimal.tar.gz:ssh_host_ecdsa_key
+
+Pubkey:
+ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBAcxzI7i4dQ1t2OFau9Wp5ATLWVLgfuIvb03EHTf6ywcoqKf6U3ElniQHC9MdIyv1l9pbEeVgljieSeBYzAWNjQ=
+Fingerprint (new):
+256 SHA256:Zw76RqpjCqsdlG3dSl7OuKOSBl/XLLB+nBeFkBZntsI no comment (ECDSA)
+Fingerprint (old):
+256 MD5:68:14:68:2c:cf:b8:f6:ad:3d:e5:91:b2:e6:ab:bb:00 no comment (ECDSA)

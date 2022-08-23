@@ -1,0 +1,8 @@
+Ubuntu-1110-oneiric-64-minimal.tar.gz:ssh_host_rsa_key
+
+Pubkey:
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDyfTUCti3CD4fDqap+ktNYnPZYSvMlI8zlS0soDOM7caJKZBpxovPowt9amY9SxLVhpbU0/nkqyGoxLfeB6yRL0XOsUyp0SM2EwsJRb3Oq31wPtd5eejwM5hVWf19TkYRukhYlzNotF6OtiYBjJdJQi3gJEDeBSsSXeOnQmYk9AcTJqXXA/1L+6pspI2liYMmwNh/Bj7whibYi0gR7weKpl+/kRd2iJQQDqUte0x4uMX7aA2qX8XbPxf4ieiKcg1dVlLZ+VcgLgN/5sY9slIABBujLo/cYW2mzFDIMrjmYc1UMDrKqELMpz7wEGkK5lxIFf2QXFwvm0XsDzSz5GnB/
+Fingerprint (new):
+2048 SHA256:vH9tb3NHz6Kv04EhG6BHmPA0elAdsUfFzxRugkSXl3c no comment (RSA)
+Fingerprint (old):
+2048 MD5:ae:f8:78:4d:27:85:70:c7:5b:5d:57:b0:78:62:10:70 no comment (RSA)

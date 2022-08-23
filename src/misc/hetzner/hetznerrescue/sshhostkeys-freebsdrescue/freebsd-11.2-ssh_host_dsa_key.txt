@@ -1,0 +1,6 @@
+Pubkey:
+ssh-dss AAAAB3NzaC1kc3MAAACBAL2VfZuhXceX1a4LQl9rxg7a8UtG+RiiZtjFNdrgglFwGLpQV5Vltm2kFuLvOPl28ZCIwjshhZvJSC5gdyZ3mDzh5a6CJtcyBBaaQII2DBaA/tdfsgHItplvFlPXjQ6P76NR/ezp7z1pNnmedMc7j+YJlppV3bV2rs9L8bCby1ZlAAAAFQCGLzpOwAUCZ4wacA0p7ES27U5LfwAAAIA0FRRAHDtw7wSmOcxTZqLxeZE99NbXrf1dMdXknl5Q9jObQCl74topqvD7Gp8Y/A4kEjmF/1nklBLWVjXTejwBLK291Nz7nY5pEIgM8IZmbiwN6xH3ea/lnd7gJQKabchpB1nSLRYjkNWK30tmYnonVQ2hvR/9u2zTvfAecp95VgAAAIBi99xAtCaD8IJUfVxIziobbOBlXuDRKqwNukpM2nvE6dJe4Q2ztuYajezIzPkqM+sGKiKUsHFQ11bOnO6q3B3HYbZD/KZMkGfETlX22gkoXtA/fbi3k6LxUfQjfJwWq+xQVFUm2SaQ+aC/HmmT3YDRdL8CpwMZlqDaUW20X98zuQ==
+Fingerprint (new):
+1024 SHA256:Mga5VNl1wDE27PvH8yC/uS+d3CfjSP/WiFFrNdD/ZRQ no comment (DSA)
+Fingerprint (old):
+1024 MD5:8d:ee:01:03:56:0c:1a:ad:8a:63:3c:89:20:b2:3f:ba no comment (DSA)

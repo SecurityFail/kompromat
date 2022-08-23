@@ -1,0 +1,6 @@
+Pubkey:
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMUo8j2sxHj2Sek8T2HX8sWPpw2Fz/rXCNitp7VIul58 root@freebsd11
+Fingerprint (new):
+256 SHA256:l30tNfEkd2VLGVwZmK5dqGZ1xDcyM12ZaU4jSnvZtQQ root@freebsd11 (ED25519)
+Fingerprint (old):
+256 MD5:94:fd:76:13:e3:2d:4f:56:3e:ae:b5:01:85:1d:46:2d root@freebsd11 (ED25519)

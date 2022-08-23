@@ -1,0 +1,12 @@
+CentOS-63-32-minimal.tar.gz:ssh_host_rsa_key
+CentOS-66-32-minimal.tar.gz:ssh_host_rsa_key
+CentOS-64-32-minimal.tar.gz:ssh_host_rsa_key
+CentOS-62-32-minimal.tar.gz:ssh_host_rsa_key
+CentOS-67-32-minimal.tar.gz:ssh_host_rsa_key
+
+Pubkey:
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAtVAbx+992Ze0JD+X7VNTxoHM7qN/88nMPoQH5oC9hwYbPEXZKyRQLsTyxy7G07OdC8UjgvN66xnofB+sQAK1EEMZdE+lxiAoxrb15wBqN43gOkKXaBfTiny8USoe6DYKq3XPq/I8z+AIbfLzAt1ITrYWyuF4Vq5v/0GK7dDccoJAdZMz01bxpEHmDIxeSrxzMs4P80u7G8kwg3MLISlX6h8pnltc7LGKdvmOAkFs/+ikW98DKWiWhL5/CbOaIHy5GL8nPyyM5eXE8yRIZ+GI7rkwYNdTbS4FEhGyi4WtKxBDfaYLN8lNnsE72eJUNxMjCspDYiOOxEc5wDRDT0IjCQ==
+Fingerprint (new):
+2048 SHA256:AYbc6/EYUSSMVYyoP+9vfh7nSMeOie87KBVjUfKP38E no comment (RSA)
+Fingerprint (old):
+2048 MD5:4b:7c:19:a6:37:29:03:22:e6:e0:31:e5:bd:95:af:b5 no comment (RSA)

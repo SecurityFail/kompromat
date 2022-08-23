@@ -1,0 +1,8 @@
+CentOS-64-64-cpanel.tar.gz:ssh_host_dsa_key
+
+Pubkey:
+ssh-dss AAAAB3NzaC1kc3MAAACBAMfYMy2fXaVEcSEb2SYvl/eZaBkczYVHA1PbvYv56miKCmBN7xxcReuW2V7vN58nRbFnjKcOmiDtTZBKLUZRn6qG1Z85xCvtcGVUNJNvlzuvMhngEAiDXtDQ/gVbhxlSXPNY4cgKWyTZgc1MpM29SRzMduV3qi5DkAJFdyQUCTitAAAAFQCT0Q5QMk1Nn4YUamugzujyiyH34wAAAIApMlnUxT11clOj40GsCWDbXMrZwi24Gb+vbZ3AltGlEk7amw67F0m/YR8zUvxQ4ozUbGojZV8SXO5ocMPWVbTG1SLNlUPADSEHGlNgFhM+KJ3YmbLW4jcBKcU6rtZVjt4gq3NwDI50R5JEulKr5sUVZ7tioHBSGigPrkUtnlFG8QAAAIB1ntnjc5Am1JdOrVjs4nqstk2wN0JzQAXT89YqRhiuyKeK/KOlJwhjEogLaLrXHqn6zUZtpZ3GyOOA6p7Xwb8Jjj5o3a4iEko67zJkqW4KhvgK8fUytrcZFnVslRRP/b6/of/eCSwrnaXEbJ4zGW+5jEK3yrtJ++Durpsim7u4QA==
+Fingerprint (new):
+1024 SHA256:B4Z+HVGgzeSbz26oSsAYSOcUBXdFrxi4yJNxqRfTopo no comment (DSA)
+Fingerprint (old):
+1024 MD5:85:d3:ac:80:dd:26:e5:92:bd:b5:a7:e1:8d:b2:5e:1b no comment (DSA)

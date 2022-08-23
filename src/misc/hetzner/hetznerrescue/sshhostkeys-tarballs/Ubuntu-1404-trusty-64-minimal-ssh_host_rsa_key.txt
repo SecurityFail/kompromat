@@ -1,0 +1,8 @@
+Ubuntu-1404-trusty-64-minimal.tar.gz:ssh_host_rsa_key
+
+Pubkey:
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDC4x7HYbcZ8xmQ25vEJZPAZ1CUcC0Zumy2vcOtjXzAmqPqHg9YbyRQnf0AFvB3wUCNerCuZizdO1x8e0varmVA+zSz9L9LXqtYmrVgBLeuqmL8gTB+o56pZMKZ4yg0HHyVmSqBw4yQ0/bdgg47+9Z9NCtIg4fHKxdxLyLrGSv8Ksj6wRCb9BBHB3nT/3vTSvu5ikQIRIiNOol+HoBmqcz1xalniJruy1yl0gUDyK0qJObDN5wq4aMIYaOoIlQu2k2Sjv5/6wR3to+mfyFeCYSgqiSOOQF/smjZ52xhCoOc7P/HXZ50SKNTYvxgRzVMTy/3StIwsUL8QTz8HQx1L09d
+Fingerprint (new):
+2048 SHA256:bvXDbpr9JBoxS7njeC53qWypBgLdpk+BxoFsyPwssSc no comment (RSA)
+Fingerprint (old):
+2048 MD5:55:8b:67:95:f2:e8:07:5b:9a:ba:c3:bb:cb:07:84:3d no comment (RSA)

@@ -1,0 +1,9 @@
+Ubuntu-1204-precise-32-minimal-no-hwe.tar.gz:ssh_host_dsa_key
+Ubuntu-1204-precise-32-minimal.tar.gz:ssh_host_dsa_key
+
+Pubkey:
+ssh-dss AAAAB3NzaC1kc3MAAACBAOSDw5WSVOZNsxzbtqIU8tWhmx5P6xuBnwEEcUakMZ6HBLwRzGQu+C29H1jV/m3ZiTbX5oUjte9Xi+eC0ANz3hUXxQA2qEH/rlChLdmTYcYH96t/MySWGeCawdkPJoeFVeb6q+S/+ZRo0L7Pbb/cGHvNvi0AiPpftxcOgwGSQfz7AAAAFQCf126nKc8s9wOQzX26FafvCu1lHwAAAIEAm6+DPCTdQPCL2ISiOJS4bwyTGf7cAmJfGSHzZNBAXZUE0uI0G7/xph8tRpvRClZ4sT4EOtlyA4dL+hPGUqv7kptI64Uum8OGZ10pVKk9QLlXrThzYsKFuChATW8NDMu9+P0Zfo7QbjGbPUyQKWc1ldqy2lBZAsgqjtEiCUUifwQAAACARAi8kLuHLFkLheMJLmfIO3LyfuM+/D9NnSkxtscEZ0HRrnA8tHLpyhXIbrgxSqseuGXgYBvZEcWBs3ezPYKYtDcmW2MlsdVA/zOp8WRcxL1qZzQZ2XQ0ePBSJM+qgb5FjhnpDKSxhgidNCrVED5QGi8r+Ahzy9sBlnAkJtLrYCo=
+Fingerprint (new):
+1024 SHA256:1GALDtWjOTVfTyYvZFhRrd0bku874lZJegkIgo0ag80 no comment (DSA)
+Fingerprint (old):
+1024 MD5:1e:4d:c0:76:8d:31:02:02:8e:50:66:70:50:7f:b6:46 no comment (DSA)

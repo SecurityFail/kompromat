@@ -1,0 +1,12 @@
+CentOS-63-32-minimal.tar.gz:ssh_host_dsa_key
+CentOS-66-32-minimal.tar.gz:ssh_host_dsa_key
+CentOS-64-32-minimal.tar.gz:ssh_host_dsa_key
+CentOS-62-32-minimal.tar.gz:ssh_host_dsa_key
+CentOS-67-32-minimal.tar.gz:ssh_host_dsa_key
+
+Pubkey:
+ssh-dss AAAAB3NzaC1kc3MAAACBAMHh5FLfJnFVnYrBnVfPmrt9LTE+NZTWbyIoz7yHZo785s4FIbJoEDgPucn7PEvVw62A7qnUxd+s49VW+M34DCM8KFej2peicUTmwm7CUQqjxhqijl3h+4HINLNV0wcbE9jyLrKQaUTrw5wrLKDTCQuSNLHTdXoIfJYaqyr5aGnlAAAAFQDeHDupxgO0u5idtCcZiETwXi4z1wAAAIBPKDO/W1fAO2psi212usbZK+2KbnzuNapYUwo4AHlL6ITa5BoHzySsBC5VJS/PzyUIiqlXiEibkQ9mADG3KPdRtEr409DIGKkxZbTSB/yHjXTEMMjvSHCRxLHsTtmOs1DTHfUg6DcYFoHPQwsA9LTKoqeCGKILnGZPHYj/uCe9PAAAAIEAl84P+GNvJZAxImj//nbjpsCEcabFllv3cvTA+y6kFJJ9p+DM+A058XHl1AHoSIrgzJS9G1XwdtdMMHCY7GLORaVyP7Nt5+WBSb3yKtm6LuCLIkqMmU4jedPZbicV6iZf1tdl8SNCQX8GfD+jCjgqhL68Py0kkaodwyNViFyWaYw=
+Fingerprint (new):
+1024 SHA256:hxMA4cPHSUM4AJmEbKAUQ+ffMEgdyHBwq7vmyhw9yTY no comment (DSA)
+Fingerprint (old):
+1024 MD5:12:33:f4:2d:15:ef:67:f8:78:7f:9f:85:95:ee:5f:c2 no comment (DSA)

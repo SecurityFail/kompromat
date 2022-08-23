@@ -1,0 +1,19 @@
+Debian-86-jessie-64-LAMP.tar.gz:ssh_host_rsa_key
+Debian-82-jessie-64-minimal.tar.gz:ssh_host_rsa_key
+Debian-83-jessie-64-LAMP.tar.gz:ssh_host_rsa_key
+Debian-83-jessie-64-minimal.tar.gz:ssh_host_rsa_key
+Debian-81-jessie-64-minimal.tar.gz:ssh_host_rsa_key
+Debian-84-jessie-64-minimal.tar.gz:ssh_host_rsa_key
+Debian-85-jessie-64-minimal.tar.gz:ssh_host_rsa_key
+Debian-86-jessie-64-minimal.tar.gz:ssh_host_rsa_key
+Debian-85-jessie-64-LAMP.tar.gz:ssh_host_rsa_key
+Debian-82-jessie-64-LAMP.tar.gz:ssh_host_rsa_key
+Debian-84-jessie-64-LAMP.tar.gz:ssh_host_rsa_key
+Debian-81-jessie-64-LAMP.tar.gz:ssh_host_rsa_key
+
+Pubkey:
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC71CzdzwT08A+WRkC/8B7a12uPSHfr4/vja360qKgUeboNe4uHII9Dy4z5QDkmujWNdhu1k5q3oikj78HRg5sCRNrsSobh4ODwUI7ty0sm5iQtlVY5GbuMXRsUOi0WAlibg8Vchd8mmD3jE4aRAo4HiywsFu6eN6VoGJ3/TQlwTnl1WkyEvHo/r6uGTJF36Ck/iEacjTPRg2tP5DFguKIxZNdaC7tmNohc+XiknUWs0q8DTpXdthgKmOi2SJ60wk9zJEmIKxzc+oRH9sAH2bb8fXT9SLePI6nnNKuY/CyIJcyquaXeQfCgFXRQGVDwurK0LCMp4LWgIX7QysFqXMrL
+Fingerprint (new):
+2048 SHA256:ErWFDZU/tVsQDjKHMISuomaZbl7JC5/veNnBHRMHnuk no comment (RSA)
+Fingerprint (old):
+2048 MD5:cb:fa:c3:fb:65:55:aa:4f:60:58:7a:96:a4:62:39:e7 no comment (RSA)

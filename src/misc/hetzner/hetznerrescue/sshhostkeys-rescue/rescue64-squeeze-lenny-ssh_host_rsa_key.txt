@@ -1,0 +1,12 @@
+vkvm64-v001.ext2:ssh_host_rsa_key
+rescue64-squeeze-v016.ext2:ssh_host_rsa_key
+vkvm64-squeeze-v002.ext2:ssh_host_rsa_key
+vkvm64-squeeze-v001.ext2:ssh_host_rsa_key
+rescue64-squeeze-v015.ext2:ssh_host_rsa_key
+rescue64-lenny-v004.ext2:ssh_host_rsa_key
+Pubkey:
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAx+KdqROHow41p5kXkzgWiaKt15Bck0BYE1ItUmmUwv+2+piL2t463Gy8XcDzmcSYqPlOXVmwJwEnWK1EPS0Bt3E70TVgLIBYOQuEACFTvjRImHFSRbEs7Pk6KMCh4rS1O1mO1+CC5FDfSrDa9df5Bx5zAXmMcGneGjhXDzlu2T8h8dr1h0gmGatY2MeXkhe9W6X+PWpkFqoghrzab4NegEUmv7ngmMXcCeGjSePahMPtK9J4t2wz72zAM1s/NprmqGCGXxhOizglDXsZRTpTyvQqUt/awweEhO//uWShStR8WImkuubpw2aMeX591tMAsRcqsx9mO8VbeCdP6oFuTw==
+Fingerprint (new):
+2048 SHA256:u+8bO28yc6ntN5h5lDjCZdNF1YrWfsEixOjp4TftTqk no comment (RSA)
+Fingerprint (old):
+2048 MD5:41:2b:35:92:87:1e:bd:09:45:07:6f:61:7e:bf:3d:b8 no comment (RSA)

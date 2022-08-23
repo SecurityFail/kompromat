@@ -1,0 +1,10 @@
+Debian-78-wheezy-64-LAMP.tar.gz:ssh_host_dsa_key
+Debian-79-wheezy-64-minimal.tar.gz:ssh_host_dsa_key
+Debian-78-wheezy-64-minimal.tar.gz:ssh_host_dsa_key
+
+Pubkey:
+ssh-dss AAAAB3NzaC1kc3MAAACBAI4biGxd4D3yf6yMRtx/AbEjrpiGSgydjhT8H0vFOKSJ9eBA/GD1twc+Y+BOjh1kjhdOq2qIORZD2sli30MEmP1yJ4Mj9MiVF57fs0Y6XzMJPHkkoQ6asEYXSL4koszIOLdAXBCgkiWX4vZftq8LrjgcTe5cjs2OQPsxZiL8o7N/AAAAFQD8CAexM2ePsCHmE85Kx+UaubGZNwAAAIB6uwj/eoSo7bpH8EdSSYdl3wZqAExqCIyFfRm+WsvTQwap0WUMZyXnlCe94fXkSpuOCXkT/nTFXBxusVO7wgAPFEYGkWoM6kQrEO189OfDRbuGES1+30sm4AEaFrNiLchCWoOgKgb0wla7rKx2LTnUfXjo9xz6Fw2cdhueNmwaQwAAAIAUE3r5QpazbczS6qEYjkjJwHdY/+H/YeagUoZqW0xCOzZhF/GKde+D0UmJzRWApqHRnQmYdBmVnxpzINBROTAD1vbmEgxp+VGOciAPhpSc3uH4o0Z1cm+BsaUHCCVLwl18UtCFPec/k0EosxGZd7MAttnVxMfJUSBaD+tfm6OS6Q==
+Fingerprint (new):
+1024 SHA256:MAl5RBrfilmfjL192FTopdHWb4VZRfQbTfM1lUhg8vI no comment (DSA)
+Fingerprint (old):
+1024 MD5:d4:b1:64:d9:1f:7f:58:6d:66:e3:3a:eb:39:7e:43:cd no comment (DSA)

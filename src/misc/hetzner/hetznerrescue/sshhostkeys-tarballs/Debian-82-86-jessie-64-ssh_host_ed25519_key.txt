@@ -1,0 +1,12 @@
+Debian-86-jessie-64-LAMP.tar.gz:ssh_host_ed25519_key
+Debian-83-jessie-64-LAMP.tar.gz:ssh_host_ed25519_key
+Debian-85-jessie-64-LAMP.tar.gz:ssh_host_ed25519_key
+Debian-82-jessie-64-LAMP.tar.gz:ssh_host_ed25519_key
+Debian-84-jessie-64-LAMP.tar.gz:ssh_host_ed25519_key
+
+Pubkey:
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAsdKfvQV4WtLjdMmOz4JRPR5dM6Ayh6pBM+91wh77vP root@Debian-82-jessie-64-LAMP
+Fingerprint (new):
+256 SHA256:RqwqE1gdv6ZEIBpz+UspDwRX3DKYuq3kwxq+PnoeXEM root@Debian-82-jessie-64-LAMP (ED25519)
+Fingerprint (old):
+256 MD5:36:12:0f:11:10:06:3a:b8:63:e2:41:48:a6:7b:32:08 root@Debian-82-jessie-64-LAMP (ED25519)

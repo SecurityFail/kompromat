@@ -1,0 +1,10 @@
+Debian-78-wheezy-64-LAMP.tar.gz:ssh_host_ecdsa_key
+Debian-79-wheezy-64-minimal.tar.gz:ssh_host_ecdsa_key
+Debian-78-wheezy-64-minimal.tar.gz:ssh_host_ecdsa_key
+
+Pubkey:
+ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBLmUl1MLdLNsUN69ogYBsNsNtgZpX/X87VLXoDVQLH795iN5DkK9eKPiK7ZB8Uvo05ejWdpqMtTopFeyBNh9Tno=
+Fingerprint (new):
+256 SHA256:XTWoIHmhRkM3HDCfh5GAwD1ZHEvAgaRI16gYMKeKcow no comment (ECDSA)
+Fingerprint (old):
+256 MD5:5f:78:3f:e3:4a:29:10:2a:61:e5:53:65:6e:5f:b1:68 no comment (ECDSA)

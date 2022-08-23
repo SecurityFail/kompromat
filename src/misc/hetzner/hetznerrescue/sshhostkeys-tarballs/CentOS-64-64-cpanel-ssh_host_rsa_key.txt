@@ -1,0 +1,8 @@
+CentOS-64-64-cpanel.tar.gz:ssh_host_rsa_key
+
+Pubkey:
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA5ASNd6GeM4gY/bVDV7+cXmHhGLpSRmKovM2enlfah6/bpP1iARmOnNZV+t00LR6jepwfz5ZF1sXnrPsobj9262elCOuyjRrq0PnbQ34WFmtdJ7YGfmR1J65Vn6PnId95y1yWohUJAzwJGpMFkP0A3lTIa8A1wfkBlD7NQLGqUrOIeZR7pxMm1c/S2KAWI9BrRMb+EEStONjp4RV16kgCO6Wg3E+t5IHbe98HiXudpPAvdSP0Xttd9vTZhdUUsOmCWTdAMPyVC0FKQMpFXE11pBljhc8sE5KGyrgqNBW+CCxmY+iOmJX/l69czoxtwq7/YL/C8ji1eUHZ4zgp1R+yfw==
+Fingerprint (new):
+2048 SHA256:YU4xvv8r8vf6niycVK+0bWTNPC/lezjfDIjmCcsL31w no comment (RSA)
+Fingerprint (old):
+2048 MD5:11:bd:c2:13:9d:ab:fe:22:2b:93:82:09:d0:7c:0f:bb no comment (RSA)

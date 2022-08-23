@@ -1,0 +1,9 @@
+CentOS-72-64-cpanel.tar.gz:ssh_host_ed25519_key
+CentOS-72-64-minimal.tar.gz:ssh_host_ed25519_key
+
+Pubkey:
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOHneAclx7CPTFbgbVL2qFgeL6zM/c6aoXroiPpIGoA6 root@CentOS-72-64-minimal
+Fingerprint (new):
+256 SHA256:up2s9/ayLFUSGAM3U1WmHMyn48NL+8TKuH55v+hiFMQ root@CentOS-72-64-minimal (ED25519)
+Fingerprint (old):
+256 MD5:d7:76:6c:76:6b:49:a0:c5:07:66:d3:78:2a:41:37:be root@CentOS-72-64-minimal (ED25519)

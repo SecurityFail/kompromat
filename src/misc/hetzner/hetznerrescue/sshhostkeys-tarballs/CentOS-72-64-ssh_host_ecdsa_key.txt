@@ -1,0 +1,9 @@
+CentOS-72-64-cpanel.tar.gz:ssh_host_ecdsa_key
+CentOS-72-64-minimal.tar.gz:ssh_host_ecdsa_key
+
+Pubkey:
+ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBK9DRDS2DKzuiAMwMC/Edxw65on7F/xD95lHI1bgIUSQlYjZcGFUrJlZY/+YHtrxJ25k4djRu1F2SNOWh3UINk8=
+Fingerprint (new):
+256 SHA256:9/QmThsmqBgdi8YRLmEovN0wH6SchMhrlu5vw/mU7X4 no comment (ECDSA)
+Fingerprint (old):
+256 MD5:f2:2b:5a:e3:dc:20:e9:72:c1:ae:c7:74:9a:f7:c2:23 no comment (ECDSA)

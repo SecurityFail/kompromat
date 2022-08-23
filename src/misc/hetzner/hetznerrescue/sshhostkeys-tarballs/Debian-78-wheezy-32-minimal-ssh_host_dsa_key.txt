@@ -1,0 +1,8 @@
+Debian-78-wheezy-32-minimal.tar.gz:ssh_host_dsa_key
+
+Pubkey:
+ssh-dss AAAAB3NzaC1kc3MAAACBAOwU7hbGh1YpqhnRKR+dNVjxjqCZTkDU2g6RD4TFxX+6Ouh0jEfoD0C7aBJM00QSjSDT4A11tPF20iEJi4MWpB1BCptGscJ+qHrGxNCjcY++0o73SB9pvHnd0EtWaGbBFqktXJqfo3ouyJUoSDIfH9pIAOzzEPTHkcrY5Rky0c+jAAAAFQDQi7LLxDcncuhF7QTtU0IzOglUiQAAAIAjEIYmkucJEW2073UQPOH3qRHMagi//wrzkmrLFRpJBJgx/TcY/mX3izFGpsSCbC7Rqxg02fi61by0zBvkEgNjtB5D2SARknWYpjVyQ+Keky5eGvJxiqIJtcdnHqCfDdSChgWbHgENwB3oxvCuNVFxzd914NesmtLi/hFBQNP0YQAAAIAJ0dq+WKnoGsK/YvfFoIeoEih5SkHoQrrGqa1Fk14zVrR0W3Yc+dq8WUfev8WKB4H3EKsgmlBvkvTDzLOA3X8zh76n55D/mpsAn+2X7dNdSGdatUyiLq/VvnrcKnh9d0ujBQ28RESQjKBMR0l2dX4EkGw3ArovvQsvf5pWUuHAgg==
+Fingerprint (new):
+1024 SHA256:/vwgf5Zh2zWahATr3cYIrjWiDUhoNdUr28HuAX4HKBU no comment (DSA)
+Fingerprint (old):
+1024 MD5:a0:a1:f3:30:67:3d:f7:ac:bb:48:2a:f1:bc:58:16:6e no comment (DSA)

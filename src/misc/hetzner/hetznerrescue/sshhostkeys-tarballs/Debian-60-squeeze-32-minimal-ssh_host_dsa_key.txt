@@ -1,0 +1,8 @@
+Debian-60-squeeze-32-minimal.tar.gz:ssh_host_dsa_key
+
+Pubkey:
+ssh-dss AAAAB3NzaC1kc3MAAACBAMLnWGHtTrOY1GcXi6M/fmiPwaV9jTS+YnhKiwbQotKLpDVnS1rfRKedvJLnRt2yTx1i6cNorbOfwdW+/jR8D5WLBtJ9xwUO6vY9OflTnKub+bLgxB8AZMT02PqR/74WpybzcscxB4nMd4pWdX+O0Tr5R+5rpGAMad+BxIKEIAXdAAAAFQDPDSJ5tL5uLTsutwxGhg4XBdKckQAAAIARc+K0HpZdIQuvMnVU+meeoc+iDU0IA6WteE8gVXpqmmiKjqlvmcU+GOvRvitJ9aLdiDEmQgAuTZfxOVeX1MkWfpIxPak4wExTrqySYdhZW9lNDbfCmuscpqsMl2Xc45B6hTVE5SizUMTvhAJhffLuEns0fj+ghx0TxMkjX4jd6gAAAIAfaF1TiXmWW4cvlagIs4yazViCoYqVkTygwzQ0eZjPFkLdcaP58AGmPMkoU5PB7lu+BK2CYvYrSlHTtrPXwknAkti0p3CCR39WyOm7gZQeRXYNcZjgPd6HAqmaojFZAu3MBm3JJnJWIIfRtS+/jVEZEhcOLjYhyRyTHxpasuYOIQ==
+Fingerprint (new):
+1024 SHA256:pzZZgLNs9tJFRn+kVEWfrdQaOE/JmrbpKDdI2FYOcD8 no comment (DSA)
+Fingerprint (old):
+1024 MD5:4d:c0:96:14:c9:7f:06:85:48:b2:33:66:c8:f4:1c:6c no comment (DSA)
