@@ -1,0 +1,2 @@
+desc = ed25519/ed448 keys with a private key set to all zeros, these are sometimes used as example keys
+uri = https://github.com/amlweems/xzbot
