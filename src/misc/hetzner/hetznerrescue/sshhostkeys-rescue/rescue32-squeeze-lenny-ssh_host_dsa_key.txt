@@ -1,9 +1,0 @@
-rescue32-squeeze-v015.ext2:ssh_host_dsa_key
-rescue32-lenny-v004.ext2:ssh_host_dsa_key
-rescue32-squeeze-v016.ext2:ssh_host_dsa_key
-Pubkey:
-ssh-dss AAAAB3NzaC1kc3MAAACBAIMhTIEp/WuK2D4aQRQ1EqXIMu2jo0HiHvu0DtBXedU4t0AMC4DrFMobFkGbYUAIh+wchBmQsJvue/FeGZaxRKiZKJK/xY7ewQ6//x1N4J7I/UwPEQO8biOmp5XlsMwkBRxpK7C7K6INhjpPYD20bib4mdJIlyfKZo7sjw8S15zLAAAAFQDkK/ioGh7G7Yh7mwzSqDxU1bEvMwAAAIBMjIpFd8H9VH3cUulq0YQOXMMNobWt9kYuGMwJE1P/6CkVFIfoEtnQot8HZ9hllTZu9IrW6PnZ1g/D/XYAZAIxEMjyJ2jeSb+muTWerWL5GY64VckfcHWg2KVuhghnK6y2N35Y/Cys8GtWsf1zUFUT/50ktoCoFk/q1RqLxR3ltwAAAIAdzu+1n9Hz5/cPmJWivhcjOmpxSm0r2EP4LUblqY1U0qakNZykv3eimVN1MHbw3QLZKWb7pNyaK/ZhvWXaw+/fJ1/2+pnVsPec1vvLfQLvaxks5PywUv69MggDMq/Vq5I+qNveU15uKDzMQ8FGHOsZpxAmvfQtqyM/XagF2gHLEA==
-Fingerprint (new):
-1024 SHA256:TfiQBBLcHJsAlXI+z3libjmAHeemi3Dlx8KuLwD/E14 no comment (DSA)
-Fingerprint (old):
-1024 MD5:0b:06:d9:ec:e0:ec:05:f5:2b:e4:46:48:c0:dd:a1:d7 no comment (DSA)

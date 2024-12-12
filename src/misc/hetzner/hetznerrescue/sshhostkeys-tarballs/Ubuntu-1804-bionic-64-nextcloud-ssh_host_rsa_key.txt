@@ -1,8 +1,0 @@
-Ubuntu-1804-bionic-64-nextcloud.tar.gz:ssh_host_rsa_key
-
-Pubkey:
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDHzIyXIwezWJei5EXIKHdhWOLCnzhnwrIBS/aQvRZW3USwU4ghdygE/VA8elpQojFZSFJo+mVzR2wnH1YcnuJNYBpvJsGmenc6j+j3QgmzsOHOcfxWFIpACu5Vo4PXeDRb0g2VhEKDWQeFPTwa8/iGLbB+zZdRE3d8hTMLx2vP8Q/UVQECrw3C+Z8QFH5ElXs5Hub1ogdqgoxJJXrZQDC2xnEQWZ1F1Jx6X9WHukzaWoIaqaj7ouZ7Ki1ZCaUpPHQ8pAWy75bHGjvVHTFc8S5siL5u0bE4ny7inyL/ZC5rlhjjeOE5A0+9iCk3ftX6Tasgp1+3rq4Fwy71dJd0n/4p
-Fingerprint (new):
-2048 SHA256:j+hkPtrXPMkbedoZqP7BdyARVJJrWLRFmkdIy79h9Gk no comment (RSA)
-Fingerprint (old):
-2048 MD5:cc:db:5a:f7:0e:2a:79:92:ef:97:ee:35:41:51:4a:03 no comment (RSA)

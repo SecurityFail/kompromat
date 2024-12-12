@@ -1,8 +1,0 @@
-Ubuntu-1110-oneiric-32-minimal.tar.gz:ssh_host_dsa_key
-
-Pubkey:
-ssh-dss AAAAB3NzaC1kc3MAAACBAMGXhQBVq0D1qTNOHYLut8tZJbhngb07AO+YaTFq+4zHM8dtnfvOfQwHiU/bFdQI5g73zK4PjA/t/fWSnWRWRX2Eh6adwrbWAIoEpkP6fPgwwCZrM09TipDmJKwh5mmwkVIqmWeAa527PGAqsuN7cq8PA5CPGzj29+w5/znKzTN/AAAAFQDqotqNhyr9VgbhNdQ5v5EIpsq8bQAAAIBViHcjrOuTLB+q0SlFwktjOtCoIXFcFYlVDNYgkuYyAtO6MfmXl2N99D54aEjxUVH0KrCWWLrxy3rDbxjPTUxRBWK/6JRivqzz2zR2FHUPRA2CLPZJ54uXzRq0SbjOaLI5Q7lJbFrMQti5FDyiG1S8/jvWJElN79ed88Sa+75C6wAAAIEAqj9HwUHKki2UacLgSaRBHGrjZ5YeGL1+wSRJbsGqKOQsy/q3wwmhAGeMVxg/SDo5ngvsE2ocHeDFqo+CZ3LDTE9GPNsk+l+mc/EEpVSWzWfj3zJ46GNqbEMPs2wvlrpPyviEWDc4+kujLX+tz0oLJ3BF7jgTU/w6g40qnf9KP2Q=
-Fingerprint (new):
-1024 SHA256:F4RxeZV3KDUwAy70q5/Nd9x0IzjfNyMUO7ExUhNZZ48 no comment (DSA)
-Fingerprint (old):
-1024 MD5:d7:98:d3:ce:35:4f:d2:bf:0c:b2:06:d9:ca:e7:3d:f4 no comment (DSA)

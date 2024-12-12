@@ -1,8 +1,0 @@
-Ubuntu-1510-wily-64-minimal.tar.gz:ssh_host_rsa_key
-
-Pubkey:
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDCerdpyb4LroVe0nAatPj6iRDCtExMAgXvgxRFoz37CrdqhxFZNiCqOajSwNAaTdBhLlVVOgGTbCVZybvk6mY0Y8A9bNCqLvpjI9cG8PH0sF6/+IDYxDcngq5UW5t+eAVHXocmGHuhzctRcuKcEm0zaVl8O/zFXu2YiVsNqa0dMwd6Jtx2sBYUMWClN/M5kVWfIzmmJinojTvFuH4LyGR300NcUwA7wPltjb2D5HNDdni+WJM2ijEx5Mfi5538b9pta4U027jYPbOdpjXmzfi+ysGp+LR3VdoqPPTfc9XBn/2H4uJ5UdHt6HcBr9WKjmervs89EJp4z6vsq+Jceb+L
-Fingerprint (new):
-2048 SHA256:nNdmonUTH9C/Bxk/7ATsbLNmpIyVm2zORIVskBf6BNI no comment (RSA)
-Fingerprint (old):
-2048 MD5:da:2e:76:33:6b:80:29:36:e4:cd:c2:50:0d:1f:83:c7 no comment (RSA)

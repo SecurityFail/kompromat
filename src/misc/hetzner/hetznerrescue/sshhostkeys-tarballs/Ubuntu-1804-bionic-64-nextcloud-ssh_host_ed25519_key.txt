@@ -1,8 +1,0 @@
-Ubuntu-1804-bionic-64-nextcloud.tar.gz:ssh_host_ed25519_key
-
-Pubkey:
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFG6kZEIoXNU1Tcbg3s+AFioEvjpcxBDSqujzatIVly2 root@ubuntu-bionic
-Fingerprint (new):
-256 SHA256:stFuk+rgE2rqriUxG7Tgq32cl1JguzZx0xfVhjrwPDk root@ubuntu-bionic (ED25519)
-Fingerprint (old):
-256 MD5:2b:08:7a:50:5c:f8:dc:e6:1e:4a:b1:06:c9:69:6a:31 root@ubuntu-bionic (ED25519)

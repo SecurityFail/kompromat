@@ -1,8 +1,0 @@
-Ubuntu-1004-lucid-32-minimal.tar.gz:ssh_host_rsa_key
-
-Pubkey:
-ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAopWVOXLQGj/l2Dms0c6NEgza9TYvtSYUE5Y1PmCK1N7mK4BOqGJ7ANomNUaNKDkli+IIyMWMBx//+flNKozGSo5fBMHYsuf/oq7wP34Kdf4LSORZg/8dUPNQSgXaDV9w2cVBpzTax+smWP6hYUJ0ZemI59g6cfKeLRb9aKe6W/AU8GAoPYRoajU5Hc+OkZM+NWJqcuIUTYG3l0XijAzr/YGpdyIEwpI3nOzTHZN4L2E4HIaDpnYZDvlGWxAlWrNgt7RJiGs2Bvh/M3p0HE87Q4dx1M1IC5q2JQkfUFDW1/BUE+Qig8BfPfdVVl9Vv48guVu3r2fYHo40OmdTBSZATQ==
-Fingerprint (new):
-2048 SHA256:Wf0DFdKccGEYIEv8IJS6hgfoYqJXdzl+zzm+Qc9OvGM no comment (RSA)
-Fingerprint (old):
-2048 MD5:bb:ff:62:32:81:e8:cc:c6:2e:49:69:47:43:08:b9:43 no comment (RSA)

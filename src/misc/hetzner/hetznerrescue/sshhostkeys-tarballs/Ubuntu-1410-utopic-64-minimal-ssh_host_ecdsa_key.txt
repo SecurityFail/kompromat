@@ -1,8 +1,0 @@
-Ubuntu-1410-utopic-64-minimal.tar.gz:ssh_host_ecdsa_key
-
-Pubkey:
-ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBP3I2MkoYVlqTV0Z+fCmBVO+pKXFoa3g4HbY4FiSJ1X+c2lR2ACmsbAWIEsopGKBy0G8hcEZvOFuN5mz91bpAew=
-Fingerprint (new):
-256 SHA256:MZ9IjfphhGwyebb4giJDQ9cbSHjwp/I/Z3BG1AjGS08 no comment (ECDSA)
-Fingerprint (old):
-256 MD5:82:77:9e:68:05:45:de:63:7f:8e:5c:d5:72:ba:fb:6e no comment (ECDSA)

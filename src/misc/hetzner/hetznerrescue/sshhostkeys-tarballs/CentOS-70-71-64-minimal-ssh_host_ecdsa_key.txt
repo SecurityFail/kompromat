@@ -1,9 +1,0 @@
-CentOS-70-64-minimal.tar.gz:ssh_host_ecdsa_key
-CentOS-71-64-minimal.tar.gz:ssh_host_ecdsa_key
-
-Pubkey:
-ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBJBGizHVNtcMlIw2iaTPtgLjcYmMvHyZYu4mhJgIu1S2XOJDrIheIigkBtsFVLdyUEIjofGB843GcQP/ykQxX+0=
-Fingerprint (new):
-256 SHA256:6YQrRMVk5u6vcoXbauohYYenUfY/pe7WFU9YEuDzUB8 no comment (ECDSA)
-Fingerprint (old):
-256 MD5:01:e9:2e:07:e9:f2:65:50:11:3d:be:aa:8a:cd:cd:8f no comment (ECDSA)

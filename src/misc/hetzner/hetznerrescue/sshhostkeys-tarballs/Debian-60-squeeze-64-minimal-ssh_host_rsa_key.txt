@@ -1,8 +1,0 @@
-Debian-60-squeeze-64-minimal.tar.gz:ssh_host_rsa_key
-
-Pubkey:
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC3T4vGPy201CN9b4PRaLz9wezunk064TFVFnJi+AqhZhC2uj5EH4rLuGZsuJul3z3kGfq9RyWt56RQej5EedHmBihXnoNS/40nZIVzxIduJYPu+qzp++KkBxrIUH8UhaWa1xYZ5G88nmzBMHU/A2+L1DvSrLIMK6nj6bcNVoza7Vi/N7FNbBBKR3Y5ORHQlnMH/quLsfxEoF1b94D9ZmXaSpoaWMWniSv4YIVHE8dG4DY4xYaw4gfs3rsVG7eqaGAha1W2oAfQtPXySJY/nGkN50dv8vni1jAVwrxFHmQGj52xdLeJUvbCEnY8DdupvuXT9K8B0YVdnPFd/dRhEhUB
-Fingerprint (new):
-2048 SHA256:YAm6yCGm3G88l8cTUvET6MXkd6tKeTzq/peYNd9Afz8 no comment (RSA)
-Fingerprint (old):
-2048 MD5:4a:9f:9e:24:3f:61:30:8f:e8:15:40:d8:11:08:97:c7 no comment (RSA)

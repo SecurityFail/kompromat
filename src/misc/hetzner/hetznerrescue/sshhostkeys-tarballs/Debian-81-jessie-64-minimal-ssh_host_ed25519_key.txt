@@ -1,8 +1,0 @@
-Debian-81-jessie-64-minimal.tar.gz:ssh_host_ed25519_key
-
-Pubkey:
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIbK2tSjgvnqIVqSR6fIz2+o+ZXHtdooNlhToXrfdzdq root@Debian-82-jessie-64-minimal
-Fingerprint (new):
-256 SHA256:z9xtsqAqcTBZep9YPMWGq4i2cMhj6AaimSlAxang9xQ root@Debian-82-jessie-64-minimal (ED25519)
-Fingerprint (old):
-256 MD5:fb:c4:14:b0:fd:a8:a2:df:d6:a6:58:94:24:0a:04:e5 root@Debian-82-jessie-64-minimal (ED25519)

@@ -1,9 +1,0 @@
-Ubuntu-1204-precise-32-minimal-no-hwe.tar.gz:ssh_host_ecdsa_key
-Ubuntu-1204-precise-32-minimal.tar.gz:ssh_host_ecdsa_key
-
-Pubkey:
-ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBKOLpEHSvKVh7muShg93uU0nduL9UwVAoguE95tjLH2R1wZi7arSgIhutCvdsMDnyvEyIWwllGeei/Y1xC0rVLM=
-Fingerprint (new):
-256 SHA256:cd2t3Kscg3E+Kkja0qjJ6j68etbuBBAsnCoTYxRYfbk no comment (ECDSA)
-Fingerprint (old):
-256 MD5:ba:c7:83:e0:b3:b1:fc:36:fe:1e:c1:eb:13:ef:a6:1e no comment (ECDSA)

@@ -1,8 +1,0 @@
-Ubuntu-1804-bionic-64-nextcloud.tar.gz:ssh_host_ecdsa_key
-
-Pubkey:
-ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBIQW8nfIisUz9sLk9UW/03VcHjTZPRTnTN1P6v9sEZg5y6OolJy3nH0lSvQvnXUQ/SEoZP/X6OwOwIAZQ6kum2s=
-Fingerprint (new):
-256 SHA256:qhS+8BT1Hrj7iNmj4q4GOcrzbL5uiBk/9qrFhvOfzIo no comment (ECDSA)
-Fingerprint (old):
-256 MD5:84:89:c1:7f:cc:f4:5c:fe:1b:04:5f:b6:ba:4a:80:61 no comment (ECDSA)

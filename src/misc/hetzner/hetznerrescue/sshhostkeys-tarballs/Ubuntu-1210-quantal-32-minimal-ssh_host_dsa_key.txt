@@ -1,8 +1,0 @@
-Ubuntu-1210-quantal-32-minimal.tar.gz:ssh_host_dsa_key
-
-Pubkey:
-ssh-dss AAAAB3NzaC1kc3MAAACBANP5qecqsCv5fI9j2R663/02Lub3A324t4xGUnfmKKPoGI6JMo7U4FxXlP6Gkbf5ThtmI/hE8SqIkRVJ4UQVjzKbbWBw16gL44aDQIsolxthlNpTM8ue90nOBLF11UOiuoHnl2TQJc74sw8hbU8nwC+b1u5CfrYQ02Z7D5L4XL1rAAAAFQCsdLN2zzlI5VVvpNtjr9HP5ZY5cQAAAIB58UPgLGJhvOFmpb1Z/SryAT0M51uueFItY33ttHThHviEehWJGNCsvV4GOHRTfysReKgSmqnpD/7SJsUHUQohFm9cP2POVZIEbRgj4E1bzXe+qmeQ8soehCEt1Zs0zeAFLCsLVpwehiZSlJWtgnXLHz702+3IffLFjeIqcRjtggAAAIEAuocNE6RGbXHnNHmUkfiDV+wsJnKBW5eCtW0wuHMiuU6D5i3HRrdgVlRNBSeK+mZU6acYQUaqH4bIDmtYQjRuW+8kddPe+OHzvOJvqOTuAn2RATIuxaEHb/9NJ/xk8/RFZJYC3JYaDP18bdHWFr2PS/MFpBtQq0zz1YbH+PO+Unw=
-Fingerprint (new):
-1024 SHA256:dewVhWU3c6/rWEjdTepkRwDvVIdWO4b5Ux+2gKyhvQc no comment (DSA)
-Fingerprint (old):
-1024 MD5:21:23:54:85:3b:12:b9:51:9c:51:4b:2e:d8:7d:41:a2 no comment (DSA)

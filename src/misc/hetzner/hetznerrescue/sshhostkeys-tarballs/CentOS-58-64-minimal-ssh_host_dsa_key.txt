@@ -1,8 +1,0 @@
-CentOS-58-64-minimal.tar.gz:ssh_host_dsa_key
-
-Pubkey:
-ssh-dss AAAAB3NzaC1kc3MAAACBAKWmynYhocpTqx7BlTE9uw3M0ntvocAL6NOFQLc69LiTh85G8j601kPbNNx05KJJSulKu3ZSnebk3TiZzwiziRnLEnp6i8LVErFvTA3oBWK4SXbrztk24/kNBVcxUjttzanbSCwimnIWBMKJhKF6kMVj2XEx9Z/T0lbXYToiC5EFAAAAFQCBG8LrtIrE0qTjftPbT7RyPN/NpwAAAIAEShi1Ddg45RC4OlNWR5NEIzqvOP8PQ9Nm2wgTUHXnBjRVbvtTv00mqDARTlTvoSUzTN8pqH/kVO74vklAEKp92aUm4u+jG8VeGlq80pMipNI2qss3abF2lyjE+vuu3lcq9IwSJxVfuYarDgI083kcgITgxbD9jiW2zhWT+meF5gAAAIA2D87p5jAAuEP+gJsQZyU40KW/WlTeOz64s9D8qoZ6RIfJxlEJfygnx+53Xb9RyZkPBXcykquy6medyfiNDIRn2v7VUl2+yzhOKooxrJyBd+lqsf3H7b1wV/zzD8OKmQ+jlFgQ85PmVX0rIceFn1r1wJanNyZhA+DRv1J4pMhrow==
-Fingerprint (new):
-1024 SHA256:lR9nv6G+Jqlvefv1W4huwjjLGS/HlL4e7kTdUxcNNaE no comment (DSA)
-Fingerprint (old):
-1024 MD5:8a:ae:6e:88:c2:71:de:1c:af:4b:89:92:6d:a3:94:d4 no comment (DSA)

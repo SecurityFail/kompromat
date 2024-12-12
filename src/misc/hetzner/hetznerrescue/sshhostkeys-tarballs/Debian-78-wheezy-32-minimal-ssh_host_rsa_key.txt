@@ -1,8 +1,0 @@
-Debian-78-wheezy-32-minimal.tar.gz:ssh_host_rsa_key
-
-Pubkey:
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDVU53mRS/Vq8Xg33MUTi6YRNNh/Fs6RrLcUoAcjyR1alXO6LbM9reOPiV0fiF2gW3ZsH+Ko+35bMd4ODpNaqqmWQEdYcsSKeuE4e0G9I0N7ECaDBVyrdadkEjvY8uW5ZjYWdjvG7H2HxBAFp0NJdvwcxJ3Q9IIBAhoRJXIGwn3bf+AXtv0uilr6uwn6Ihx5fppHQBpSvVqSXwNAxQ2t7a87iVIOxNjRPR5A94I1lPAQlqTjzkrInt8/x1zu5mxw4AOtCMOVxSn6P1QtjmawJUExx5o9VucRb+48Smp2MmrPvaLqpBDhcOxlVF3/HDe5CPUXNIKcQDkeLScWcvRwyLR
-Fingerprint (new):
-2048 SHA256:YakSb/mWXTxsJJtPfzeMln9YmB9/1ia7EmT8875uWEE no comment (RSA)
-Fingerprint (old):
-2048 MD5:db:53:ee:5a:4b:b5:ba:38:0e:7f:d0:0a:86:1d:b8:2f no comment (RSA)

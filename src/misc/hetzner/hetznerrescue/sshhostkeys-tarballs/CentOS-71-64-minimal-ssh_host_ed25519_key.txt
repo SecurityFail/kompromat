@@ -1,8 +1,0 @@
-CentOS-71-64-minimal.tar.gz:ssh_host_ed25519_key
-
-Pubkey:
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOvOJT70kA8lRDsYLOaXM7VloYXUufEVkxmRmrBEkScL root@Debian-82-jessie-64-minimal
-Fingerprint (new):
-256 SHA256:BedDaId0mgH03RIuxTkUYSCB8E/uX56HiOT90I0bSnU root@Debian-82-jessie-64-minimal (ED25519)
-Fingerprint (old):
-256 MD5:94:f4:34:44:b0:fa:23:60:99:42:49:6a:68:fe:22:22 root@Debian-82-jessie-64-minimal (ED25519)

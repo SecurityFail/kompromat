@@ -1,8 +1,0 @@
-Ubuntu-1604-xenial-64-nextcloud-beta.tar.gz:ssh_host_ed25519_key
-
-Pubkey:
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFbaU1qLQdUlmRztd+Qjn4xHEMeoTQAsr0OdhHUAjMGq root@ubuntu-xenial
-Fingerprint (new):
-256 SHA256:5hIjsK39lDPF1tPA74p7FbXh1cEO45qMvkh6DnUUenw root@ubuntu-xenial (ED25519)
-Fingerprint (old):
-256 MD5:fc:8b:de:5d:8b:93:f9:59:46:0e:cc:d2:2a:8d:a9:57 root@ubuntu-xenial (ED25519)

@@ -1,8 +1,0 @@
-Ubuntu-1304-raring-32-minimal.tar.gz:ssh_host_ecdsa_key
-
-Pubkey:
-ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBGerBTD2gKpxkbKRfdceq5a9N++L2DjzUzyBUcdtFhSHLTZpUuJXcK54XIH3ckh73OYVd5ucUQl8LEnSpmN76xE=
-Fingerprint (new):
-256 SHA256:h1igw5u/SLyQMOu6Dyx5Fj/SKj32eNkzMAQFldUQvGo no comment (ECDSA)
-Fingerprint (old):
-256 MD5:d3:c9:eb:74:e0:13:5b:b7:6f:41:08:4b:45:4a:25:7c no comment (ECDSA)

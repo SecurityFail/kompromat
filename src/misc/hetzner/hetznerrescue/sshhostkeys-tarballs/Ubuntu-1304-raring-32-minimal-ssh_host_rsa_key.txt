@@ -1,8 +1,0 @@
-Ubuntu-1304-raring-32-minimal.tar.gz:ssh_host_rsa_key
-
-Pubkey:
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDstXEP0nQ38OX1KEOvn4bZnjfgeW++cg1fgmOvu6VCwk8nCLhaE6WXrn5NKAcWLTSNC0otwAhS+PVdV31xK0RYZiNR4r8PzST+AvTdJisHZf0esDPZ9MHo8LdV4NEqSbvk8YniLYeSOdxQ+BP9nKz/+zNY7nn2J0P+V3tWB3TCHG/FEVGjXNH2ON/9b3ZdNCP5bwO9xaYA/VbTSJKflKN224jE5LobSGxPOPRmq9D7SnSXuAAaOy9qXrrk2SR34hLZqnhcukxaOSbJGfJEiCGuorRmu2Httlb3ugDXurrZcwv8dlINyYo0W1NlTPi+cAGFOHS/pA0/EJXdsY/oUShn
-Fingerprint (new):
-2048 SHA256:uM4ilURtWFzthnNsLPYtV2LOPhVk1ybKpH4J61s8hZ0 no comment (RSA)
-Fingerprint (old):
-2048 MD5:2d:83:ac:89:7a:5f:89:ab:bc:de:e5:5c:d9:66:a8:fe no comment (RSA)

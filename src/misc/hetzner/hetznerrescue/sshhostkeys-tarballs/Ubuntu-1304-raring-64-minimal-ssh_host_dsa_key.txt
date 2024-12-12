@@ -1,8 +1,0 @@
-Ubuntu-1304-raring-64-minimal.tar.gz:ssh_host_dsa_key
-
-Pubkey:
-ssh-dss AAAAB3NzaC1kc3MAAACBAJFwUhMmmvo9hSyQadPzW9VqgiEVItIJArHkASQUycPLF8TMvi8BwicZzL3JEG4vWFj42h8Or4+B/J0tr+l0YnaTaBuwP8rIlmHGqb+9N+NogavXemnI0dkSexdD7pL/BRcaemFvFOy8QXurcMsKsBC3K0fKwpesEJdJEQyqH2udAAAAFQDfDwQsWzcnFQZ/YHcVolJFQPTQWwAAAIAkbdc2fumSDr9YJ8+FVPJZv63eEIue19D8tfb3HHNRFaWDB90YxY6bYniCcTVyMg2DaPGDgwq4dxEF9FcpuPX15fnaR8p4UswAo7gkpdrtt9d2eAbVFEJG/PS60bdtqWSmdrWvXRiWULnBlTYPgB80y267tLYffDWVi9aGDlt4XwAAAIBrqkKI6OzbPtM3mSgCCrYpffKL4d8MhdwLerUvWzFdYwvkdKYi6wv8OgD6HPfljUOOxNnhjiT+BSXEFWYi1cTZXMpcU25ow0vGsFKvM2mZM+eamqi4ttj2IX7Ki0JcfALNDcrMeGPFK/AsvKLFnj5mb5GT+Jj2NlfRTydLV+7lUQ==
-Fingerprint (new):
-1024 SHA256:kuqGZfJQzb4daHiyRvnBA3xlrEHWxyMVvaYCMby3q+g no comment (DSA)
-Fingerprint (old):
-1024 MD5:cc:3f:99:ee:6f:29:fd:57:1f:de:57:0f:eb:a5:04:fe no comment (DSA)
