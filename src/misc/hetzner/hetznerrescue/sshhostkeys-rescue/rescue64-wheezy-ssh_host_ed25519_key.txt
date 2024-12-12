@@ -1,9 +1,0 @@
-rescue64-wheezy-v021.ext2:ssh_host_ed25519_key
-rescue64-wheezy-v022.ext2:ssh_host_ed25519_key
-rescue64-wheezy-v020.ext2:ssh_host_ed25519_key
-Pubkey:
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFvAEQefUnSw1+PZ6AJsV/sFhbmIlMxXH14564H0oEE0 root@test.rescue.hetzner.de
-Fingerprint (new):
-256 SHA256:dIeeirWKTDE4bJFJbXccONSMQEMNwfHLHBfs1xhBZ08 root@test.rescue.hetzner.de (ED25519)
-Fingerprint (old):
-256 MD5:a5:90:08:c5:02:a6:40:49:54:08:19:d8:3a:3d:e0:fa root@test.rescue.hetzner.de (ED25519)

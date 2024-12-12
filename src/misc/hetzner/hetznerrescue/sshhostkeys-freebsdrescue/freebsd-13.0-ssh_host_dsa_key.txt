@@ -1,6 +1,0 @@
-Pubkey:
-ssh-dss AAAAB3NzaC1kc3MAAACBANopvYjckirpisjcGfcTkJ/bWd54juwJaB2Iczqk5ygmNKuL4hOm+XBE7g+JacGTd6WiWJcFizLGlgTJk6s1M1aRWih3f3ETF2XLCf7gT/G/eRFUsR3wKWCcVyp/ON8cEfyy8OLRGcXjnt8MprtPKWFQM68N1g3RPZ/7KlofDMo7AAAAFQDaVjq0p0bkLDbjRSmpMfDOWjQNSwAAAIALCt+YaHz88AdcudJ5KUnwQcPd9r1II1xuA5Wo/826v9i6Q2t0WTm7tri3650gwhmv24LhxtXqY/YUuWmUsOuvNTc5sRNTTiA3dOJnlIZDZPSZQcV+P1GcVO4Tbl0d29Cq5/PKBUGvXWcpuCvxiSJcC3j1eB803AmdcRsBExEUEQAAAIA/AxDSwQDA9A5FgL6NZD9hG3B2eMZA9zGRRloYOXHMQfdIZ0edQEO1Fk6bMR1UgFKQ5KSjh63vwlbsxo3hQDjWnJC6xcq2idr7PVSvsMnI5uwsudOnacI3qPQSJN/r5eF5R2fD3COcMHM/SskAZmEGpfC0NBoFeKLGKUJrMTYN0A== root@fsn1-hwlab-freebsd-runner1
-Fingerprint (new):
-1024 SHA256:IFrP7rRVRx0MITsBPSou2kOVgcb/ISL1+gDS61ncd0Q root@fsn1-hwlab-freebsd-runner1 (DSA)
-Fingerprint (old):
-1024 MD5:52:99:0e:2d:1d:06:71:7d:61:45:74:eb:a9:b4:b3:c8 root@fsn1-hwlab-freebsd-runner1 (DSA)

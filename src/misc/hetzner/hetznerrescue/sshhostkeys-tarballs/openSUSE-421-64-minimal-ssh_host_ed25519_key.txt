@@ -1,8 +1,0 @@
-openSUSE-421-64-minimal.tar.gz:ssh_host_ed25519_key
-
-Pubkey:
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID6Z4xZiwFkONFpxfBCFwPA7C4HY+KUx40qUaSZ+4uzP root@imgtest13
-Fingerprint (new):
-256 SHA256:S+EBbYMr952elaeuHHerl15LdeK29oAOqxcKgU33nd4 root@imgtest13 (ED25519)
-Fingerprint (old):
-256 MD5:20:ae:64:5f:98:cf:81:c3:96:d8:c3:d5:79:0c:dd:bf root@imgtest13 (ED25519)

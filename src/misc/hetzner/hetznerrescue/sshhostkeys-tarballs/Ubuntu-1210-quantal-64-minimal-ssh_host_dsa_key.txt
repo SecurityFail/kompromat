@@ -1,8 +1,0 @@
-Ubuntu-1210-quantal-64-minimal.tar.gz:ssh_host_dsa_key
-
-Pubkey:
-ssh-dss AAAAB3NzaC1kc3MAAACBAPB+kc0WkV6tFfu+42Zx+PnJxvjChTk04OaiITy1r+NJSL3IRXVJm6BL4T8MkEzb/ItPzlIYNis2gZh9nYVvvRcdfhSOB9wvuWXpXKlcYeSjxo0tiGeOXniB7v59+0FOIDDmfyxpcFq/mQ7+gFKp2e+o9EaNnBdplTq3gGkVLI4TAAAAFQDAawpqedXhD7rXbSBagRFe9P6iwwAAAIEAksDwSfsi/Fejym33WgcCZob8oicndA7dRpdmrkF9mFMgbH5UK6X6L39vQY275Ho++hMZSjzS2twwO77irnYjSd6i/nNwsjohKmN8Cad9MgpBm+dhD58yrDFBbtyXLaV8DkDkQr77aVMZj7EDUDgWUYj+wdtf6Ipu55CEmwVCfUcAAACAaKn9iZnWEoJicBoEa8/2Ahl1IlWca6G9TzDc5SrUyIFFoaAA2f4zkKuRGoeYKUiNstAsBwCl+p9IYIPEQ2RZ7xJ0F3VVc1fmsduGKyGNrK5nfJMNM1c7C3KrQixDsKXBP2/w5H5C1LM5m2G17MvxuV4McaPYXkX0ZyPGjVLIn+I=
-Fingerprint (new):
-1024 SHA256:ryWLuotp4GvfOaVvFFHvxHpCwya/vGjcy68nen8vLpo no comment (DSA)
-Fingerprint (old):
-1024 MD5:5a:51:3d:ce:6e:44:f8:37:22:2d:ef:24:78:94:43:f0 no comment (DSA)

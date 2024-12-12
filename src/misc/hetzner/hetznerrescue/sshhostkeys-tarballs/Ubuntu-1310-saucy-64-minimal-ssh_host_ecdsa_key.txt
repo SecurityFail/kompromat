@@ -1,8 +1,0 @@
-Ubuntu-1310-saucy-64-minimal.tar.gz:ssh_host_ecdsa_key
-
-Pubkey:
-ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBITKJBDzg3MiDljLCAY/eUITkfb1vyg41nQBTSFM6Ru5ZOIiD2JhngYi6+cpdQvnrNjBX7+7XphkxFV+IXiECSU=
-Fingerprint (new):
-256 SHA256:FlBtDN4vT/HoBbMumfW9B+ouJGfnw7KPUCz5vK283UU no comment (ECDSA)
-Fingerprint (old):
-256 MD5:e0:e4:7e:c8:6e:09:65:05:b2:1f:e1:98:64:46:84:b1 no comment (ECDSA)

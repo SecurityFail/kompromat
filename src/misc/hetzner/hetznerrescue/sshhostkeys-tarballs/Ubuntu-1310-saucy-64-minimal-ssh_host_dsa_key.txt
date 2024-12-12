@@ -1,8 +1,0 @@
-Ubuntu-1310-saucy-64-minimal.tar.gz:ssh_host_dsa_key
-
-Pubkey:
-ssh-dss AAAAB3NzaC1kc3MAAACBAPCNWKu7jC2gDFiUxgGhrcAzFm4E9m82OpRumjfiaiVNsY1wtcSZ4s6ZtYc4N/vn107F602xTVar8QpmJNlnOs02r+9uf+e0nDajSeyiy5sB6KufvPurzDyVLcILgYmVD+Qzcpe/zCKQOWjW9GVXS4GfjtjnFc/QRgNmI28E//bFAAAAFQDKkTFrYroKSKZuqdYSzDABuMWhmQAAAIBMDBItOdMyTW3w3uhwPKANwztVtlLZ73EsRCFgl+dNeBavSIZTE+hN84qysthoIyqxNKg8o88dfmp0cvUlCP2Z7t1voebK/DlP5j4/Xj2HRSWYSBMBXPdcvo7MIAMJoEAqSIs6RJQ21oCFjOql6BF34kokJNm12/SiNQQbF65dvgAAAIBjbSmENxGy0PF4pDneXiZAV15PaKmKIPD/HqXuIzZwaJvALaRRjTjI471dUAHCXBwFFSrsxhBzF/lhz/NISN6o/u1jtdIOb9X4Dq4iQxlQTa1Dw4IO9Zfd6oIcY+XdRc8m4DRSx8TjEJosiG/iiFfWd34Ak8GN5JyafsBNMjv+PQ==
-Fingerprint (new):
-1024 SHA256:cWLI+HUFY3XI6mChmn1h00pJKtunG60R8fTUQGM6MsQ no comment (DSA)
-Fingerprint (old):
-1024 MD5:bd:3b:d4:2a:10:93:b5:05:d2:20:7b:16:8d:1c:63:64 no comment (DSA)

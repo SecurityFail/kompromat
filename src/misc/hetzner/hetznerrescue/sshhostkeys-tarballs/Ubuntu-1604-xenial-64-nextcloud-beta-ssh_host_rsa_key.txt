@@ -1,8 +1,0 @@
-Ubuntu-1604-xenial-64-nextcloud-beta.tar.gz:ssh_host_rsa_key
-
-Pubkey:
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDTKDe/FuBh5ZXeC8exOwqguaopz0835+UEMmJmj03FVopLUj8/rOND1zCTQ7vRKa23gduzfaG8n3465wfvEaHdgKIRaV/lj/8vydUdsknCWUU5cbzS72ZwZsPe4WCfuVXWnHnYKGIUpyMjY9ItK/lS1oaa5PHPc1qCNb85xcAN+/qcRFb7nCP78uXb+lNAqQgtlZfUCqHDuU9PsGFcd6TS+FVIyVbLRe6U7ZfnBLpRmoYaTvuFcxZvwdW40WBhEe7Kanh/+RX3GPLpLzBxEnqd6Q7KKbc1rH0d2OopsH9GEMM7NXBSzzRasurMZhaojm1rfutMPDWRVOZ42yKDcLPN
-Fingerprint (new):
-2048 SHA256:C3bgPg75kmTdGaYNk2PbP1RxAk/dZKsGzqmWj+zu3yo no comment (RSA)
-Fingerprint (old):
-2048 MD5:02:f0:bb:c6:0f:26:dd:79:bd:15:ca:c7:8f:3b:32:20 no comment (RSA)

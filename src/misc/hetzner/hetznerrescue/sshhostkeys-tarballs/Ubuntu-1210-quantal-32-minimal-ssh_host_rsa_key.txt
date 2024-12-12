@@ -1,8 +1,0 @@
-Ubuntu-1210-quantal-32-minimal.tar.gz:ssh_host_rsa_key
-
-Pubkey:
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDF/qm6XpqBBk4bKOHU1FTEgZ867xJCdllgtGCHPfadZGPiZSAQpO//UAQYddR4cigKCNpaVkEcaVp20fWvtx/jhFCZIlXhYUM9GiXJ0Zqwvjhd0QXTIvAdLoMP6U4CYSo+L9DOxZJuzFVCcd+UMw/hUwugfRka6cXD7+5u/rbTnvqO7VzGo3/kThHxwt1DmhtEvWraog7iaBAM5n7u7EkF/DxAxQ1df3/tKRQmX4xk+9QK9ISiq+GPoOy9G8/sywJgHS4hrnQtD+Zwa7ZLMUMlBgmyY4Qt8wdsYkt921nlE2QjuJh1OeixGh9EAyfcLg02hlkMd7i3VOm31WICMJpN
-Fingerprint (new):
-2048 SHA256:u5Ufcobq/rDTumu1AzGtjMcpysMUomnymcst5aANuJ8 no comment (RSA)
-Fingerprint (old):
-2048 MD5:66:09:34:9b:ce:21:fc:30:db:08:f1:00:1d:23:8d:d4 no comment (RSA)

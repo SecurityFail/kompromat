@@ -1,8 +1,0 @@
-Ubuntu-1604-xenial-64-nextcloud-beta.tar.gz:ssh_host_dsa_key
-
-Pubkey:
-ssh-dss AAAAB3NzaC1kc3MAAACBAJadUH40W3gmMrv0JtdNPe2odtbEgwEqELCCZK/tx268DpLXbiBne6vu1c5h8QR4XMGz4xRdQMXJF3juYsvGyEKBXk5zge6ywVYP0f67I/cbsYninDMfbakp8nKZJYReYE4ZJgsMvAydiGpb0ZuobyXrQ+QDsL/OodnMbaAo3uDZAAAAFQDs6elDDpZOoYdXXamkkcGKcB8mgQAAAIAWswIF3XwU4zDGCTknQAkTlyXH7Wnk6Gnh0XzO+6X1Qvecr6XGPBhzqmKAkEU2yKSLhLTnQXt0SAGWGdayXnaXfmzaLRYrbZF63jtfL/q2BMKuvCECE9Bn0se8AKJTx1NsKi2lY6fmhCcH7QF7T0O7lsyzPRCh2V/9h8qe4IeUjgAAAIAFH2a9ikysSdDmlm3OViK7UQszsqNwsy+tHd18mK+AjVyzZHcKnggCKXj76sz8wToKfKyTtOLe/CxgbsWjr1hZgnetyQRTiJiGq0VDJmAmZaJcpUoe/r/upNPKuL6FUE2lliVOWgziShAFWVF+5/brH+Z6RIHr1y5/F2yfAbstDw==
-Fingerprint (new):
-1024 SHA256:jFjbIEZWB7OplxZ+M1jAFa8cJr8aa/I+AGTl9DyK2dQ no comment (DSA)
-Fingerprint (old):
-1024 MD5:c8:12:a4:c2:f9:53:8a:7a:57:c0:31:bd:8f:52:74:5e no comment (DSA)

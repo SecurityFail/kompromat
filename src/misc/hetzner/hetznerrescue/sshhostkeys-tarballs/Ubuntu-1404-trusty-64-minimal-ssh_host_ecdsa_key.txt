@@ -1,8 +1,0 @@
-Ubuntu-1404-trusty-64-minimal.tar.gz:ssh_host_ecdsa_key
-
-Pubkey:
-ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBIPsdfNO7x5OA70Vv9jIbQIFTTQCMy0kyckxFP4zaYsBkmn2yl9ZDJskH/7kpLFRlVeM4OayH+ryCLG7RPNMnfU=
-Fingerprint (new):
-256 SHA256:5jPR1ZfJe1kZDhErzdhuYH5ytb0X8pLi2jeqT0TQEec no comment (ECDSA)
-Fingerprint (old):
-256 MD5:67:7a:6e:40:3f:0e:d8:5d:5c:ad:db:d0:ef:5f:45:de no comment (ECDSA)

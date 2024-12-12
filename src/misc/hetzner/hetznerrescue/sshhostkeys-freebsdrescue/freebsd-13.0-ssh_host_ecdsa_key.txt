@@ -1,6 +1,0 @@
-Pubkey:
-ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBLxg6chAR1hLcboGHGImHds2RtwQOglXmvBMSr7ZOVgi5ZkB2b1l4P7tsJnXCLonsA4DVJ0373YGkn271snmjIE= root@fsn1-hwlab-freebsd-runner1
-Fingerprint (new):
-256 SHA256:VQQwXKfYaGuygm4OoPtMOkWo3MWdAm7hLxi7LJQcauo root@fsn1-hwlab-freebsd-runner1 (ECDSA)
-Fingerprint (old):
-256 MD5:b7:78:5c:7d:b5:0c:d3:1f:29:f4:b7:b2:72:66:1d:b7 root@fsn1-hwlab-freebsd-runner1 (ECDSA)

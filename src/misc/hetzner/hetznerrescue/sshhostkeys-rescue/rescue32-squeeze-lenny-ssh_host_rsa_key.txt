@@ -1,9 +1,0 @@
-rescue32-squeeze-v015.ext2:ssh_host_rsa_key
-rescue32-lenny-v004.ext2:ssh_host_rsa_key
-rescue32-squeeze-v016.ext2:ssh_host_rsa_key
-Pubkey:
-ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA1w1vty2QdERMNpKPvlnhlACa99D1t1vqiY43H1gI600rxk0WrQvHnuoRbRh7GDbN31rSmzuLDABk0oLq4sj6JjgR1ttOom3DehOhSq5jxjxBEt8uWbAyZIgxRCw1YIKsnH14yoCKQBhQvYu+9F6+YoXutVpbLbE0M8fN3g0BjRSL7yl9QVNrThzr38Do5G0Ie+aBvMblJ31q7Of0O3vDes6Q9/AL6De9dCIo3ysewh+3gGt5V0DYLqrje4jkzV4q8+0pniihuQBvhQKQYafUIteckcY7sUD3CiwsVWcY3jV3NZV/xXs6GS8AdJ6JJNxHnmB+lzBu3yssJ3W+Ydcbnw==
-Fingerprint (new):
-2048 SHA256:IYEYGcpWh7cwENoCd98lHgFN2aq/RxoP+lnECw9TVZ0 no comment (RSA)
-Fingerprint (old):
-2048 MD5:84:6e:c6:c3:46:b5:75:2a:7e:33:e6:d8:51:39:23:55 no comment (RSA)

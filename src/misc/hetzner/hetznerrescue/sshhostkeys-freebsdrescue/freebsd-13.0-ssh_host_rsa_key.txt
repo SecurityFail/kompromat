@@ -1,6 +1,0 @@
-Pubkey:
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDAhu2IFqat5clZbi2USE9YfPbYwuTd5YkZmjX0W4kpYy/AeD3fetalMCvRtLv8UG/BmqwBXwHo5dL2MKvwrY6r5AYynviky4ZxSna6+rNNFVZn2m7OratDdLexl1PZy8EbvQNeXl868oe7ufl19BpqULPOOGqM8ifSUKeb+Ni4zMzmI+Khct8qbyNkUV++QBKSYHBBGj527tEA2ozcztFslBfrFjDNX3SmEIFQDq8bmaz2y3p1CdzZRyA75pYV+gquYVnBsJL14tPLq+epa2x4I8M7+H040buIFA69nlJIdVfMBFF7A2vhx8ApPjv4Yav1BE12R/0KYuy+Qs8ui9QtF0TWpGKrCoL53kurRpT5JuMiry/iFSZV4LQ+VS67BeuwyUjb8dLFQGeMX5AC6oE/GM+FPKblTAcWRdwmaDnnFMKtf9WrB5cQyGJ0zC0gOCKgVETfFYCX8yF0cplmWK3YTgf61rnuzthc1dWeFORXjxY9CXYnkrIOXY57cm9JfQU= root@fsn1-hwlab-freebsd-runner1
-Fingerprint (new):
-3072 SHA256:fLLBhOFpAxtHt9GcoEv+4T53+9LnP+BH7W9bZbM8DVw root@fsn1-hwlab-freebsd-runner1 (RSA)
-Fingerprint (old):
-3072 MD5:6e:dc:0a:ed:ca:22:ef:2e:0b:99:6d:af:40:f2:68:b9 root@fsn1-hwlab-freebsd-runner1 (RSA)

@@ -1,8 +1,0 @@
-openSUSE-121-32-minimal.tar.gz:ssh_host_dsa_key
-
-Pubkey:
-ssh-dss AAAAB3NzaC1kc3MAAACBAK4WxXQXJmBFOOpU3qhXrf00ATqnf/jLwLgcRqHn7stokbsqcDydWdTPAyBTgxCQMqzFTOUtCaOj0jw8YAxPg8jxAC6DTyrIMnHNkjLl5nyN7hmHGslN6ULbdZjAJnZ5OUCKkaqf9MkNTCj1MJCvZPmzH+lh3FfcTHEDOG06z7UvAAAAFQD8CM73sFBugqTsZHW97gerUrX/WQAAAIB1Phr6A97JZa/dX52dUUX5nuN8i0zyuirUnKYbpGeLl9tZ923rNCr1lvhZuHpORh0tUoJtOZk/qYRWNqDy6myRPQBjT2asM4RffdtP38cpUl02XZ6l9T9tdI4xLk73wOKgVGhdibxuVnqDqsaWRfLQnaPfJ46AJBvwItwZ98mqMQAAAIEAnG42vVsu8xt7xbRBfcXryMWbD7dEQNjpJ78+Leju33Y+WuWABml8Lwwj2Al20KOJ/olaJhUSKgScXnvpllEhdpf4iBYY+6gP5sMD8hap4JXA+6eSfTGpku7qjhKqOl+QVmn939Zeln0pohBFedXgy+BaPNIVNi+ZraAGPmyGByc=
-Fingerprint (new):
-1024 SHA256:Vn6NvVLpPVuv3vkfhKVEaSwCtSsoN6AGC/ngQzSG9Kk no comment (DSA)
-Fingerprint (old):
-1024 MD5:00:58:e6:f3:39:c8:e0:54:fc:32:b0:8c:4b:3e:77:18 no comment (DSA)

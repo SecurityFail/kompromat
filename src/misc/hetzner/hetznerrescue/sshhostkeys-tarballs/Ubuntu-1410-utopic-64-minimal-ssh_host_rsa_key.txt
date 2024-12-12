@@ -1,8 +1,0 @@
-Ubuntu-1410-utopic-64-minimal.tar.gz:ssh_host_rsa_key
-
-Pubkey:
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDoLbV09uh+TeiQwqjKJudaWDH2JD0nxYE1UdgE/iw6fPCdZNN7dsyl9XFR/G6WAZlo77+XAyhymTuKCGhHEc+rQeZj42oduIfCbVAjrUeVWcSP7+FD3c7WbuGP0Y5g0OEOTZp9WwYZqv69BpVG2XBhfbT045Lt+VHBucs1+7fB1j4Kaey3jrg1dOfftskeu+TnR0NEoTqwkAfrX+lZ05zE7DJcoZ9YUNDxJg/1qd6aojBwQcWlEYW1HJiH4cEd5oimyq0pHku0JT/FCUvWD796jtmkvYEK+ihjVJB9DxYqTknGhrICytVRiRCYPzM2S7PmIazwmSZcmfn3Ac6FTrob
-Fingerprint (new):
-2048 SHA256:NsY2hengihejmmEh2OaW3kBbYkfN9V1GAPf/HH7ns+A no comment (RSA)
-Fingerprint (old):
-2048 MD5:e4:bb:77:6a:81:81:a4:3e:ef:42:6d:d1:9b:56:c6:ad no comment (RSA)

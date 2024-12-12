@@ -1,8 +1,0 @@
-Ubuntu-1410-utopic-64-minimal.tar.gz:ssh_host_ed25519_key
-
-Pubkey:
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPCR7MANS4E3S/lmiq/liPOwWn6xxIAs5azBM0VTgeif root@Debian-82-jessie-64-minimal
-Fingerprint (new):
-256 SHA256:QKdE5HqBSsxEJRrCih911QyNjv3sLHUMfSQvU/R7g+g root@Debian-82-jessie-64-minimal (ED25519)
-Fingerprint (old):
-256 MD5:0c:31:6c:e4:3a:9f:5f:b6:dc:cc:1b:2c:b9:73:d4:69 root@Debian-82-jessie-64-minimal (ED25519)

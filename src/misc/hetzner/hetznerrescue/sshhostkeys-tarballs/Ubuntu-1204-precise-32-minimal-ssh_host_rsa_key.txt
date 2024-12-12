@@ -1,9 +1,0 @@
-Ubuntu-1204-precise-32-minimal-no-hwe.tar.gz:ssh_host_rsa_key
-Ubuntu-1204-precise-32-minimal.tar.gz:ssh_host_rsa_key
-
-Pubkey:
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDXDWAbDO0YiEOpHab2iox5VPtYRYIuOUIDUEm/jbh1jSYbmCQwIDo6xqA4S+9a8qoH4XwhdtDf80mVr10v/08+5FPtthA9nt7tHUvr3IDXKbDaKmRu7vSXnwUCA1d9bwDA70BJJAeda2I0LdS/uo1IGUSwVJiUbVIAdzPvUZvqjtszoo3mSp73DDiZYyTQ9XdfbywmuI5apVqq9LcvEW7cFQUbkDLKECfOIGjQl3SZ1fJrqh6AJtGE2V135+LhYcz8uzehqM27krTArWei4TlWoWiHqmAIoEPsWx0+jlQl46Aq/7W4dsC2NbqVV0FD8Nyh9eVpZjuGecMt4e/QLdDP
-Fingerprint (new):
-2048 SHA256:/XG9Kq8LeRs/qlmHSIZbzIedpByLC6a/2fowlSFfOzQ no comment (RSA)
-Fingerprint (old):
-2048 MD5:96:2b:c0:30:26:9d:88:5b:24:d9:fd:d9:67:45:c6:87 no comment (RSA)

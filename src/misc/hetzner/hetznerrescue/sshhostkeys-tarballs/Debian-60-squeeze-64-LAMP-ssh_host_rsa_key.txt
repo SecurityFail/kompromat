@@ -1,8 +1,0 @@
-Debian-60-squeeze-64-LAMP.tar.gz:ssh_host_rsa_key
-
-Pubkey:
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCotUQO59vVn5S0WW5ws451uOVqruqbyTxnKCFAQvKn5a6eKkadYZ+Mu0bxP84ggDbhfs2mg57zExI8CVyNPePDYRTdm4U+/5bJbzbyo+yYnGi6KXprOX4bvOkStr8RZUv45ycG7NYXS0t3XcqxkapGwMyHqsVVFmZg8jEts7vNoblUbqempqTIWKpnm0dMyrv+R0wrUUU4k4lBm3JFUj02M7iMR9YZKmZK3JKOjL+4KLJUu/B+60DNdzEEQGdl1Ndpj3BWn+IkvFvqXjLiEPnrVkfy1SEgS0nYUddRKyiB5+0XaoOY9yktDF3p+RnKrPMy/eLNO/KhMSYBCW/xnXjn
-Fingerprint (new):
-2048 SHA256:gz8VIS0SOqm5aqRO1BCguY57Xy/GAfCzXQ0W3eO1Bw0 no comment (RSA)
-Fingerprint (old):
-2048 MD5:b2:03:1f:1e:a4:5c:c9:ec:02:7d:c9:95:c0:37:a7:12 no comment (RSA)

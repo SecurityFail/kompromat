@@ -1,8 +1,0 @@
-Ubuntu-1110-oneiric-32-minimal.tar.gz:ssh_host_ecdsa_key
-
-Pubkey:
-ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBNy6fS0+Yqn0Zj3adMagrJduKPOMS1Nr7TFcXc3KDAjfZUezbFYEl5oCCuK4wp0KpbxFfJpQ4ti4It6rqQ001kA=
-Fingerprint (new):
-256 SHA256:OpjUM61LmB5QWX9cjniH7svmcv8Q9ErOiX8c46Ju5Q4 no comment (ECDSA)
-Fingerprint (old):
-256 MD5:89:b7:c8:d1:b3:ea:55:8f:7c:3a:84:b1:3f:f1:c7:20 no comment (ECDSA)

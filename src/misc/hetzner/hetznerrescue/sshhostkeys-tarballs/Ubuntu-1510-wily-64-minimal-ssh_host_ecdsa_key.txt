@@ -1,8 +1,0 @@
-Ubuntu-1510-wily-64-minimal.tar.gz:ssh_host_ecdsa_key
-
-Pubkey:
-ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBMKGeED4KMK0Z9/RKjGXGa7rsT574Yfkl/vj8xcJ4EnPfa92N7R9pIFKgQDXygC32Jp2VTRvQ5XOZtwbZw6JaQE=
-Fingerprint (new):
-256 SHA256:wd2hmu+UhL9Eolcw1GsAhDX6Z6Tc938sJzDJVDXD1wk no comment (ECDSA)
-Fingerprint (old):
-256 MD5:94:b6:2e:92:33:00:0a:71:c1:e1:25:21:d3:ab:01:e7 no comment (ECDSA)
