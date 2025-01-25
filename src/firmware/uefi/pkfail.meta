@@ -1,0 +1,3 @@
+desc = PKfail UEFI test certificate key
+uri = https://www.binarly.io/blog/pkfail-untrusted-platform-keys-undermine-secure-boot-on-uefi-ecosystem
+uri = https://archive.org/details/aaeon-uefi-firmware-git-repos
