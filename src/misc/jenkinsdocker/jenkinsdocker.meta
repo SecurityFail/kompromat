@@ -1,2 +1,2 @@
 uri = https://www.jenkins.io/security/advisory/2025-04-10/
-desc = Pregenerated SSH host keys from Jenkins Docker images ssh-agent/ssh-slave (CVE-2025-32754, CVE-2025-32755)
+desc = Pregenerated SSH host keys from Jenkins Docker images ssh-agent (CVE-2025-32754) / ssh-slave (CVE-2025-32755)
