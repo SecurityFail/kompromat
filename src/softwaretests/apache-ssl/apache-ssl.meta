@@ -1,0 +1,4 @@
+uri = https://boileri.nic.funet.fi/pub/crypt/archive/idea.sec.dsi.unimi.it/code/apache_ssl_0.4.2a.tar.gz
+uri = https://boileri.nic.funet.fi/pub/crypt/archive/utopia.hacktic.nl/redhat/unsorted/apache-ssl-1.3.9_1.37-2.src.rpm
+uri = http://mirrors.unoc.net/www.apache-ssl.org/
+desc = Example keys from the Apache-SSL (alternative to modssl in the early SSL days)
