@@ -1,0 +1,2 @@
+uri = ftp://ftp.ovh.net/made-in-ovh/centos/centos.tar.gz
+desc = SSH keys extracted from "centos.tar.gz", found on OVH's ftp
