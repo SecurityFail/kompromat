@@ -1,0 +1,76 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=FR, ST=Some-State, O=Nessus Users United, OU=Certification Authority for thoe, CN=thoe/emailAddress=ca@thoe
+        Validity
+            Not Before: Aug 23 08:02:07 2006 GMT
+            Not After : Aug 23 08:02:07 2007 GMT
+        Subject: C=FR, ST=Some-State, O=Nessus Users United, OU=Server certificate for thoe, CN=thoe/emailAddress=nessusd@thoe
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (1024 bit)
+                Modulus (1024 bit):
+                    00:c3:f5:80:2f:b2:79:d8:17:d8:ad:d7:98:50:6e:
+                    73:84:3e:80:48:e0:9b:07:ae:9a:e2:14:60:f5:6c:
+                    6c:19:46:fe:e1:c4:79:a2:d9:2d:92:f3:dc:92:03:
+                    03:f9:1f:1d:11:36:be:f9:68:75:d6:7c:0f:4e:da:
+                    cb:fa:c2:87:b6:9f:84:69:3c:da:96:a7:14:cf:12:
+                    5a:8a:af:e0:5e:b7:3e:5e:96:22:5f:92:d4:b0:d9:
+                    34:27:c8:2f:70:f1:8e:f1:ca:fc:11:05:71:9a:b7:
+                    53:d3:88:a5:7a:11:94:dc:19:07:ae:12:00:44:fa:
+                    76:dc:d6:8d:78:98:38:48:af
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            Netscape Cert Type: 
+                SSL Server
+            X509v3 Key Usage: 
+                Digital Signature, Non Repudiation, Key Encipherment
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                AE:2F:CA:AC:36:68:D0:52:51:6F:A0:F2:39:66:56:B1:95:55:A2:90
+            X509v3 Authority Key Identifier: 
+                keyid:7A:65:52:5E:52:A3:9C:6E:60:40:08:49:55:AC:28:44:9F:E0:EC:3B
+                DirName:/C=FR/ST=Some-State/O=Nessus Users United/OU=Certification Authority for thoe/CN=thoe/emailAddress=ca@thoe
+                serial:C7:9B:C9:8C:56:C8:69:7C
+
+            X509v3 Subject Alternative Name: 
+                email:nessusd@thoe
+            X509v3 Issuer Alternative Name: 
+                <EMPTY>
+
+    Signature Algorithm: md5WithRSAEncryption
+        64:7a:5e:ed:b8:3f:95:7f:fd:3d:83:df:8d:84:42:fd:19:8e:
+        10:1f:d7:0f:f9:28:8b:4a:1f:97:8c:02:65:dc:5f:69:25:09:
+        e5:59:ba:f4:27:a8:3f:10:fb:91:9e:26:a7:40:23:8f:d8:a8:
+        e0:a7:f6:26:5a:3c:af:2c:26:a1:4a:96:11:bc:fd:5b:da:05:
+        88:1b:ee:65:bb:6f:bd:bf:72:05:4a:43:d0:31:d7:4b:5b:50:
+        f1:ea:81:3b:6d:43:26:04:0b:16:b0:d2:cf:0d:01:05:2f:61:
+        14:06:e1:c0:8a:6c:59:fa:3e:47:9b:e7:ba:c9:2c:57:4f:27:
+        61:9e
+-----BEGIN CERTIFICATE-----
+MIID/TCCA2agAwIBAgIBATANBgkqhkiG9w0BAQQFADCBkjELMAkGA1UEBhMCRlIx
+EzARBgNVBAgTClNvbWUtU3RhdGUxHDAaBgNVBAoTE05lc3N1cyBVc2VycyBVbml0
+ZWQxKTAnBgNVBAsTIENlcnRpZmljYXRpb24gQXV0aG9yaXR5IGZvciB0aG9lMQ0w
+CwYDVQQDEwR0aG9lMRYwFAYJKoZIhvcNAQkBFgdjYUB0aG9lMB4XDTA2MDgyMzA4
+MDIwN1oXDTA3MDgyMzA4MDIwN1owgZIxCzAJBgNVBAYTAkZSMRMwEQYDVQQIEwpT
+b21lLVN0YXRlMRwwGgYDVQQKExNOZXNzdXMgVXNlcnMgVW5pdGVkMSQwIgYDVQQL
+ExtTZXJ2ZXIgY2VydGlmaWNhdGUgZm9yIHRob2UxDTALBgNVBAMTBHRob2UxGzAZ
+BgkqhkiG9w0BCQEWDG5lc3N1c2RAdGhvZTCBnzANBgkqhkiG9w0BAQEFAAOBjQAw
+gYkCgYEAw/WAL7J52BfYrdeYUG5zhD6ASOCbB66a4hRg9WxsGUb+4cR5otktkvPc
+kgMD+R8dETa++Wh11nwPTtrL+sKHtp+EaTzalqcUzxJaiq/gXrc+XpYiX5LUsNk0
+J8gvcPGO8cr8EQVxmrdT04ilehGU3BkHrhIARPp23NaNeJg4SK8CAwEAAaOCAV8w
+ggFbMBEGCWCGSAGG+EIBAQQEAwIGQDALBgNVHQ8EBAMCBeAwLAYJYIZIAYb4QgEN
+BB8WHU9wZW5TU0wgR2VuZXJhdGVkIENlcnRpZmljYXRlMB0GA1UdDgQWBBSuL8qs
+NmjQUlFvoPI5ZlaxlVWikDCBxwYDVR0jBIG/MIG8gBR6ZVJeUqOcbmBACElVrChE
+n+DsO6GBmKSBlTCBkjELMAkGA1UEBhMCRlIxEzARBgNVBAgTClNvbWUtU3RhdGUx
+HDAaBgNVBAoTE05lc3N1cyBVc2VycyBVbml0ZWQxKTAnBgNVBAsTIENlcnRpZmlj
+YXRpb24gQXV0aG9yaXR5IGZvciB0aG9lMQ0wCwYDVQQDEwR0aG9lMRYwFAYJKoZI
+hvcNAQkBFgdjYUB0aG9lggkAx5vJjFbIaXwwFwYDVR0RBBAwDoEMbmVzc3VzZEB0
+aG9lMAkGA1UdEgQCMAAwDQYJKoZIhvcNAQEEBQADgYEAZHpe7bg/lX/9PYPfjYRC
+/RmOEB/XD/koi0ofl4wCZdxfaSUJ5Vm69CeoPxD7kZ4mp0Ajj9io4Kf2Jlo8rywm
+oUqWEbz9W9oFiBvuZbtvvb9yBUpD0DHXS1tQ8eqBO21DJgQLFrDSzw0BBS9hFAbh
+wIpsWfo+R5vnusksV08nYZ4=
+-----END CERTIFICATE-----
