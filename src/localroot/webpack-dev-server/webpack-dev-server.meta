@@ -1,0 +1,2 @@
+url = https://github.com/webpack/webpack-dev-server/blob/662bc31a4fc44b6888b5a0baff9ee96fef049cdb/ssl/server.pem
+desc = WebPack Development Server Local Root CA
