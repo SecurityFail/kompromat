@@ -1,0 +1,3 @@
+url = https://github.com/developit/preact-cli/blob/883c0822e9b7793585fe93c0b003477d037269c0/src/resources/key.pem
+url = https://github.com/developit/preact-cli/blob/883c0822e9b7793585fe93c0b003477d037269c0/src/resources/cert.pem
+desc = preact-cli local root CA
